@@ -1,5 +1,6 @@
-·äx
-mapa_okrsku(€ CIS_OBEC
+àµx
+mapa_okrsku(€ 
+Unnamed: 0CIS_OBEC
 CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sledekVÃ­tÄ›z"
 ANO"
 SPD"
@@ -48,7 +49,6 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 BuÅ¡Ã­n - okrsek Ä. 1"
 ChoceÅˆ - okrsek Ä. 1"
 ChoceÅˆ - okrsek Ä. 2"
-ChoceÅˆ - okrsek Ä. 3"
 ChoceÅˆ - okrsek Ä. 4"
 ChoceÅˆ - okrsek Ä. 5"
 ChoceÅˆ - okrsek Ä. 6"
@@ -82,12 +82,10 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 Vamberk - okrsek Ä. 2"
 Vamberk - okrsek Ä. 3"
 Vamberk - okrsek Ä. 4"
-Vamberk - okrsek Ä. 5"
 Vamberk - okrsek Ä. 6"
 VlÄkov - okrsek Ä. 1"
 ZÃ¡mÄ›l - okrsek Ä. 1"
 ÄŒistÃ¡ - okrsek Ä. 1"
-Å tÃ­ty - okrsek Ä. 1"
 Å tÃ­ty - okrsek Ä. 2"
 Å tÃ­ty - okrsek Ä. 3"
 Å tÃ­ty - okrsek Ä. 4"
@@ -154,13 +152,11 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 Chotovice - okrsek Ä. 1"
 ChotÄ›nov - okrsek Ä. 1"
 DamnÃ­kov - okrsek Ä. 1"
-DobruÅ¡ka - okrsek Ä. 1"
 DobruÅ¡ka - okrsek Ä. 2"
 DobruÅ¡ka - okrsek Ä. 3"
 DobruÅ¡ka - okrsek Ä. 4"
 DobruÅ¡ka - okrsek Ä. 5"
 DobruÅ¡ka - okrsek Ä. 6"
-DobruÅ¡ka - okrsek Ä. 7"
 DobruÅ¡ka - okrsek Ä. 8"
 DobruÅ¡ka - okrsek Ä. 9"
 DÅ¾bÃ¡nov - okrsek Ä. 1"
@@ -186,7 +182,6 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 LitomyÅ¡l - okrsek Ä. 3"
 LitomyÅ¡l - okrsek Ä. 4"
 LitomyÅ¡l - okrsek Ä. 5"
-LitomyÅ¡l - okrsek Ä. 6"
 LitomyÅ¡l - okrsek Ä. 7"
 LitomyÅ¡l - okrsek Ä. 8"
 LitomyÅ¡l - okrsek Ä. 9"
@@ -235,7 +230,6 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 LanÅ¡kroun - okrsek Ä. 6"
 LanÅ¡kroun - okrsek Ä. 7"
 LanÅ¡kroun - okrsek Ä. 8"
-LitomyÅ¡l - okrsek Ä. 10"
 LitomyÅ¡l - okrsek Ä. 12"
 LitomyÅ¡l - okrsek Ä. 13"
 LitomyÅ¡l - okrsek Ä. 14"
@@ -331,9 +325,7 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
  ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 4""
  ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 5""
  ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 6""
- ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 7""
  ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 8""
- ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 9""
  ÄŒeskÃ© Petrovice - okrsek Ä. 1"#
 !AnenskÃ¡ StudÃ¡nka - okrsek Ä. 1"#
 !JamnÃ© nad OrlicÃ­ - okrsek Ä. 1"#
@@ -346,15 +338,9 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 !ÃšstÃ­ nad OrlicÃ­ - okrsek Ä. 2"#
 !ÃšstÃ­ nad OrlicÃ­ - okrsek Ä. 3"#
 !ÃšstÃ­ nad OrlicÃ­ - okrsek Ä. 4"#
-!ÃšstÃ­ nad OrlicÃ­ - okrsek Ä. 5"#
-!ÃšstÃ­ nad OrlicÃ­ - okrsek Ä. 6"#
 !ÃšstÃ­ nad OrlicÃ­ - okrsek Ä. 7"#
-!ÃšstÃ­ nad OrlicÃ­ - okrsek Ä. 8"#
-!ÃšstÃ­ nad OrlicÃ­ - okrsek Ä. 9"#
 !ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 10"#
-!ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 11"#
 !ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 12"#
-!ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 13"#
 !ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 14"#
 !ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 15"#
 !ÄŒeskÃ¡ TÅ™ebovÃ¡ - okrsek Ä. 16"#
@@ -374,7 +360,6 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 #Doudleby nad OrlicÃ­ - okrsek Ä. 1"%
 #Doudleby nad OrlicÃ­ - okrsek Ä. 2"%
 #Kostelec nad OrlicÃ­ - okrsek Ä. 1"%
-#Kostelec nad OrlicÃ­ - okrsek Ä. 2"%
 #Kostelec nad OrlicÃ­ - okrsek Ä. 3"%
 #Kostelec nad OrlicÃ­ - okrsek Ä. 4"%
 #Kostelec nad OrlicÃ­ - okrsek Ä. 5"%
@@ -394,13 +379,9 @@ $Rychnov nad KnÄ›Å¾nou - okrsek Ä. 2"&
 $Rychnov nad KnÄ›Å¾nou - okrsek Ä. 3"&
 $Rychnov nad KnÄ›Å¾nou - okrsek Ä. 4"&
 $Rychnov nad KnÄ›Å¾nou - okrsek Ä. 5"&
-$Rychnov nad KnÄ›Å¾nou - okrsek Ä. 6"&
-$Rychnov nad KnÄ›Å¾nou - okrsek Ä. 7"&
-$Rychnov nad KnÄ›Å¾nou - okrsek Ä. 8"&
 $Rychnov nad KnÄ›Å¾nou - okrsek Ä. 9"&
 $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 %Cerekvice nad LouÄnou - okrsek Ä. 1"'
-%Rychnov nad KnÄ›Å¾nou - okrsek Ä. 10"'
 %Rychnov nad KnÄ›Å¾nou - okrsek Ä. 11"'
 %Rychnov nad KnÄ›Å¾nou - okrsek Ä. 12"'
 %Rychnov nad KnÄ›Å¾nou - okrsek Ä. 13"'
@@ -479,11 +460,9 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ‘SPOLU (43 hl., 30,71 %) | ANO (29 hl., 20,71 %) | PirÃ¡ti+STAN (26 hl., 18,57 %) | SPD (14 hl., 10,0 %) | KSÄŒM (12 hl., 8,57 %) | ÄŒSSD (7 hl., 5,0 %) | PÅ˜ÃSAHA (5 hl., 3,57 %) | ZelenÃ­ (1 hl., 0,71 %) | TSS (1 hl., 0,71 %) | APB (1 hl., 0,71 %) | OtÄŒe (1 hl., 0,71 %)"”
 ‘SPOLU (48 hl., 28,07 %) | PirÃ¡ti+STAN (41 hl., 23,98 %) | ANO (41 hl., 23,98 %) | SPD (15 hl., 8,77 %) | KSÄŒM (9 hl., 5,26 %) | ÄŒSSD (5 hl., 2,92 %) | PÅ˜ÃSAHA (5 hl., 2,92 %) | ZelenÃ­ (2 hl., 1,17 %) | TSS (2 hl., 1,17 %) | OtÄŒe (2 hl., 1,17 %) | APB (1 hl., 0,58 %)"”
 ‘ANO (107 hl., 36,27 %) | SPOLU (59 hl., 20,0 %) | SPD (41 hl., 13,9 %) | PirÃ¡ti+STAN (17 hl., 5,76 %) | ÄŒSSD (16 hl., 5,42 %) | KSÄŒM (16 hl., 5,42 %) | PÅ˜ÃSAHA (14 hl., 4,75 %) | VolnÃ½ blok (10 hl., 3,39 %) | TSS (5 hl., 1,69 %) | MoravanÃ© (3 hl., 1,02 %) | Monarchiste.cz (2 hl., 0,68 %) | OtÄŒe (2 hl., 0,68 %) | APB (1 hl., 0,34 %) | PRAMENY (1 hl., 0,34 %) | Nevolte Urza.cz (1 hl., 0,34 %)"”
-‘SPOLU (110 hl., 28,21 %) | ANO (108 hl., 27,69 %) | PirÃ¡ti+STAN (45 hl., 11,54 %) | SPD (36 hl., 9,23 %) | KSÄŒM (27 hl., 6,92 %) | ÄŒSSD (23 hl., 5,9 %) | PÅ˜ÃSAHA (15 hl., 3,85 %) | TSS (12 hl., 3,08 %) | VolnÃ½ blok (4 hl., 1,03 %) | PRAMENY (3 hl., 0,77 %) | OtÄŒe (3 hl., 0,77 %) | ZelenÃ­ (1 hl., 0,26 %) | ANS (1 hl., 0,26 %) | Nevolte Urza.cz (1 hl., 0,26 %) | Monarchiste.cz (1 hl., 0,26 %)"”
 ‘SPOLU (255 hl., 31,44 %) | ANO (198 hl., 24,41 %) | PirÃ¡ti+STAN (144 hl., 17,76 %) | SPD (69 hl., 8,51 %) | PÅ˜ÃSAHA (57 hl., 7,03 %) | ÄŒSSD (31 hl., 3,82 %) | TSS (18 hl., 2,22 %) | KSÄŒM (17 hl., 2,1 %) | ZelenÃ­ (6 hl., 0,74 %) | VolnÃ½ blok (4 hl., 0,49 %) | OtÄŒe (4 hl., 0,49 %) | Å vÃ½car. demokr. (3 hl., 0,37 %) | APB (3 hl., 0,37 %) | ANS (1 hl., 0,12 %) | Nevolte Urza.cz (1 hl., 0,12 %)"•
 ’ANO (175 hl., 26,48 %) | SPOLU (167 hl., 25,26 %) | PirÃ¡ti+STAN (92 hl., 13,92 %) | SPD (78 hl., 11,8 %) | PÅ˜ÃSAHA (57 hl., 8,62 %) | ÄŒSSD (33 hl., 4,99 %) | TSS (16 hl., 2,42 %) | KSÄŒM (13 hl., 1,97 %) | VolnÃ½ blok (11 hl., 1,66 %) | ZelenÃ­ (10 hl., 1,51 %) | APB (2 hl., 0,3 %) | Monarchiste.cz (2 hl., 0,3 %) | OtÄŒe (2 hl., 0,3 %) | MoravanÃ© (2 hl., 0,3 %) | Nevolte Urza.cz (1 hl., 0,15 %)"•
 ’ANO (196 hl., 31,36 %) | SPOLU (128 hl., 20,48 %) | PirÃ¡ti+STAN (81 hl., 12,96 %) | SPD (80 hl., 12,8 %) | PÅ˜ÃSAHA (35 hl., 5,6 %) | KSÄŒM (31 hl., 4,96 %) | ÄŒSSD (20 hl., 3,2 %) | TSS (17 hl., 2,72 %) | VolnÃ½ blok (12 hl., 1,92 %) | APB (6 hl., 0,96 %) | ZelenÃ­ (5 hl., 0,8 %) | PRAMENY (5 hl., 0,8 %) | Å vÃ½car. demokr. (3 hl., 0,48 %) | Nevolte Urza.cz (3 hl., 0,48 %) | OtÄŒe (3 hl., 0,48 %)"•
-’SPOLU (170 hl., 29,31 %) | ANO (155 hl., 26,72 %) | PirÃ¡ti+STAN (80 hl., 13,79 %) | SPD (64 hl., 11,03 %) | PÅ˜ÃSAHA (26 hl., 4,48 %) | KSÄŒM (22 hl., 3,79 %) | ÄŒSSD (21 hl., 3,62 %) | TSS (16 hl., 2,76 %) | ZelenÃ­ (10 hl., 1,72 %) | VolnÃ½ blok (9 hl., 1,55 %) | Å vÃ½car. demokr. (2 hl., 0,34 %) | APB (2 hl., 0,34 %) | ANS (1 hl., 0,17 %) | Monarchiste.cz (1 hl., 0,17 %) | OtÄŒe (1 hl., 0,17 %)"•
 ’SPOLU (211 hl., 27,16 %) | ANO (193 hl., 24,84 %) | SPD (105 hl., 13,51 %) | PirÃ¡ti+STAN (103 hl., 13,26 %) | PÅ˜ÃSAHA (55 hl., 7,08 %) | ÄŒSSD (41 hl., 5,28 %) | TSS (24 hl., 3,09 %) | KSÄŒM (13 hl., 1,67 %) | VolnÃ½ blok (12 hl., 1,54 %) | ZelenÃ­ (7 hl., 0,9 %) | Å vÃ½car. demokr. (4 hl., 0,51 %) | MoravanÃ© (4 hl., 0,51 %) | PRAMENY (3 hl., 0,39 %) | ANS (1 hl., 0,13 %) | OtÄŒe (1 hl., 0,13 %)"•
 ’SPOLU (218 hl., 32,49 %) | ANO (133 hl., 19,82 %) | PirÃ¡ti+STAN (98 hl., 14,61 %) | SPD (69 hl., 10,28 %) | PÅ˜ÃSAHA (58 hl., 8,64 %) | ÄŒSSD (42 hl., 6,26 %) | TSS (20 hl., 2,98 %) | KSÄŒM (19 hl., 2,83 %) | ZelenÃ­ (4 hl., 0,6 %) | Å vÃ½car. demokr. (3 hl., 0,45 %) | PRAMENY (2 hl., 0,3 %) | OtÄŒe (2 hl., 0,3 %) | VolnÃ½ blok (1 hl., 0,15 %) | ANS (1 hl., 0,15 %) | Monarchiste.cz (1 hl., 0,15 %)"—
 ”ANO (16 hl., 22,54 %) | SPD (14 hl., 19,72 %) | PirÃ¡ti+STAN (13 hl., 18,31 %) | SPOLU (11 hl., 15,49 %) | ÄŒSSD (5 hl., 7,04 %) | PÅ˜ÃSAHA (4 hl., 5,63 %) | KSÄŒM (3 hl., 4,23 %) | APB (2 hl., 2,82 %) | VolnÃ½ blok (1 hl., 1,41 %) | ANS (1 hl., 1,41 %) | TSS (1 hl., 1,41 %)"—
@@ -497,7 +476,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 –SPOLU (45 hl., 28,48 %) | ANO (42 hl., 26,58 %) | PirÃ¡ti+STAN (34 hl., 21,52 %) | SPD (14 hl., 8,86 %) | PÅ˜ÃSAHA (6 hl., 3,8 %) | VolnÃ½ blok (4 hl., 2,53 %) | ÄŒSSD (4 hl., 2,53 %) | KSÄŒM (4 hl., 2,53 %) | ZelenÃ­ (2 hl., 1,27 %) | APB (2 hl., 1,27 %) | TSS (1 hl., 0,63 %)"™
 –SPOLU (68 hl., 38,86 %) | ANO (41 hl., 23,43 %) | SPD (18 hl., 10,29 %) | PirÃ¡ti+STAN (17 hl., 9,71 %) | PÅ˜ÃSAHA (12 hl., 6,86 %) | TSS (6 hl., 3,43 %) | ÄŒSSD (5 hl., 2,86 %) | VolnÃ½ blok (3 hl., 1,71 %) | KSÄŒM (3 hl., 1,71 %) | ANS (1 hl., 0,57 %) | OtÄŒe (1 hl., 0,57 %)"™
 –ANO (112 hl., 23,68 %) | SPOLU (97 hl., 20,51 %) | SPD (90 hl., 19,03 %) | PirÃ¡ti+STAN (63 hl., 13,32 %) | PÅ˜ÃSAHA (30 hl., 6,34 %) | KSÄŒM (23 hl., 4,86 %) | TSS (21 hl., 4,44 %) | ÄŒSSD (13 hl., 2,75 %) | VolnÃ½ blok (10 hl., 2,11 %) | ZelenÃ­ (6 hl., 1,27 %) | PRAMENY (3 hl., 0,63 %) | OtÄŒe (2 hl., 0,42 %) | Å vÃ½car. demokr. (1 hl., 0,21 %) | APB (1 hl., 0,21 %) | Nevolte Urza.cz (1 hl., 0,21 %)"™
-–ANO (195 hl., 31,0 %) | SPOLU (130 hl., 20,67 %) | PirÃ¡ti+STAN (92 hl., 14,63 %) | SPD (77 hl., 12,24 %) | PÅ˜ÃSAHA (48 hl., 7,63 %) | ÄŒSSD (31 hl., 4,93 %) | KSÄŒM (22 hl., 3,5 %) | TSS (10 hl., 1,59 %) | VolnÃ½ blok (9 hl., 1,43 %) | ZelenÃ­ (7 hl., 1,11 %) | Å vÃ½car. demokr. (2 hl., 0,32 %) | ANS (2 hl., 0,32 %) | OtÄŒe (2 hl., 0,32 %) | Nevolte Urza.cz (1 hl., 0,16 %) | MoravanÃ© (1 hl., 0,16 %)"™
 –ANO (232 hl., 31,87 %) | SPOLU (189 hl., 25,96 %) | SPD (96 hl., 13,19 %) | PirÃ¡ti+STAN (58 hl., 7,97 %) | ÄŒSSD (43 hl., 5,91 %) | PÅ˜ÃSAHA (35 hl., 4,81 %) | TSS (25 hl., 3,43 %) | KSÄŒM (19 hl., 2,61 %) | VolnÃ½ blok (15 hl., 2,06 %) | OtÄŒe (5 hl., 0,69 %) | ZelenÃ­ (3 hl., 0,41 %) | APB (3 hl., 0,41 %) | Å vÃ½car. demokr. (2 hl., 0,27 %) | Nevolte Urza.cz (2 hl., 0,27 %) | PRAMENY (1 hl., 0,14 %)"™
 –ANO (242 hl., 37,81 %) | SPOLU (143 hl., 22,34 %) | SPD (67 hl., 10,47 %) | PirÃ¡ti+STAN (64 hl., 10,0 %) | KSÄŒM (35 hl., 5,47 %) | ÄŒSSD (28 hl., 4,38 %) | PÅ˜ÃSAHA (25 hl., 3,91 %) | TSS (17 hl., 2,66 %) | ZelenÃ­ (5 hl., 0,78 %) | VolnÃ½ blok (5 hl., 0,78 %) | MoravanÃ© (4 hl., 0,62 %) | Å vÃ½car. demokr. (2 hl., 0,31 %) | APB (1 hl., 0,16 %) | Monarchiste.cz (1 hl., 0,16 %) | OtÄŒe (1 hl., 0,16 %)"™
 –SPOLU (247 hl., 29,58 %) | ANO (243 hl., 29,1 %) | PirÃ¡ti+STAN (105 hl., 12,57 %) | SPD (58 hl., 6,95 %) | PÅ˜ÃSAHA (49 hl., 5,87 %) | ÄŒSSD (44 hl., 5,27 %) | KSÄŒM (30 hl., 3,59 %) | TSS (29 hl., 3,47 %) | VolnÃ½ blok (8 hl., 0,96 %) | ZelenÃ­ (7 hl., 0,84 %) | APB (5 hl., 0,6 %) | OtÄŒe (4 hl., 0,48 %) | Å vÃ½car. demokr. (3 hl., 0,36 %) | Nevolte Urza.cz (2 hl., 0,24 %) | MoravanÃ© (1 hl., 0,12 %)"š
@@ -520,17 +498,13 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 šANO (51 hl., 25,63 %) | SPOLU (47 hl., 23,62 %) | PirÃ¡ti+STAN (36 hl., 18,09 %) | SPD (29 hl., 14,57 %) | VolnÃ½ blok (11 hl., 5,53 %) | PÅ˜ÃSAHA (9 hl., 4,52 %) | ÄŒSSD (6 hl., 3,02 %) | KSÄŒM (4 hl., 2,01 %) | ZelenÃ­ (3 hl., 1,51 %) | TSS (2 hl., 1,01 %) | OtÄŒe (1 hl., 0,5 %)"
 šPirÃ¡ti+STAN (13 hl., 23,21 %) | SPD (12 hl., 21,43 %) | KSÄŒM (7 hl., 12,5 %) | SPOLU (6 hl., 10,71 %) | ANO (6 hl., 10,71 %) | PÅ˜ÃSAHA (4 hl., 7,14 %) | TSS (3 hl., 5,36 %) | OtÄŒe (2 hl., 3,57 %) | ZelenÃ­ (1 hl., 1,79 %) | VolnÃ½ blok (1 hl., 1,79 %) | PRAMENY (1 hl., 1,79 %)"
 šPirÃ¡ti+STAN (26 hl., 30,95 %) | SPOLU (18 hl., 21,43 %) | ANO (16 hl., 19,05 %) | PÅ˜ÃSAHA (8 hl., 9,52 %) | SPD (5 hl., 5,95 %) | TSS (5 hl., 5,95 %) | ÄŒSSD (2 hl., 2,38 %) | ZelenÃ­ (1 hl., 1,19 %) | VolnÃ½ blok (1 hl., 1,19 %) | PRAMENY (1 hl., 1,19 %) | KSÄŒM (1 hl., 1,19 %)"
-šSPOLU (78 hl., 30,83 %) | ANO (73 hl., 28,85 %) | SPD (36 hl., 14,23 %) | PirÃ¡ti+STAN (31 hl., 12,25 %) | ÄŒSSD (12 hl., 4,74 %) | PÅ˜ÃSAHA (7 hl., 2,77 %) | TSS (5 hl., 1,98 %) | OtÄŒe (5 hl., 1,98 %) | ZelenÃ­ (3 hl., 1,19 %) | KSÄŒM (2 hl., 0,79 %) | VolnÃ½ blok (1 hl., 0,4 %)"
-šSPOLU (96 hl., 28,57 %) | ANO (84 hl., 25,0 %) | PirÃ¡ti+STAN (55 hl., 16,37 %) | SPD (36 hl., 10,71 %) | KSÄŒM (22 hl., 6,55 %) | ÄŒSSD (16 hl., 4,76 %) | PÅ˜ÃSAHA (12 hl., 3,57 %) | VolnÃ½ blok (8 hl., 2,38 %) | TSS (3 hl., 0,89 %) | ZelenÃ­ (2 hl., 0,6 %) | OtÄŒe (2 hl., 0,6 %)"
+šSPOLU (78 hl., 30,83 %) | ANO (73 hl., 28,85 %) | SPD (36 hl., 14,23 %) | PirÃ¡ti+STAN (31 hl., 12,25 %) | ÄŒSSD (12 hl., 4,74 %) | PÅ˜ÃSAHA (7 hl., 2,77 %) | TSS (5 hl., 1,98 %) | OtÄŒe (5 hl., 1,98 %) | ZelenÃ­ (3 hl., 1,19 %) | KSÄŒM (2 hl., 0,79 %) | VolnÃ½ blok (1 hl., 0,4 %)"
 šANO (90 hl., 28,94 %) | SPOLU (44 hl., 14,15 %) | PirÃ¡ti+STAN (41 hl., 13,18 %) | SPD (38 hl., 12,22 %) | PÅ˜ÃSAHA (26 hl., 8,36 %) | ÄŒSSD (21 hl., 6,75 %) | KSÄŒM (20 hl., 6,43 %) | VolnÃ½ blok (14 hl., 4,5 %) | TSS (7 hl., 2,25 %) | ZelenÃ­ (5 hl., 1,61 %) | Å vÃ½car. demokr. (1 hl., 0,32 %) | ANS (1 hl., 0,32 %) | Nevolte Urza.cz (1 hl., 0,32 %) | Monarchiste.cz (1 hl., 0,32 %) | OtÄŒe (1 hl., 0,32 %)"
 ›SPOLU (16 hl., 20,0 %) | SPD (14 hl., 17,5 %) | ANO (14 hl., 17,5 %) | KSÄŒM (13 hl., 16,25 %) | PirÃ¡ti+STAN (10 hl., 12,5 %) | ZelenÃ­ (3 hl., 3,75 %) | VolnÃ½ blok (3 hl., 3,75 %) | TSS (3 hl., 3,75 %) | MoravanÃ© (2 hl., 2,5 %) | ÄŒSSD (1 hl., 1,25 %) | PÅ˜ÃSAHA (1 hl., 1,25 %)"Ÿ
 œPirÃ¡ti+STAN (25 hl., 42,37 %) | SPOLU (18 hl., 30,51 %) | ANO (10 hl., 16,95 %) | PÅ˜ÃSAHA (3 hl., 5,08 %) | ÄŒSSD (2 hl., 3,39 %) | KSÄŒM (1 hl., 1,69 %)"Ÿ
-œANO (162 hl., 32,34 %) | SPOLU (124 hl., 24,75 %) | PirÃ¡ti+STAN (74 hl., 14,77 %) | SPD (57 hl., 11,38 %) | PÅ˜ÃSAHA (22 hl., 4,39 %) | ÄŒSSD (16 hl., 3,19 %) | KSÄŒM (14 hl., 2,79 %) | TSS (12 hl., 2,4 %) | VolnÃ½ blok (8 hl., 1,6 %) | ZelenÃ­ (6 hl., 1,2 %) | OtÄŒe (4 hl., 0,8 %)"Ÿ
 œSPOLU (83 hl., 39,15 %) | ANO (40 hl., 18,87 %) | SPD (25 hl., 11,79 %) | PirÃ¡ti+STAN (23 hl., 10,85 %) | PÅ˜ÃSAHA (13 hl., 6,13 %) | ÄŒSSD (11 hl., 5,19 %) | TSS (9 hl., 4,25 %) | KSÄŒM (4 hl., 1,89 %) | OtÄŒe (2 hl., 0,94 %) | ZelenÃ­ (1 hl., 0,47 %) | VolnÃ½ blok (1 hl., 0,47 %)"Ÿ
 œSPOLU (109 hl., 31,87 %) | ANO (92 hl., 26,9 %) | SPD (38 hl., 11,11 %) | PirÃ¡ti+STAN (36 hl., 10,53 %) | TSS (21 hl., 6,14 %) | PÅ˜ÃSAHA (18 hl., 5,26 %) | ÄŒSSD (10 hl., 2,92 %) | KSÄŒM (6 hl., 1,75 %) | Å vÃ½car. demokr. (3 hl., 0,88 %) | Nevolte Urza.cz (3 hl., 0,88 %) | VolnÃ½ blok (2 hl., 0,58 %) | ZelenÃ­ (1 hl., 0,29 %) | APB (1 hl., 0,29 %) | PRAMENY (1 hl., 0,29 %) | Monarchiste.cz (1 hl., 0,29 %)"Ÿ
-œSPOLU (217 hl., 27,4 %) | ANO (213 hl., 26,89 %) | PirÃ¡ti+STAN (119 hl., 15,03 %) | SPD (81 hl., 10,23 %) | ÄŒSSD (45 hl., 5,68 %) | PÅ˜ÃSAHA (43 hl., 5,43 %) | KSÄŒM (27 hl., 3,41 %) | TSS (17 hl., 2,15 %) | ZelenÃ­ (9 hl., 1,14 %) | MoravanÃ© (7 hl., 0,88 %) | Å vÃ½car. demokr. (4 hl., 0,51 %) | PRAMENY (4 hl., 0,51 %) | VolnÃ½ blok (3 hl., 0,38 %) | OtÄŒe (2 hl., 0,25 %) | Nevolte Urza.cz (1 hl., 0,13 %)" 
-SPOLU (130 hl., 25,49 %) | ANO (122 hl., 23,92 %) | SPD (70 hl., 13,73 %) | PirÃ¡ti+STAN (61 hl., 11,96 %) | PÅ˜ÃSAHA (39 hl., 7,65 %) | ÄŒSSD (28 hl., 5,49 %) | VolnÃ½ blok (15 hl., 2,94 %) | KSÄŒM (14 hl., 2,75 %) | TSS (13 hl., 2,55 %) | ZelenÃ­ (10 hl., 1,96 %) | Å vÃ½car. demokr. (2 hl., 0,39 %) | APB (2 hl., 0,39 %) | OtÄŒe (2 hl., 0,39 %) | Nevolte Urza.cz (1 hl., 0,2 %) | Monarchiste.cz (1 hl., 0,2 %)"¡
-SPOLU (165 hl., 47,01 %) | PirÃ¡ti+STAN (69 hl., 19,66 %) | ANO (59 hl., 16,81 %) | PÅ˜ÃSAHA (12 hl., 3,42 %) | SPD (11 hl., 3,13 %) | KSÄŒM (10 hl., 2,85 %) | ÄŒSSD (8 hl., 2,28 %) | TSS (6 hl., 1,71 %) | ZelenÃ­ (5 hl., 1,42 %) | VolnÃ½ blok (4 hl., 1,14 %) | PRAMENY (2 hl., 0,57 %)"¡
+œSPOLU (217 hl., 27,4 %) | ANO (213 hl., 26,89 %) | PirÃ¡ti+STAN (119 hl., 15,03 %) | SPD (81 hl., 10,23 %) | ÄŒSSD (45 hl., 5,68 %) | PÅ˜ÃSAHA (43 hl., 5,43 %) | KSÄŒM (27 hl., 3,41 %) | TSS (17 hl., 2,15 %) | ZelenÃ­ (9 hl., 1,14 %) | MoravanÃ© (7 hl., 0,88 %) | Å vÃ½car. demokr. (4 hl., 0,51 %) | PRAMENY (4 hl., 0,51 %) | VolnÃ½ blok (3 hl., 0,38 %) | OtÄŒe (2 hl., 0,25 %) | Nevolte Urza.cz (1 hl., 0,13 %)"¡
 SPOLU (22 hl., 27,5 %) | PirÃ¡ti+STAN (16 hl., 20,0 %) | ANO (16 hl., 20,0 %) | SPD (6 hl., 7,5 %) | PÅ˜ÃSAHA (6 hl., 7,5 %) | ÄŒSSD (3 hl., 3,75 %) | KSÄŒM (3 hl., 3,75 %) | TSS (2 hl., 2,5 %) | APB (2 hl., 2,5 %) | OtÄŒe (2 hl., 2,5 %) | ZelenÃ­ (1 hl., 1,25 %) | ANS (1 hl., 1,25 %)"¡
 SPOLU (67 hl., 30,45 %) | ANO (49 hl., 22,27 %) | PirÃ¡ti+STAN (32 hl., 14,55 %) | SPD (24 hl., 10,91 %) | PÅ˜ÃSAHA (17 hl., 7,73 %) | ÄŒSSD (12 hl., 5,45 %) | TSS (8 hl., 3,64 %) | KSÄŒM (6 hl., 2,73 %) | ZelenÃ­ (2 hl., 0,91 %) | PRAMENY (2 hl., 0,91 %) | VolnÃ½ blok (1 hl., 0,45 %)"¡
 SPOLU (303 hl., 41,79 %) | ANO (168 hl., 23,17 %) | PirÃ¡ti+STAN (110 hl., 15,17 %) | PÅ˜ÃSAHA (52 hl., 7,17 %) | SPD (30 hl., 4,14 %) | ÄŒSSD (19 hl., 2,62 %) | KSÄŒM (13 hl., 1,79 %) | VolnÃ½ blok (9 hl., 1,24 %) | TSS (9 hl., 1,24 %) | ZelenÃ­ (3 hl., 0,41 %) | APB (3 hl., 0,41 %) | Å vÃ½car. demokr. (2 hl., 0,28 %) | Nevolte Urza.cz (2 hl., 0,28 %) | PRAMENY (1 hl., 0,14 %) | Monarchiste.cz (1 hl., 0,14 %)"¢
@@ -585,7 +559,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ³ANO (81 hl., 26,13 %) | SPOLU (67 hl., 21,61 %) | PirÃ¡ti+STAN (42 hl., 13,55 %) | SPD (32 hl., 10,32 %) | KSÄŒM (25 hl., 8,06 %) | PÅ˜ÃSAHA (24 hl., 7,74 %) | ÄŒSSD (23 hl., 7,42 %) | TSS (5 hl., 1,61 %) | ZelenÃ­ (3 hl., 0,97 %) | VolnÃ½ blok (3 hl., 0,97 %) | ANS (3 hl., 0,97 %) | OtÄŒe (2 hl., 0,65 %)"¶
 ³SPOLU (58 hl., 36,94 %) | ANO (44 hl., 28,03 %) | SPD (22 hl., 14,01 %) | PirÃ¡ti+STAN (15 hl., 9,55 %) | PÅ˜ÃSAHA (7 hl., 4,46 %) | KSÄŒM (3 hl., 1,91 %) | OtÄŒe (3 hl., 1,91 %) | ZelenÃ­ (1 hl., 0,64 %) | VolnÃ½ blok (1 hl., 0,64 %) | ÄŒSSD (1 hl., 0,64 %) | TSS (1 hl., 0,64 %) | PRAMENY (1 hl., 0,64 %)"¶
 ³SPOLU (74 hl., 26,91 %) | ANO (73 hl., 26,55 %) | SPD (31 hl., 11,27 %) | PirÃ¡ti+STAN (29 hl., 10,55 %) | ÄŒSSD (19 hl., 6,91 %) | PÅ˜ÃSAHA (18 hl., 6,55 %) | KSÄŒM (12 hl., 4,36 %) | TSS (8 hl., 2,91 %) | ZelenÃ­ (6 hl., 2,18 %) | VolnÃ½ blok (3 hl., 1,09 %) | APB (1 hl., 0,36 %) | OtÄŒe (1 hl., 0,36 %)"¶
-³SPOLU (111 hl., 28,1 %) | ANO (110 hl., 27,85 %) | SPD (44 hl., 11,14 %) | PirÃ¡ti+STAN (41 hl., 10,38 %) | ÄŒSSD (21 hl., 5,32 %) | PÅ˜ÃSAHA (21 hl., 5,32 %) | VolnÃ½ blok (11 hl., 2,78 %) | TSS (11 hl., 2,78 %) | KSÄŒM (11 hl., 2,78 %) | OtÄŒe (4 hl., 1,01 %) | ZelenÃ­ (3 hl., 0,76 %) | Å vÃ½car. demokr. (2 hl., 0,51 %) | APB (2 hl., 0,51 %) | ANS (1 hl., 0,25 %) | Nevolte Urza.cz (1 hl., 0,25 %) | Monarchiste.cz (1 hl., 0,25 %)"¶
 ³SPOLU (241 hl., 37,31 %) | ANO (129 hl., 19,97 %) | PirÃ¡ti+STAN (123 hl., 19,04 %) | PÅ˜ÃSAHA (49 hl., 7,59 %) | SPD (36 hl., 5,57 %) | ÄŒSSD (18 hl., 2,79 %) | VolnÃ½ blok (12 hl., 1,86 %) | TSS (12 hl., 1,86 %) | ZelenÃ­ (6 hl., 0,93 %) | KSÄŒM (6 hl., 0,93 %) | Nevolte Urza.cz (5 hl., 0,77 %) | APB (4 hl., 0,62 %) | OtÄŒe (2 hl., 0,31 %) | Å vÃ½car. demokr. (1 hl., 0,15 %) | ANS (1 hl., 0,15 %) | Monarchiste.cz (1 hl., 0,15 %)"·
 ´ANO (18 hl., 34,62 %) | SPOLU (15 hl., 28,85 %) | SPD (8 hl., 15,38 %) | PirÃ¡ti+STAN (6 hl., 11,54 %) | ZelenÃ­ (3 hl., 5,77 %) | PÅ˜ÃSAHA (1 hl., 1,92 %) | KSÄŒM (1 hl., 1,92 %)"·
 ´ANO (93 hl., 42,08 %) | SPOLU (48 hl., 21,72 %) | KSÄŒM (20 hl., 9,05 %) | SPD (18 hl., 8,14 %) | PirÃ¡ti+STAN (14 hl., 6,33 %) | ÄŒSSD (11 hl., 4,98 %) | PÅ˜ÃSAHA (6 hl., 2,71 %) | VolnÃ½ blok (3 hl., 1,36 %) | MoravanÃ© (3 hl., 1,36 %) | ZelenÃ­ (2 hl., 0,9 %) | OtÄŒe (2 hl., 0,9 %) | TSS (1 hl., 0,45 %)"·
@@ -594,7 +567,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ´SPOLU (44 hl., 33,59 %) | ANO (29 hl., 22,14 %) | PirÃ¡ti+STAN (19 hl., 14,5 %) | PÅ˜ÃSAHA (14 hl., 10,69 %) | SPD (10 hl., 7,63 %) | ÄŒSSD (6 hl., 4,58 %) | KSÄŒM (3 hl., 2,29 %) | TSS (2 hl., 1,53 %) | ZelenÃ­ (1 hl., 0,76 %) | VolnÃ½ blok (1 hl., 0,76 %) | APB (1 hl., 0,76 %) | MoravanÃ© (1 hl., 0,76 %)"·
 ´ANO (82 hl., 26,89 %) | SPOLU (80 hl., 26,23 %) | PirÃ¡ti+STAN (39 hl., 12,79 %) | SPD (33 hl., 10,82 %) | PÅ˜ÃSAHA (18 hl., 5,9 %) | TSS (14 hl., 4,59 %) | ÄŒSSD (12 hl., 3,93 %) | KSÄŒM (11 hl., 3,61 %) | VolnÃ½ blok (6 hl., 1,97 %) | ZelenÃ­ (3 hl., 0,98 %) | Å vÃ½car. demokr. (2 hl., 0,66 %) | ANS (1 hl., 0,33 %) | PRAMENY (1 hl., 0,33 %) | Nevolte Urza.cz (1 hl., 0,33 %) | Monarchiste.cz (1 hl., 0,33 %) | OtÄŒe (1 hl., 0,33 %)"·
 ´SPOLU (367 hl., 32,05 %) | ANO (241 hl., 21,05 %) | PirÃ¡ti+STAN (203 hl., 17,73 %) | SPD (105 hl., 9,17 %) | PÅ˜ÃSAHA (80 hl., 6,99 %) | ÄŒSSD (38 hl., 3,32 %) | TSS (32 hl., 2,79 %) | KSÄŒM (29 hl., 2,53 %) | VolnÃ½ blok (21 hl., 1,83 %) | ZelenÃ­ (10 hl., 0,87 %) | Å vÃ½car. demokr. (7 hl., 0,61 %) | PRAMENY (4 hl., 0,35 %) | OtÄŒe (4 hl., 0,35 %) | MoravanÃ© (2 hl., 0,17 %) | APB (1 hl., 0,09 %) | Monarchiste.cz (1 hl., 0,09 %)"¸
-µANO (105 hl., 28,23 %) | SPOLU (90 hl., 24,19 %) | PirÃ¡ti+STAN (49 hl., 13,17 %) | ÄŒSSD (32 hl., 8,6 %) | SPD (31 hl., 8,33 %) | PÅ˜ÃSAHA (21 hl., 5,65 %) | KSÄŒM (14 hl., 3,76 %) | TSS (13 hl., 3,49 %) | VolnÃ½ blok (8 hl., 2,15 %) | ZelenÃ­ (5 hl., 1,34 %) | PRAMENY (3 hl., 0,81 %) | APB (1 hl., 0,27 %)"¸
 µANO (99 hl., 43,23 %) | SPD (31 hl., 13,54 %) | SPOLU (21 hl., 9,17 %) | PirÃ¡ti+STAN (20 hl., 8,73 %) | ÄŒSSD (13 hl., 5,68 %) | PÅ˜ÃSAHA (13 hl., 5,68 %) | KSÄŒM (13 hl., 5,68 %) | VolnÃ½ blok (11 hl., 4,8 %) | TSS (4 hl., 1,75 %) | APB (2 hl., 0,87 %) | ZelenÃ­ (1 hl., 0,44 %) | MoravanÃ© (1 hl., 0,44 %)"¹
 ¶ANO (139 hl., 29,14 %) | SPOLU (96 hl., 20,13 %) | PirÃ¡ti+STAN (63 hl., 13,21 %) | SPD (48 hl., 10,06 %) | PÅ˜ÃSAHA (46 hl., 9,64 %) | ÄŒSSD (26 hl., 5,45 %) | TSS (20 hl., 4,19 %) | KSÄŒM (18 hl., 3,77 %) | VolnÃ½ blok (13 hl., 2,73 %) | OtÄŒe (4 hl., 0,84 %) | ZelenÃ­ (2 hl., 0,42 %) | ANS (2 hl., 0,42 %)"¹
 ¶SPOLU (29 hl., 30,21 %) | ANO (22 hl., 22,92 %) | SPD (14 hl., 14,58 %) | PirÃ¡ti+STAN (8 hl., 8,33 %) | PÅ˜ÃSAHA (6 hl., 6,25 %) | MoravanÃ© (6 hl., 6,25 %) | TSS (3 hl., 3,12 %) | ZelenÃ­ (2 hl., 2,08 %) | ÄŒSSD (2 hl., 2,08 %) | KSÄŒM (2 hl., 2,08 %) | VolnÃ½ blok (1 hl., 1,04 %) | PRAMENY (1 hl., 1,04 %)"¹
@@ -602,8 +574,7 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ·SPOLU (52 hl., 29,21 %) | ANO (44 hl., 24,72 %) | PirÃ¡ti+STAN (25 hl., 14,04 %) | SPD (12 hl., 6,74 %) | ÄŒSSD (12 hl., 6,74 %) | KSÄŒM (11 hl., 6,18 %) | PÅ˜ÃSAHA (9 hl., 5,06 %) | TSS (5 hl., 2,81 %) | Å vÃ½car. demokr. (4 hl., 2,25 %) | ZelenÃ­ (2 hl., 1,12 %) | APB (1 hl., 0,56 %) | OtÄŒe (1 hl., 0,56 %)"º
 ·ANO (128 hl., 27,12 %) | SPOLU (113 hl., 23,94 %) | PirÃ¡ti+STAN (65 hl., 13,77 %) | SPD (40 hl., 8,47 %) | PÅ˜ÃSAHA (36 hl., 7,63 %) | ÄŒSSD (31 hl., 6,57 %) | KSÄŒM (19 hl., 4,03 %) | TSS (16 hl., 3,39 %) | VolnÃ½ blok (15 hl., 3,18 %) | APB (2 hl., 0,42 %) | PRAMENY (2 hl., 0,42 %) | ZelenÃ­ (1 hl., 0,21 %) | Å vÃ½car. demokr. (1 hl., 0,21 %) | Nevolte Urza.cz (1 hl., 0,21 %) | Monarchiste.cz (1 hl., 0,21 %) | OtÄŒe (1 hl., 0,21 %)"º
 ·SPOLU (120 hl., 28,1 %) | ANO (84 hl., 19,67 %) | PirÃ¡ti+STAN (70 hl., 16,39 %) | SPD (48 hl., 11,24 %) | PÅ˜ÃSAHA (45 hl., 10,54 %) | KSÄŒM (12 hl., 2,81 %) | ÄŒSSD (10 hl., 2,34 %) | TSS (10 hl., 2,34 %) | ZelenÃ­ (9 hl., 2,11 %) | VolnÃ½ blok (8 hl., 1,87 %) | Nevolte Urza.cz (4 hl., 0,94 %) | OtÄŒe (3 hl., 0,7 %) | Å vÃ½car. demokr. (1 hl., 0,23 %) | ANS (1 hl., 0,23 %) | Monarchiste.cz (1 hl., 0,23 %) | MoravanÃ© (1 hl., 0,23 %)"º
-·SPOLU (180 hl., 29,32 %) | ANO (155 hl., 25,24 %) | PirÃ¡ti+STAN (79 hl., 12,87 %) | SPD (55 hl., 8,96 %) | PÅ˜ÃSAHA (39 hl., 6,35 %) | ÄŒSSD (37 hl., 6,03 %) | TSS (24 hl., 3,91 %) | VolnÃ½ blok (20 hl., 3,26 %) | KSÄŒM (11 hl., 1,79 %) | ZelenÃ­ (5 hl., 0,81 %) | APB (3 hl., 0,49 %) | ANS (2 hl., 0,33 %) | Å vÃ½car. demokr. (1 hl., 0,16 %) | Nevolte Urza.cz (1 hl., 0,16 %) | Monarchiste.cz (1 hl., 0,16 %) | MoravanÃ© (1 hl., 0,16 %)"»
-¸ANO (192 hl., 36,57 %) | SPOLU (122 hl., 23,24 %) | PirÃ¡ti+STAN (59 hl., 11,24 %) | SPD (45 hl., 8,57 %) | ÄŒSSD (34 hl., 6,48 %) | PÅ˜ÃSAHA (22 hl., 4,19 %) | KSÄŒM (15 hl., 2,86 %) | TSS (13 hl., 2,48 %) | VolnÃ½ blok (11 hl., 2,1 %) | ZelenÃ­ (6 hl., 1,14 %) | Å vÃ½car. demokr. (1 hl., 0,19 %) | APB (1 hl., 0,19 %) | Nevolte Urza.cz (1 hl., 0,19 %) | Monarchiste.cz (1 hl., 0,19 %) | OtÄŒe (1 hl., 0,19 %) | MoravanÃ© (1 hl., 0,19 %)"¼
+·SPOLU (180 hl., 29,32 %) | ANO (155 hl., 25,24 %) | PirÃ¡ti+STAN (79 hl., 12,87 %) | SPD (55 hl., 8,96 %) | PÅ˜ÃSAHA (39 hl., 6,35 %) | ÄŒSSD (37 hl., 6,03 %) | TSS (24 hl., 3,91 %) | VolnÃ½ blok (20 hl., 3,26 %) | KSÄŒM (11 hl., 1,79 %) | ZelenÃ­ (5 hl., 0,81 %) | APB (3 hl., 0,49 %) | ANS (2 hl., 0,33 %) | Å vÃ½car. demokr. (1 hl., 0,16 %) | Nevolte Urza.cz (1 hl., 0,16 %) | Monarchiste.cz (1 hl., 0,16 %) | MoravanÃ© (1 hl., 0,16 %)"¼
 ¹ANO (113 hl., 33,04 %) | SPD (74 hl., 21,64 %) | SPOLU (70 hl., 20,47 %) | PirÃ¡ti+STAN (33 hl., 9,65 %) | PÅ˜ÃSAHA (19 hl., 5,56 %) | TSS (13 hl., 3,8 %) | KSÄŒM (8 hl., 2,34 %) | ÄŒSSD (6 hl., 1,75 %) | VolnÃ½ blok (2 hl., 0,58 %) | MoravanÃ© (2 hl., 0,58 %) | ZelenÃ­ (1 hl., 0,29 %) | PRAMENY (1 hl., 0,29 %)"¼
 ¹ANO (52 hl., 33,77 %) | SPOLU (34 hl., 22,08 %) | PirÃ¡ti+STAN (26 hl., 16,88 %) | SPD (20 hl., 12,99 %) | PÅ˜ÃSAHA (7 hl., 4,55 %) | ÄŒSSD (6 hl., 3,9 %) | Å vÃ½car. demokr. (2 hl., 1,3 %) | TSS (2 hl., 1,3 %) | Monarchiste.cz (2 hl., 1,3 %) | ANS (1 hl., 0,65 %) | KSÄŒM (1 hl., 0,65 %) | OtÄŒe (1 hl., 0,65 %)"¼
 ¹SPOLU (96 hl., 41,2 %) | PirÃ¡ti+STAN (38 hl., 16,31 %) | ANO (34 hl., 14,59 %) | SPD (19 hl., 8,15 %) | ÄŒSSD (14 hl., 6,01 %) | TSS (11 hl., 4,72 %) | PÅ˜ÃSAHA (10 hl., 4,29 %) | KSÄŒM (4 hl., 1,72 %) | VolnÃ½ blok (3 hl., 1,29 %) | ANS (2 hl., 0,86 %) | Nevolte Urza.cz (1 hl., 0,43 %) | OtÄŒe (1 hl., 0,43 %)"¼
@@ -616,8 +587,7 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ¼SPOLU (80 hl., 25,32 %) | ANO (73 hl., 23,1 %) | PirÃ¡ti+STAN (53 hl., 16,77 %) | SPD (52 hl., 16,46 %) | PÅ˜ÃSAHA (15 hl., 4,75 %) | KSÄŒM (11 hl., 3,48 %) | ÄŒSSD (9 hl., 2,85 %) | TSS (8 hl., 2,53 %) | VolnÃ½ blok (7 hl., 2,22 %) | ZelenÃ­ (6 hl., 1,9 %) | Nevolte Urza.cz (1 hl., 0,32 %) | OtÄŒe (1 hl., 0,32 %)"À
 ½SPD (15 hl., 25,42 %) | ANO (15 hl., 25,42 %) | SPOLU (13 hl., 22,03 %) | PirÃ¡ti+STAN (8 hl., 13,56 %) | ZelenÃ­ (1 hl., 1,69 %) | Å vÃ½car. demokr. (1 hl., 1,69 %) | VolnÃ½ blok (1 hl., 1,69 %) | ÄŒSSD (1 hl., 1,69 %) | TSS (1 hl., 1,69 %) | PÅ˜ÃSAHA (1 hl., 1,69 %) | KSÄŒM (1 hl., 1,69 %) | OtÄŒe (1 hl., 1,69 %)"À
 ½SPOLU (34 hl., 25,0 %) | ANO (32 hl., 23,53 %) | PirÃ¡ti+STAN (21 hl., 15,44 %) | SPD (12 hl., 8,82 %) | ÄŒSSD (11 hl., 8,09 %) | PÅ˜ÃSAHA (9 hl., 6,62 %) | OtÄŒe (5 hl., 3,68 %) | KSÄŒM (4 hl., 2,94 %) | VolnÃ½ blok (3 hl., 2,21 %) | TSS (3 hl., 2,21 %) | Å vÃ½car. demokr. (1 hl., 0,74 %) | PRAMENY (1 hl., 0,74 %)"À
-½SPOLU (76 hl., 30,65 %) | ANO (64 hl., 25,81 %) | PirÃ¡ti+STAN (30 hl., 12,1 %) | SPD (27 hl., 10,89 %) | ÄŒSSD (16 hl., 6,45 %) | PÅ˜ÃSAHA (14 hl., 5,65 %) | KSÄŒM (7 hl., 2,82 %) | TSS (5 hl., 2,02 %) | OtÄŒe (5 hl., 2,02 %) | VolnÃ½ blok (2 hl., 0,81 %) | ZelenÃ­ (1 hl., 0,4 %) | Å vÃ½car. demokr. (1 hl., 0,4 %)"Á
-¾SPOLU (163 hl., 35,82 %) | ANO (97 hl., 21,32 %) | PirÃ¡ti+STAN (84 hl., 18,46 %) | SPD (42 hl., 9,23 %) | ÄŒSSD (18 hl., 3,96 %) | PÅ˜ÃSAHA (16 hl., 3,52 %) | KSÄŒM (13 hl., 2,86 %) | ZelenÃ­ (7 hl., 1,54 %) | TSS (6 hl., 1,32 %) | VolnÃ½ blok (5 hl., 1,1 %) | Å vÃ½car. demokr. (2 hl., 0,44 %) | APB (1 hl., 0,22 %)"Â
+½SPOLU (76 hl., 30,65 %) | ANO (64 hl., 25,81 %) | PirÃ¡ti+STAN (30 hl., 12,1 %) | SPD (27 hl., 10,89 %) | ÄŒSSD (16 hl., 6,45 %) | PÅ˜ÃSAHA (14 hl., 5,65 %) | KSÄŒM (7 hl., 2,82 %) | TSS (5 hl., 2,02 %) | OtÄŒe (5 hl., 2,02 %) | VolnÃ½ blok (2 hl., 0,81 %) | ZelenÃ­ (1 hl., 0,4 %) | Å vÃ½car. demokr. (1 hl., 0,4 %)"Â
 ¿ANO (25 hl., 25,25 %) | SPOLU (24 hl., 24,24 %) | PirÃ¡ti+STAN (11 hl., 11,11 %) | SPD (10 hl., 10,1 %) | KSÄŒM (8 hl., 8,08 %) | PÅ˜ÃSAHA (7 hl., 7,07 %) | ÄŒSSD (5 hl., 5,05 %) | ZelenÃ­ (2 hl., 2,02 %) | VolnÃ½ blok (2 hl., 2,02 %) | TSS (2 hl., 2,02 %) | MoravanÃ© (2 hl., 2,02 %) | Nevolte Urza.cz (1 hl., 1,01 %)"Â
 ¿ANO (54 hl., 25,71 %) | SPOLU (35 hl., 16,67 %) | PÅ˜ÃSAHA (34 hl., 16,19 %) | SPD (31 hl., 14,76 %) | PirÃ¡ti+STAN (24 hl., 11,43 %) | ÄŒSSD (12 hl., 5,71 %) | TSS (6 hl., 2,86 %) | ZelenÃ­ (4 hl., 1,9 %) | KSÄŒM (4 hl., 1,9 %) | VolnÃ½ blok (3 hl., 1,43 %) | Å vÃ½car. demokr. (2 hl., 0,95 %) | OtÄŒe (1 hl., 0,48 %)"Â
 ¿ANO (59 hl., 36,42 %) | SPD (23 hl., 14,2 %) | SPOLU (19 hl., 11,73 %) | PÅ˜ÃSAHA (12 hl., 7,41 %) | TSS (11 hl., 6,79 %) | PirÃ¡ti+STAN (11 hl., 6,79 %) | ÄŒSSD (10 hl., 6,17 %) | KSÄŒM (9 hl., 5,56 %) | ZelenÃ­ (3 hl., 1,85 %) | VolnÃ½ blok (3 hl., 1,85 %) | PRAMENY (1 hl., 0,62 %) | Nevolte Urza.cz (1 hl., 0,62 %)"Â
@@ -632,7 +602,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ÁSPOLU (145 hl., 28,83 %) | ANO (134 hl., 26,64 %) | SPD (65 hl., 12,92 %) | PirÃ¡ti+STAN (65 hl., 12,92 %) | ÄŒSSD (26 hl., 5,17 %) | KSÄŒM (21 hl., 4,17 %) | PÅ˜ÃSAHA (17 hl., 3,38 %) | TSS (11 hl., 2,19 %) | OtÄŒe (5 hl., 0,99 %) | MoravanÃ© (4 hl., 0,8 %) | VolnÃ½ blok (3 hl., 0,6 %) | Nevolte Urza.cz (1 hl., 0,2 %)"Ä
 ÁANO (106 hl., 29,61 %) | SPOLU (84 hl., 23,46 %) | SPD (61 hl., 17,04 %) | PirÃ¡ti+STAN (30 hl., 8,38 %) | KSÄŒM (18 hl., 5,03 %) | PÅ˜ÃSAHA (16 hl., 4,47 %) | ÄŒSSD (11 hl., 3,07 %) | MoravanÃ© (8 hl., 2,23 %) | TSS (8 hl., 2,23 %) | VolnÃ½ blok (5 hl., 1,4 %) | ZelenÃ­ (3 hl., 0,84 %) | PRAMENY (2 hl., 0,56 %) | MZH (2 hl., 0,56 %) | Nevolte Urza.cz (1 hl., 0,28 %) | Monarchiste.cz (1 hl., 0,28 %) | ANS (1 hl., 0,28 %) | OtÄŒe (1 hl., 0,28 %)"Å
 ÂANO (85 hl., 46,7 %) | SPOLU (31 hl., 17,03 %) | PirÃ¡ti+STAN (20 hl., 10,99 %) | SPD (18 hl., 9,89 %) | PÅ˜ÃSAHA (11 hl., 6,04 %) | ÄŒSSD (4 hl., 2,2 %) | KSÄŒM (4 hl., 2,2 %) | TSS (3 hl., 1,65 %) | MoravanÃ© (2 hl., 1,1 %) | ZelenÃ­ (1 hl., 0,55 %) | ANS (1 hl., 0,55 %) | APB (1 hl., 0,55 %) | PRAMENY (1 hl., 0,55 %)"Å
-ÂSPOLU (165 hl., 31,25 %) | ANO (137 hl., 25,95 %) | PirÃ¡ti+STAN (70 hl., 13,26 %) | SPD (42 hl., 7,95 %) | KSÄŒM (32 hl., 6,06 %) | PÅ˜ÃSAHA (28 hl., 5,3 %) | ÄŒSSD (23 hl., 4,36 %) | TSS (20 hl., 3,79 %) | ZelenÃ­ (5 hl., 0,95 %) | OtÄŒe (2 hl., 0,38 %) | Å vÃ½car. demokr. (1 hl., 0,19 %) | VolnÃ½ blok (1 hl., 0,19 %)"Å
 ÂSPOLU (95 hl., 29,14 %) | ANO (63 hl., 19,33 %) | PirÃ¡ti+STAN (51 hl., 15,64 %) | SPD (41 hl., 12,58 %) | PÅ˜ÃSAHA (18 hl., 5,52 %) | ÄŒSSD (16 hl., 4,91 %) | TSS (13 hl., 3,99 %) | VolnÃ½ blok (12 hl., 3,68 %) | KSÄŒM (8 hl., 2,45 %) | ZelenÃ­ (3 hl., 0,92 %) | Å vÃ½car. demokr. (3 hl., 0,92 %) | OtÄŒe (3 hl., 0,92 %)"Æ
 ÃANO (94 hl., 33,33 %) | SPD (52 hl., 18,44 %) | SPOLU (50 hl., 17,73 %) | ÄŒSSD (20 hl., 7,09 %) | PirÃ¡ti+STAN (18 hl., 6,38 %) | TSS (17 hl., 6,03 %) | KSÄŒM (12 hl., 4,26 %) | PÅ˜ÃSAHA (10 hl., 3,55 %) | VolnÃ½ blok (5 hl., 1,77 %) | Nevolte Urza.cz (2 hl., 0,71 %) | ZelenÃ­ (1 hl., 0,35 %) | MoravanÃ© (1 hl., 0,35 %)"Æ
 ÃSPOLU (181 hl., 34,87 %) | ANO (132 hl., 25,43 %) | PirÃ¡ti+STAN (70 hl., 13,49 %) | PÅ˜ÃSAHA (30 hl., 5,78 %) | KSÄŒM (30 hl., 5,78 %) | TSS (21 hl., 4,05 %) | SPD (19 hl., 3,66 %) | ÄŒSSD (19 hl., 3,66 %) | VolnÃ½ blok (6 hl., 1,16 %) | ZelenÃ­ (5 hl., 0,96 %) | PRAMENY (1 hl., 0,19 %) | Nevolte Urza.cz (1 hl., 0,19 %)"Ç
@@ -658,7 +627,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ÊSPOLU (20 hl., 37,74 %) | ANO (18 hl., 33,96 %) | SPD (5 hl., 9,43 %) | PirÃ¡ti+STAN (4 hl., 7,55 %) | ZelenÃ­ (2 hl., 3,77 %) | KSÄŒM (2 hl., 3,77 %) | ÄŒSSD (1 hl., 1,89 %) | PÅ˜ÃSAHA (1 hl., 1,89 %)"Í
 ÊANO (73 hl., 29,2 %) | SPOLU (51 hl., 20,4 %) | SPD (34 hl., 13,6 %) | PirÃ¡ti+STAN (28 hl., 11,2 %) | KSÄŒM (19 hl., 7,6 %) | PÅ˜ÃSAHA (17 hl., 6,8 %) | ÄŒSSD (12 hl., 4,8 %) | VolnÃ½ blok (7 hl., 2,8 %) | TSS (5 hl., 2,0 %) | APB (1 hl., 0,4 %) | Nevolte Urza.cz (1 hl., 0,4 %) | OtÄŒe (1 hl., 0,4 %) | MoravanÃ© (1 hl., 0,4 %)"Í
 ÊANO (80 hl., 33,47 %) | SPOLU (39 hl., 16,32 %) | PirÃ¡ti+STAN (31 hl., 12,97 %) | SPD (26 hl., 10,88 %) | PÅ˜ÃSAHA (20 hl., 8,37 %) | KSÄŒM (18 hl., 7,53 %) | VolnÃ½ blok (8 hl., 3,35 %) | ÄŒSSD (7 hl., 2,93 %) | TSS (5 hl., 2,09 %) | ZelenÃ­ (2 hl., 0,84 %) | Å vÃ½car. demokr. (2 hl., 0,84 %) | Nevolte Urza.cz (1 hl., 0,42 %)"Í
-ÊANO (134 hl., 27,13 %) | SPOLU (124 hl., 25,1 %) | PirÃ¡ti+STAN (72 hl., 14,57 %) | SPD (43 hl., 8,7 %) | ÄŒSSD (31 hl., 6,28 %) | PÅ˜ÃSAHA (27 hl., 5,47 %) | TSS (24 hl., 4,86 %) | KSÄŒM (14 hl., 2,83 %) | ZelenÃ­ (8 hl., 1,62 %) | VolnÃ½ blok (7 hl., 1,42 %) | OtÄŒe (4 hl., 0,81 %) | Å vÃ½car. demokr. (1 hl., 0,2 %) | Nevolte Urza.cz (1 hl., 0,2 %) | Monarchiste.cz (1 hl., 0,2 %) | PRAMENY (1 hl., 0,2 %) | ANS (1 hl., 0,2 %) | MoravanÃ© (1 hl., 0,2 %)"Í
 ÊSPOLU (171 hl., 28,74 %) | ANO (119 hl., 20,0 %) | PirÃ¡ti+STAN (109 hl., 18,32 %) | SPD (56 hl., 9,41 %) | PÅ˜ÃSAHA (35 hl., 5,88 %) | ÄŒSSD (27 hl., 4,54 %) | VolnÃ½ blok (22 hl., 3,7 %) | TSS (19 hl., 3,19 %) | KSÄŒM (14 hl., 2,35 %) | ZelenÃ­ (5 hl., 0,84 %) | ANS (4 hl., 0,67 %) | APB (4 hl., 0,67 %) | PRAMENY (3 hl., 0,5 %) | OtÄŒe (3 hl., 0,5 %) | Monarchiste.cz (2 hl., 0,34 %) | Nevolte Urza.cz (1 hl., 0,17 %) | Å vÃ½car. demokr. (1 hl., 0,17 %)"Ï
 ÌSPOLU (87 hl., 33,72 %) | ANO (76 hl., 29,46 %) | PirÃ¡ti+STAN (28 hl., 10,85 %) | SPD (26 hl., 10,08 %) | TSS (13 hl., 5,04 %) | PÅ˜ÃSAHA (10 hl., 3,88 %) | ÄŒSSD (6 hl., 2,33 %) | VolnÃ½ blok (3 hl., 1,16 %) | PRAMENY (3 hl., 1,16 %) | KSÄŒM (2 hl., 0,78 %) | OtÄŒe (2 hl., 0,78 %) | ZelenÃ­ (1 hl., 0,39 %) | ANS (1 hl., 0,39 %)"Ğ
 ÍANO (12 hl., 27,27 %) | SPOLU (8 hl., 18,18 %) | PÅ˜ÃSAHA (7 hl., 15,91 %) | PirÃ¡ti+STAN (5 hl., 11,36 %) | ÄŒSSD (4 hl., 9,09 %) | SPD (3 hl., 6,82 %) | TSS (3 hl., 6,82 %) | VolnÃ½ blok (2 hl., 4,55 %)"Ñ
@@ -682,7 +650,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ÓSPOLU (200 hl., 32,57 %) | ANO (127 hl., 20,68 %) | PirÃ¡ti+STAN (117 hl., 19,06 %) | SPD (65 hl., 10,59 %) | PÅ˜ÃSAHA (28 hl., 4,56 %) | ÄŒSSD (20 hl., 3,26 %) | KSÄŒM (15 hl., 2,44 %) | TSS (14 hl., 2,28 %) | ZelenÃ­ (8 hl., 1,3 %) | VolnÃ½ blok (6 hl., 0,98 %) | OtÄŒe (5 hl., 0,81 %) | Nevolte Urza.cz (4 hl., 0,65 %) | Å vÃ½car. demokr. (1 hl., 0,16 %) | Monarchiste.cz (1 hl., 0,16 %) | PRAMENY (1 hl., 0,16 %) | APB (1 hl., 0,16 %) | MoravanÃ© (1 hl., 0,16 %)"Ö
 ÓSPOLU (244 hl., 38,07 %) | ANO (127 hl., 19,81 %) | PirÃ¡ti+STAN (99 hl., 15,44 %) | SPD (45 hl., 7,02 %) | PÅ˜ÃSAHA (31 hl., 4,84 %) | TSS (21 hl., 3,28 %) | KSÄŒM (21 hl., 3,28 %) | ÄŒSSD (17 hl., 2,65 %) | VolnÃ½ blok (13 hl., 2,03 %) | ZelenÃ­ (8 hl., 1,25 %) | OtÄŒe (5 hl., 0,78 %) | Å vÃ½car. demokr. (3 hl., 0,47 %) | Nevolte Urza.cz (2 hl., 0,31 %) | MoravanÃ© (2 hl., 0,31 %) | Monarchiste.cz (1 hl., 0,16 %) | PRAMENY (1 hl., 0,16 %) | APB (1 hl., 0,16 %)"×
 ÔANO (11 hl., 33,33 %) | SPOLU (10 hl., 30,3 %) | PirÃ¡ti+STAN (5 hl., 15,15 %) | SPD (3 hl., 9,09 %) | Å vÃ½car. demokr. (1 hl., 3,03 %) | ÄŒSSD (1 hl., 3,03 %) | PÅ˜ÃSAHA (1 hl., 3,03 %) | KSÄŒM (1 hl., 3,03 %)"×
-ÔANO (156 hl., 31,97 %) | SPOLU (122 hl., 25,0 %) | PirÃ¡ti+STAN (53 hl., 10,86 %) | SPD (42 hl., 8,61 %) | ÄŒSSD (41 hl., 8,4 %) | PÅ˜ÃSAHA (21 hl., 4,3 %) | TSS (18 hl., 3,69 %) | KSÄŒM (18 hl., 3,69 %) | ZelenÃ­ (9 hl., 1,84 %) | VolnÃ½ blok (4 hl., 0,82 %) | OtÄŒe (2 hl., 0,41 %) | Å vÃ½car. demokr. (1 hl., 0,2 %) | ANS (1 hl., 0,2 %)"×
 ÔANO (28 hl., 32,94 %) | SPOLU (18 hl., 21,18 %) | SPD (11 hl., 12,94 %) | KSÄŒM (8 hl., 9,41 %) | PirÃ¡ti+STAN (5 hl., 5,88 %) | PÅ˜ÃSAHA (4 hl., 4,71 %) | TSS (3 hl., 3,53 %) | ÄŒSSD (2 hl., 2,35 %) | MoravanÃ© (2 hl., 2,35 %) | ZelenÃ­ (1 hl., 1,18 %) | Å vÃ½car. demokr. (1 hl., 1,18 %) | PRAMENY (1 hl., 1,18 %) | OtÄŒe (1 hl., 1,18 %)"×
 ÔANO (44 hl., 33,85 %) | SPD (23 hl., 17,69 %) | SPOLU (18 hl., 13,85 %) | PirÃ¡ti+STAN (15 hl., 11,54 %) | PÅ˜ÃSAHA (7 hl., 5,38 %) | ÄŒSSD (6 hl., 4,62 %) | TSS (4 hl., 3,08 %) | KSÄŒM (4 hl., 3,08 %) | ZelenÃ­ (3 hl., 2,31 %) | VolnÃ½ blok (2 hl., 1,54 %) | OtÄŒe (2 hl., 1,54 %) | Å vÃ½car. demokr. (1 hl., 0,77 %) | APB (1 hl., 0,77 %)"×
 ÔANO (51 hl., 29,31 %) | SPOLU (37 hl., 21,26 %) | SPD (20 hl., 11,49 %) | PirÃ¡ti+STAN (18 hl., 10,34 %) | KSÄŒM (13 hl., 7,47 %) | ÄŒSSD (12 hl., 6,9 %) | TSS (8 hl., 4,6 %) | PÅ˜ÃSAHA (6 hl., 3,45 %) | VolnÃ½ blok (3 hl., 1,72 %) | APB (2 hl., 1,15 %) | OtÄŒe (2 hl., 1,15 %) | ZelenÃ­ (1 hl., 0,57 %) | Å vÃ½car. demokr. (1 hl., 0,57 %)"×
@@ -706,13 +673,11 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ÚANO (154 hl., 32,49 %) | SPOLU (123 hl., 25,95 %) | SPD (54 hl., 11,39 %) | PirÃ¡ti+STAN (46 hl., 9,7 %) | PÅ˜ÃSAHA (34 hl., 7,17 %) | KSÄŒM (20 hl., 4,22 %) | ÄŒSSD (17 hl., 3,59 %) | TSS (12 hl., 2,53 %) | ZelenÃ­ (5 hl., 1,05 %) | VolnÃ½ blok (3 hl., 0,63 %) | OtÄŒe (3 hl., 0,63 %) | PRAMENY (2 hl., 0,42 %) | Nevolte Urza.cz (1 hl., 0,21 %)"İ
 ÚSPOLU (216 hl., 41,22 %) | PirÃ¡ti+STAN (109 hl., 20,8 %) | ANO (86 hl., 16,41 %) | SPD (28 hl., 5,34 %) | ÄŒSSD (27 hl., 5,15 %) | PÅ˜ÃSAHA (23 hl., 4,39 %) | TSS (10 hl., 1,91 %) | KSÄŒM (10 hl., 1,91 %) | VolnÃ½ blok (6 hl., 1,15 %) | ZelenÃ­ (4 hl., 0,76 %) | Nevolte Urza.cz (2 hl., 0,38 %) | OtÄŒe (2 hl., 0,38 %) | PRAMENY (1 hl., 0,19 %)"Ş
 ÛSPOLU (16 hl., 27,59 %) | PirÃ¡ti+STAN (14 hl., 24,14 %) | ANO (8 hl., 13,79 %) | SPD (6 hl., 10,34 %) | KSÄŒM (5 hl., 8,62 %) | ÄŒSSD (4 hl., 6,9 %) | TSS (3 hl., 5,17 %) | ZelenÃ­ (1 hl., 1,72 %) | ANS (1 hl., 1,72 %)"ß
-ÜANO (104 hl., 28,65 %) | SPOLU (101 hl., 27,82 %) | PirÃ¡ti+STAN (46 hl., 12,67 %) | SPD (29 hl., 7,99 %) | PÅ˜ÃSAHA (26 hl., 7,16 %) | ÄŒSSD (17 hl., 4,68 %) | KSÄŒM (16 hl., 4,41 %) | TSS (10 hl., 2,75 %) | ZelenÃ­ (4 hl., 1,1 %) | VolnÃ½ blok (4 hl., 1,1 %) | OtÄŒe (4 hl., 1,1 %) | Å vÃ½car. demokr. (1 hl., 0,28 %) | MoravanÃ© (1 hl., 0,28 %)"ß
 ÜSPOLU (131 hl., 32,43 %) | ANO (84 hl., 20,79 %) | PirÃ¡ti+STAN (72 hl., 17,82 %) | ÄŒSSD (30 hl., 7,43 %) | SPD (28 hl., 6,93 %) | KSÄŒM (17 hl., 4,21 %) | PÅ˜ÃSAHA (16 hl., 3,96 %) | TSS (13 hl., 3,22 %) | VolnÃ½ blok (7 hl., 1,73 %) | ZelenÃ­ (2 hl., 0,5 %) | MoravanÃ© (2 hl., 0,5 %) | PRAMENY (1 hl., 0,25 %) | Nevolte Urza.cz (1 hl., 0,25 %)"ß
 ÜANO (184 hl., 39,4 %) | SPOLU (78 hl., 16,7 %) | SPD (66 hl., 14,13 %) | PirÃ¡ti+STAN (39 hl., 8,35 %) | KSÄŒM (24 hl., 5,14 %) | PÅ˜ÃSAHA (21 hl., 4,5 %) | ÄŒSSD (20 hl., 4,28 %) | VolnÃ½ blok (13 hl., 2,78 %) | TSS (6 hl., 1,28 %) | MoravanÃ© (4 hl., 0,86 %) | PRAMENY (3 hl., 0,64 %) | Levice (2 hl., 0,43 %) | APB (2 hl., 0,43 %) | Nevolte Urza.cz (1 hl., 0,21 %) | Å vÃ½car. demokr. (1 hl., 0,21 %) | ANS (1 hl., 0,21 %) | OtÄŒe (1 hl., 0,21 %) | ZelenÃ­ (1 hl., 0,21 %)"à
 İANO (25 hl., 30,12 %) | SPOLU (19 hl., 22,89 %) | PirÃ¡ti+STAN (16 hl., 19,28 %) | SPD (8 hl., 9,64 %) | PÅ˜ÃSAHA (7 hl., 8,43 %) | APB (3 hl., 3,61 %) | ÄŒSSD (2 hl., 2,41 %) | TSS (2 hl., 2,41 %) | KSÄŒM (1 hl., 1,2 %)"à
 İANO (145 hl., 32,44 %) | SPOLU (97 hl., 21,7 %) | PirÃ¡ti+STAN (65 hl., 14,54 %) | SPD (42 hl., 9,4 %) | KSÄŒM (31 hl., 6,94 %) | ÄŒSSD (26 hl., 5,82 %) | PÅ˜ÃSAHA (18 hl., 4,03 %) | TSS (12 hl., 2,68 %) | VolnÃ½ blok (5 hl., 1,12 %) | ZelenÃ­ (2 hl., 0,45 %) | Nevolte Urza.cz (2 hl., 0,45 %) | APB (1 hl., 0,22 %) | Monarchiste.cz (1 hl., 0,22 %)"á
-ŞSPOLU (113 hl., 28,39 %) | ANO (87 hl., 21,86 %) | SPD (57 hl., 14,32 %) | PirÃ¡ti+STAN (56 hl., 14,07 %) | ÄŒSSD (25 hl., 6,28 %) | KSÄŒM (18 hl., 4,52 %) | PÅ˜ÃSAHA (16 hl., 4,02 %) | TSS (10 hl., 2,51 %) | VolnÃ½ blok (5 hl., 1,26 %) | ZelenÃ­ (3 hl., 0,75 %) | Å vÃ½car. demokr. (3 hl., 0,75 %) | OtÄŒe (3 hl., 0,75 %) | MoravanÃ© (2 hl., 0,5 %)"á
-ŞSPOLU (169 hl., 30,84 %) | ANO (156 hl., 28,47 %) | PirÃ¡ti+STAN (73 hl., 13,32 %) | SPD (41 hl., 7,48 %) | PÅ˜ÃSAHA (39 hl., 7,12 %) | ÄŒSSD (22 hl., 4,01 %) | TSS (13 hl., 2,37 %) | KSÄŒM (12 hl., 2,19 %) | VolnÃ½ blok (11 hl., 2,01 %) | ZelenÃ­ (8 hl., 1,46 %) | PRAMENY (2 hl., 0,36 %) | Å vÃ½car. demokr. (1 hl., 0,18 %) | OtÄŒe (1 hl., 0,18 %)"â
+ŞSPOLU (113 hl., 28,39 %) | ANO (87 hl., 21,86 %) | SPD (57 hl., 14,32 %) | PirÃ¡ti+STAN (56 hl., 14,07 %) | ÄŒSSD (25 hl., 6,28 %) | KSÄŒM (18 hl., 4,52 %) | PÅ˜ÃSAHA (16 hl., 4,02 %) | TSS (10 hl., 2,51 %) | VolnÃ½ blok (5 hl., 1,26 %) | ZelenÃ­ (3 hl., 0,75 %) | Å vÃ½car. demokr. (3 hl., 0,75 %) | OtÄŒe (3 hl., 0,75 %) | MoravanÃ© (2 hl., 0,5 %)"â
 ßANO (118 hl., 36,09 %) | SPOLU (71 hl., 21,71 %) | SPD (34 hl., 10,4 %) | PirÃ¡ti+STAN (30 hl., 9,17 %) | PÅ˜ÃSAHA (22 hl., 6,73 %) | TSS (19 hl., 5,81 %) | ÄŒSSD (10 hl., 3,06 %) | KSÄŒM (8 hl., 2,45 %) | ZelenÃ­ (6 hl., 1,83 %) | VolnÃ½ blok (6 hl., 1,83 %) | Nevolte Urza.cz (1 hl., 0,31 %) | Monarchiste.cz (1 hl., 0,31 %) | OtÄŒe (1 hl., 0,31 %)"ã
 àANO (29 hl., 46,03 %) | SPOLU (11 hl., 17,46 %) | PirÃ¡ti+STAN (6 hl., 9,52 %) | KSÄŒM (5 hl., 7,94 %) | ZelenÃ­ (3 hl., 4,76 %) | SPD (3 hl., 4,76 %) | PÅ˜ÃSAHA (3 hl., 4,76 %) | TSS (2 hl., 3,17 %) | ÄŒSSD (1 hl., 1,59 %)"ã
 àSPOLU (154 hl., 30,43 %) | ANO (152 hl., 30,04 %) | PirÃ¡ti+STAN (60 hl., 11,86 %) | SPD (39 hl., 7,71 %) | PÅ˜ÃSAHA (33 hl., 6,52 %) | KSÄŒM (23 hl., 4,55 %) | ÄŒSSD (22 hl., 4,35 %) | TSS (12 hl., 2,37 %) | Å vÃ½car. demokr. (4 hl., 0,79 %) | ZelenÃ­ (3 hl., 0,59 %) | VolnÃ½ blok (2 hl., 0,4 %) | APB (1 hl., 0,2 %) | Nevolte Urza.cz (1 hl., 0,2 %)"ä
@@ -726,7 +691,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 âSPOLU (115 hl., 31,42 %) | ANO (93 hl., 25,41 %) | PirÃ¡ti+STAN (60 hl., 16,39 %) | SPD (39 hl., 10,66 %) | PÅ˜ÃSAHA (22 hl., 6,01 %) | ÄŒSSD (10 hl., 2,73 %) | KSÄŒM (7 hl., 1,91 %) | VolnÃ½ blok (6 hl., 1,64 %) | ZelenÃ­ (5 hl., 1,37 %) | TSS (4 hl., 1,09 %) | Monarchiste.cz (2 hl., 0,55 %) | OtÄŒe (2 hl., 0,55 %) | Å vÃ½car. demokr. (1 hl., 0,27 %)"æ
 ãANO (20 hl., 38,46 %) | KSÄŒM (9 hl., 17,31 %) | SPD (4 hl., 7,69 %) | ÄŒSSD (4 hl., 7,69 %) | PÅ˜ÃSAHA (4 hl., 7,69 %) | SPOLU (4 hl., 7,69 %) | TSS (3 hl., 5,77 %) | VolnÃ½ blok (2 hl., 3,85 %) | PirÃ¡ti+STAN (2 hl., 3,85 %)"æ
 ãPirÃ¡ti+STAN (31 hl., 26,27 %) | SPOLU (29 hl., 24,58 %) | ANO (20 hl., 16,95 %) | KSÄŒM (10 hl., 8,47 %) | PÅ˜ÃSAHA (8 hl., 6,78 %) | SPD (6 hl., 5,08 %) | ÄŒSSD (6 hl., 5,08 %) | TSS (6 hl., 5,08 %) | PRAMENY (2 hl., 1,69 %)"æ
-ãANO (148 hl., 35,07 %) | SPOLU (73 hl., 17,3 %) | SPD (68 hl., 16,11 %) | PirÃ¡ti+STAN (33 hl., 7,82 %) | PÅ˜ÃSAHA (27 hl., 6,4 %) | KSÄŒM (20 hl., 4,74 %) | ÄŒSSD (17 hl., 4,03 %) | TSS (12 hl., 2,84 %) | VolnÃ½ blok (10 hl., 2,37 %) | OtÄŒe (9 hl., 2,13 %) | ZelenÃ­ (2 hl., 0,47 %) | Nevolte Urza.cz (2 hl., 0,47 %) | Å vÃ½car. demokr. (1 hl., 0,24 %)"æ
 ãSPOLU (72 hl., 29,88 %) | ANO (72 hl., 29,88 %) | SPD (25 hl., 10,37 %) | TSS (17 hl., 7,05 %) | ÄŒSSD (16 hl., 6,64 %) | PirÃ¡ti+STAN (15 hl., 6,22 %) | KSÄŒM (10 hl., 4,15 %) | PÅ˜ÃSAHA (7 hl., 2,9 %) | ZelenÃ­ (2 hl., 0,83 %) | VolnÃ½ blok (2 hl., 0,83 %) | Å vÃ½car. demokr. (1 hl., 0,41 %) | PRAMENY (1 hl., 0,41 %) | Nevolte Urza.cz (1 hl., 0,41 %)"ç
 äANO (11 hl., 34,38 %) | SPOLU (4 hl., 12,5 %) | KSÄŒM (4 hl., 12,5 %) | SPD (3 hl., 9,38 %) | ÄŒSSD (3 hl., 9,38 %) | PirÃ¡ti+STAN (3 hl., 9,38 %) | PÅ˜ÃSAHA (2 hl., 6,25 %) | VolnÃ½ blok (1 hl., 3,12 %) | OtÄŒe (1 hl., 3,12 %)"ç
 äANO (112 hl., 32,75 %) | SPOLU (77 hl., 22,51 %) | PirÃ¡ti+STAN (39 hl., 11,4 %) | SPD (38 hl., 11,11 %) | ÄŒSSD (19 hl., 5,56 %) | PÅ˜ÃSAHA (17 hl., 4,97 %) | KSÄŒM (16 hl., 4,68 %) | TSS (11 hl., 3,22 %) | ZelenÃ­ (4 hl., 1,17 %) | VolnÃ½ blok (4 hl., 1,17 %) | Nevolte Urza.cz (2 hl., 0,58 %) | OtÄŒe (2 hl., 0,58 %) | Å vÃ½car. demokr. (1 hl., 0,29 %)"è
@@ -755,7 +719,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ìANO (16 hl., 23,53 %) | SPD (15 hl., 22,06 %) | SPOLU (11 hl., 16,18 %) | PÅ˜ÃSAHA (6 hl., 8,82 %) | ÄŒSSD (5 hl., 7,35 %) | PirÃ¡ti+STAN (5 hl., 7,35 %) | KSÄŒM (5 hl., 7,35 %) | TSS (4 hl., 5,88 %) | Å vÃ½car. demokr. (1 hl., 1,47 %)"ï
 ìSPOLU (18 hl., 31,58 %) | PirÃ¡ti+STAN (17 hl., 29,82 %) | PÅ˜ÃSAHA (7 hl., 12,28 %) | ANO (7 hl., 12,28 %) | ÄŒSSD (2 hl., 3,51 %) | TSS (2 hl., 3,51 %) | KSÄŒM (2 hl., 3,51 %) | Å vÃ½car. demokr. (1 hl., 1,75 %) | SPD (1 hl., 1,75 %)"ñ
 îANO (189 hl., 33,63 %) | SPOLU (118 hl., 21,0 %) | SPD (66 hl., 11,74 %) | PÅ˜ÃSAHA (47 hl., 8,36 %) | PirÃ¡ti+STAN (46 hl., 8,19 %) | KSÄŒM (40 hl., 7,12 %) | ÄŒSSD (20 hl., 3,56 %) | TSS (16 hl., 2,85 %) | VolnÃ½ blok (6 hl., 1,07 %) | ZelenÃ­ (4 hl., 0,71 %) | Å vÃ½car. demokr. (3 hl., 0,53 %) | APB (3 hl., 0,53 %) | OtÄŒe (3 hl., 0,53 %) | ANS (1 hl., 0,18 %)"ñ
-îSPOLU (157 hl., 43,37 %) | ANO (66 hl., 18,23 %) | PirÃ¡ti+STAN (56 hl., 15,47 %) | SPD (22 hl., 6,08 %) | ÄŒSSD (17 hl., 4,7 %) | PÅ˜ÃSAHA (15 hl., 4,14 %) | TSS (8 hl., 2,21 %) | KSÄŒM (6 hl., 1,66 %) | OtÄŒe (5 hl., 1,38 %) | ZelenÃ­ (4 hl., 1,1 %) | APB (2 hl., 0,55 %) | MoravanÃ© (2 hl., 0,55 %) | VolnÃ½ blok (1 hl., 0,28 %) | Nevolte Urza.cz (1 hl., 0,28 %)"ñ
 îSPOLU (175 hl., 31,99 %) | ANO (155 hl., 28,34 %) | PirÃ¡ti+STAN (93 hl., 17,0 %) | ÄŒSSD (28 hl., 5,12 %) | PÅ˜ÃSAHA (28 hl., 5,12 %) | SPD (24 hl., 4,39 %) | TSS (12 hl., 2,19 %) | VolnÃ½ blok (9 hl., 1,65 %) | KSÄŒM (8 hl., 1,46 %) | ZelenÃ­ (6 hl., 1,1 %) | APB (4 hl., 0,73 %) | Nevolte Urza.cz (2 hl., 0,37 %) | OtÄŒe (2 hl., 0,37 %) | PRAMENY (1 hl., 0,18 %)"ñ
 îSPOLU (38 hl., 34,86 %) | ANO (22 hl., 20,18 %) | PirÃ¡ti+STAN (13 hl., 11,93 %) | SPD (8 hl., 7,34 %) | ÄŒSSD (7 hl., 6,42 %) | KSÄŒM (6 hl., 5,5 %) | PÅ˜ÃSAHA (4 hl., 3,67 %) | TSS (3 hl., 2,75 %) | Nevolte Urza.cz (2 hl., 1,83 %) | OtÄŒe (2 hl., 1,83 %) | ZelenÃ­ (1 hl., 0,92 %) | APB (1 hl., 0,92 %) | Monarchiste.cz (1 hl., 0,92 %) | MoravanÃ© (1 hl., 0,92 %)"ò
 ïANO (12 hl., 27,27 %) | SPOLU (10 hl., 22,73 %) | PirÃ¡ti+STAN (10 hl., 22,73 %) | SPD (4 hl., 9,09 %) | TSS (2 hl., 4,55 %) | PÅ˜ÃSAHA (2 hl., 4,55 %) | KSÄŒM (2 hl., 4,55 %) | VolnÃ½ blok (1 hl., 2,27 %) | Monarchiste.cz (1 hl., 2,27 %)"ò
@@ -764,7 +727,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ğSPOLU (65 hl., 25,49 %) | ANO (58 hl., 22,75 %) | PirÃ¡ti+STAN (36 hl., 14,12 %) | SPD (33 hl., 12,94 %) | PÅ˜ÃSAHA (30 hl., 11,76 %) | ÄŒSSD (9 hl., 3,53 %) | TSS (6 hl., 2,35 %) | KSÄŒM (5 hl., 1,96 %) | OtÄŒe (4 hl., 1,57 %) | APB (3 hl., 1,18 %) | ZelenÃ­ (2 hl., 0,78 %) | VolnÃ½ blok (2 hl., 0,78 %) | Å vÃ½car. demokr. (1 hl., 0,39 %) | PRAMENY (1 hl., 0,39 %)"ô
 ñANO (270 hl., 31,07 %) | SPOLU (247 hl., 28,42 %) | PirÃ¡ti+STAN (106 hl., 12,2 %) | SPD (67 hl., 7,71 %) | PÅ˜ÃSAHA (50 hl., 5,75 %) | ÄŒSSD (37 hl., 4,26 %) | KSÄŒM (37 hl., 4,26 %) | TSS (30 hl., 3,45 %) | ZelenÃ­ (9 hl., 1,04 %) | VolnÃ½ blok (6 hl., 0,69 %) | OtÄŒe (4 hl., 0,46 %) | APB (3 hl., 0,35 %) | PRAMENY (2 hl., 0,23 %) | Nevolte Urza.cz (1 hl., 0,12 %)"ô
 ñANO (43 hl., 39,45 %) | SPOLU (23 hl., 21,1 %) | SPD (12 hl., 11,01 %) | KSÄŒM (9 hl., 8,26 %) | PirÃ¡ti+STAN (7 hl., 6,42 %) | PÅ˜ÃSAHA (5 hl., 4,59 %) | ÄŒSSD (3 hl., 2,75 %) | ZelenÃ­ (1 hl., 0,92 %) | VolnÃ½ blok (1 hl., 0,92 %) | PRAMENY (1 hl., 0,92 %) | Levice (1 hl., 0,92 %) | Monarchiste.cz (1 hl., 0,92 %) | OtÄŒe (1 hl., 0,92 %) | MoravanÃ© (1 hl., 0,92 %)"ô
-ñANO (97 hl., 29,39 %) | SPOLU (95 hl., 28,79 %) | SPD (47 hl., 14,24 %) | PirÃ¡ti+STAN (24 hl., 7,27 %) | ÄŒSSD (21 hl., 6,36 %) | KSÄŒM (21 hl., 6,36 %) | TSS (8 hl., 2,42 %) | PÅ˜ÃSAHA (7 hl., 2,12 %) | VolnÃ½ blok (3 hl., 0,91 %) | MoravanÃ© (3 hl., 0,91 %) | ZelenÃ­ (1 hl., 0,3 %) | Å vÃ½car. demokr. (1 hl., 0,3 %) | PRAMENY (1 hl., 0,3 %) | OtÄŒe (1 hl., 0,3 %)"ô
 ñSPOLU (214 hl., 39,48 %) | ANO (116 hl., 21,4 %) | PirÃ¡ti+STAN (91 hl., 16,79 %) | SPD (29 hl., 5,35 %) | PÅ˜ÃSAHA (27 hl., 4,98 %) | ÄŒSSD (17 hl., 3,14 %) | KSÄŒM (16 hl., 2,95 %) | TSS (13 hl., 2,4 %) | Å vÃ½car. demokr. (6 hl., 1,11 %) | VolnÃ½ blok (5 hl., 0,92 %) | ZelenÃ­ (4 hl., 0,74 %) | OtÄŒe (2 hl., 0,37 %) | APB (1 hl., 0,18 %) | PRAMENY (1 hl., 0,18 %)"ô
 ñSPOLU (53 hl., 42,74 %) | ANO (19 hl., 15,32 %) | PirÃ¡ti+STAN (16 hl., 12,9 %) | SPD (12 hl., 9,68 %) | PÅ˜ÃSAHA (8 hl., 6,45 %) | VolnÃ½ blok (4 hl., 3,23 %) | ÄŒSSD (3 hl., 2,42 %) | KSÄŒM (2 hl., 1,61 %) | OtÄŒe (2 hl., 1,61 %) | ZelenÃ­ (1 hl., 0,81 %) | ANS (1 hl., 0,81 %) | APB (1 hl., 0,81 %) | Nevolte Urza.cz (1 hl., 0,81 %) | Monarchiste.cz (1 hl., 0,81 %)"õ
 òSPOLU (42 hl., 30,43 %) | PirÃ¡ti+STAN (31 hl., 22,46 %) | ANO (24 hl., 17,39 %) | SPD (10 hl., 7,25 %) | PÅ˜ÃSAHA (8 hl., 5,8 %) | ÄŒSSD (6 hl., 4,35 %) | TSS (5 hl., 3,62 %) | KSÄŒM (5 hl., 3,62 %) | OtÄŒe (2 hl., 1,45 %) | ZelenÃ­ (1 hl., 0,72 %) | Å vÃ½car. demokr. (1 hl., 0,72 %) | VolnÃ½ blok (1 hl., 0,72 %) | PRAMENY (1 hl., 0,72 %) | MoravanÃ© (1 hl., 0,72 %)"õ
@@ -798,7 +760,6 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 úSPOLU (245 hl., 38,04 %) | ANO (166 hl., 25,78 %) | PirÃ¡ti+STAN (73 hl., 11,34 %) | SPD (53 hl., 8,23 %) | PÅ˜ÃSAHA (27 hl., 4,19 %) | ÄŒSSD (22 hl., 3,42 %) | KSÄŒM (21 hl., 3,26 %) | TSS (19 hl., 2,95 %) | ZelenÃ­ (5 hl., 0,78 %) | Å vÃ½car. demokr. (3 hl., 0,47 %) | APB (3 hl., 0,47 %) | Monarchiste.cz (3 hl., 0,47 %) | VolnÃ½ blok (2 hl., 0,31 %) | OtÄŒe (2 hl., 0,31 %)"ş
 ûSPOLU (21 hl., 32,31 %) | ANO (17 hl., 26,15 %) | SPD (7 hl., 10,77 %) | PirÃ¡ti+STAN (6 hl., 9,23 %) | TSS (5 hl., 7,69 %) | PÅ˜ÃSAHA (4 hl., 6,15 %) | KSÄŒM (2 hl., 3,08 %) | VolnÃ½ blok (1 hl., 1,54 %) | ÄŒSSD (1 hl., 1,54 %) | APB (1 hl., 1,54 %)"ş
 ûANO (215 hl., 31,34 %) | SPOLU (180 hl., 26,24 %) | SPD (89 hl., 12,97 %) | PirÃ¡ti+STAN (68 hl., 9,91 %) | PÅ˜ÃSAHA (46 hl., 6,71 %) | TSS (21 hl., 3,06 %) | KSÄŒM (21 hl., 3,06 %) | ÄŒSSD (20 hl., 2,92 %) | VolnÃ½ blok (11 hl., 1,6 %) | ZelenÃ­ (6 hl., 0,87 %) | Nevolte Urza.cz (3 hl., 0,44 %) | OtÄŒe (3 hl., 0,44 %) | Å vÃ½car. demokr. (2 hl., 0,29 %) | ANS (1 hl., 0,15 %)"ş
-ûSPOLU (168 hl., 31,88 %) | ANO (134 hl., 25,43 %) | PirÃ¡ti+STAN (74 hl., 14,04 %) | SPD (34 hl., 6,45 %) | ÄŒSSD (28 hl., 5,31 %) | PÅ˜ÃSAHA (26 hl., 4,93 %) | TSS (23 hl., 4,36 %) | KSÄŒM (12 hl., 2,28 %) | OtÄŒe (9 hl., 1,71 %) | VolnÃ½ blok (8 hl., 1,52 %) | Å vÃ½car. demokr. (5 hl., 0,95 %) | ZelenÃ­ (3 hl., 0,57 %) | Nevolte Urza.cz (2 hl., 0,38 %) | APB (1 hl., 0,19 %)"ş
 ûSPOLU (91 hl., 30,64 %) | ANO (81 hl., 27,27 %) | PirÃ¡ti+STAN (38 hl., 12,79 %) | SPD (25 hl., 8,42 %) | ÄŒSSD (18 hl., 6,06 %) | TSS (11 hl., 3,7 %) | KSÄŒM (10 hl., 3,37 %) | PÅ˜ÃSAHA (8 hl., 2,69 %) | Å vÃ½car. demokr. (7 hl., 2,36 %) | ZelenÃ­ (3 hl., 1,01 %) | VolnÃ½ blok (2 hl., 0,67 %) | PRAMENY (1 hl., 0,34 %) | Nevolte Urza.cz (1 hl., 0,34 %) | OtÄŒe (1 hl., 0,34 %)"ÿ
 üANO (17 hl., 26,56 %) | SPOLU (15 hl., 23,44 %) | PÅ˜ÃSAHA (13 hl., 20,31 %) | TSS (5 hl., 7,81 %) | SPD (4 hl., 6,25 %) | ÄŒSSD (3 hl., 4,69 %) | PirÃ¡ti+STAN (3 hl., 4,69 %) | VolnÃ½ blok (2 hl., 3,12 %) | APB (1 hl., 1,56 %) | KSÄŒM (1 hl., 1,56 %)"ÿ
 üANO (58 hl., 32,95 %) | SPOLU (47 hl., 26,7 %) | PirÃ¡ti+STAN (28 hl., 15,91 %) | TSS (11 hl., 6,25 %) | SPD (9 hl., 5,11 %) | PÅ˜ÃSAHA (7 hl., 3,98 %) | KSÄŒM (6 hl., 3,41 %) | OtÄŒe (4 hl., 2,27 %) | VolnÃ½ blok (3 hl., 1,7 %) | ÄŒSSD (3 hl., 1,7 %)"ÿ
@@ -818,328 +779,489 @@ $Slatina nad ZdobnicÃ­ - okrsek Ä. 1"'
 ÿANO (22 hl., 44,0 %) | SPOLU (13 hl., 26,0 %) | SPD (6 hl., 12,0 %) | PirÃ¡ti+STAN (3 hl., 6,0 %) | Å vÃ½car. demokr. (1 hl., 2,0 %) | VolnÃ½ blok (1 hl., 2,0 %) | ÄŒSSD (1 hl., 2,0 %) | TSS (1 hl., 2,0 %) | PÅ˜ÃSAHA (1 hl., 2,0 %) | KSÄŒM (1 hl., 2,0 %)"‚
 ÿANO (31 hl., 25,41 %) | SPOLU (29 hl., 23,77 %) | PirÃ¡ti+STAN (23 hl., 18,85 %) | SPD (18 hl., 14,75 %) | PÅ˜ÃSAHA (7 hl., 5,74 %) | KSÄŒM (5 hl., 4,1 %) | ÄŒSSD (4 hl., 3,28 %) | MoravanÃ© (3 hl., 2,46 %) | ZelenÃ­ (1 hl., 0,82 %) | TSS (1 hl., 0,82 %)"‚
 ÿSPOLU (27 hl., 30,0 %) | ANO (16 hl., 17,78 %) | SPD (15 hl., 16,67 %) | PirÃ¡ti+STAN (9 hl., 10,0 %) | ÄŒSSD (7 hl., 7,78 %) | PÅ˜ÃSAHA (6 hl., 6,67 %) | KSÄŒM (4 hl., 4,44 %) | VolnÃ½ blok (3 hl., 3,33 %) | TSS (2 hl., 2,22 %) | ZelenÃ­ (1 hl., 1,11 %)"‚
-ÿSPOLU (195 hl., 29,77 %) | ANO (168 hl., 25,65 %) | PirÃ¡ti+STAN (120 hl., 18,32 %) | SPD (57 hl., 8,7 %) | ÄŒSSD (45 hl., 6,87 %) | PÅ˜ÃSAHA (24 hl., 3,66 %) | KSÄŒM (20 hl., 3,05 %) | TSS (13 hl., 1,98 %) | VolnÃ½ blok (7 hl., 1,07 %) | ZelenÃ­ (2 hl., 0,31 %) | Å vÃ½car. demokr. (1 hl., 0,15 %) | APB (1 hl., 0,15 %) | Nevolte Urza.cz (1 hl., 0,15 %) | MoravanÃ© (1 hl., 0,15 %)"  ZB"  jB"  nB"  vB"  B"  ƒB"  …B"  ‡B"  ‰B"  ‹B"  B"  B"  ‘B"  “B"  •B"  ™B"  ›B"  B"  ­B"  ÌA"	33333P@"	33333Q@"	33333R@"	33333S@"	33333T@"	33333U@"	333333O@"	333333Q@"	333333S@"	333333T@"	33333SQ@"	33333SR@"	33333SS@"	33333sM@"	33333sO@"	33333sP@"	33333sQ@"	33333sR@"	33333“P@"	33333“Q@"	33333“R@"	33333“S@"	33333³O@"	33333³P@"	33333³Q@"	33333³R@"	33333³U@"	33333ÓP@"	33333ÓQ@"	33333ÓR@"	33333ÓS@"	33333ÓU@"	33333óE@"	33333óF@"	33333óL@"	33333óQ@"	33333óR@"	33333óS@"	fffffP@"	fffffQ@"	fffffR@"	fffffS@"	fffffT@"	fffff&F@"	fffff&K@"	fffff&L@"	fffff&Q@"	fffff&R@"	fffff&S@"	fffffFQ@"	fffffFR@"	ffffffI@"	ffffffM@"	ffffffN@"	ffffffO@"	ffffffQ@"	ffffffR@"	ffffffS@"	ffffffT@"	fffff†P@"	fffff†Q@"	fffff†R@"	fffff†S@"	fffff†U@"	fffff¦J@"	fffff¦M@"	fffff¦O@"	fffff¦P@"	fffff¦Q@"	fffff¦R@"	fffff¦S@"	fffff¦T@"	fffff¦U@"	fffffÆP@"	fffffÆR@"	fffffÆS@"	fffffÆT@"	fffffæK@"	fffffæM@"	fffffæO@"	fffffæP@"	fffffæQ@"	fffffæR@"	š™™™™I@"	š™™™™N@"	š™™™™O@"	š™™™™P@"	š™™™™Q@"	š™™™™R@"	š™™™™S@"	š™™™™T@"	š™™™™9P@"	š™™™™9Q@"	š™™™™9R@"	š™™™™9S@"	š™™™™YI@"	š™™™™YJ@"	š™™™™YK@"	š™™™™YO@"	š™™™™YP@"	š™™™™YQ@"	š™™™™YR@"	š™™™™YS@"	š™™™™yQ@"	š™™™™yR@"	š™™™™yS@"	š™™™™yT@"	š™™™™™H@"	š™™™™™K@"	š™™™™™P@"	š™™™™™Q@"	š™™™™™R@"	š™™™™™S@"	š™™™™™T@"	š™™™™¹P@"	š™™™™¹Q@"	š™™™™¹R@"	š™™™™¹S@"	š™™™™ÙC@"	š™™™™ÙJ@"	š™™™™ÙK@"	š™™™™ÙN@"	š™™™™ÙO@"	š™™™™ÙQ@"	š™™™™ÙR@"	š™™™™ÙS@"	š™™™™ùP@"	š™™™™ùQ@"	š™™™™ùR@"	š™™™™ùU@"	ÍÌÌÌÌM@"	ÍÌÌÌÌN@"	ÍÌÌÌÌP@"	ÍÌÌÌÌQ@"	ÍÌÌÌÌR@"	ÍÌÌÌÌS@"	ÍÌÌÌÌ,Q@"	ÍÌÌÌÌ,R@"	ÍÌÌÌÌ,S@"	ÍÌÌÌÌ,T@"	ÍÌÌÌÌLL@"	ÍÌÌÌÌLM@"	ÍÌÌÌÌLO@"	ÍÌÌÌÌLP@"	ÍÌÌÌÌLQ@"	ÍÌÌÌÌLR@"	ÍÌÌÌÌLS@"	ÍÌÌÌÌlP@"	ÍÌÌÌÌlQ@"	ÍÌÌÌÌlR@"	ÍÌÌÌÌlS@"	ÍÌÌÌÌlT@"	ÍÌÌÌÌŒG@"	ÍÌÌÌÌŒH@"	ÍÌÌÌÌŒK@"	ÍÌÌÌÌŒL@"	ÍÌÌÌÌŒN@"	ÍÌÌÌÌŒO@"	ÍÌÌÌÌŒP@"	ÍÌÌÌÌŒQ@"	ÍÌÌÌÌŒR@"	ÍÌÌÌÌŒW@"	ÍÌÌÌÌ¬P@"	ÍÌÌÌÌ¬S@"	ÍÌÌÌÌÌK@"	ÍÌÌÌÌÌP@"	ÍÌÌÌÌÌQ@"	ÍÌÌÌÌìP@"	ÍÌÌÌÌìQ@" " " " " " " " " 	" 
-" " " " " " " " -" 2" 7" 8" :" ;" <" >" ?" A" B" C" D" E" F" G" I" J" K" L" M" N" O" P" Q" W" €ã!" ·#" ƒ—#" ƒª#" ƒ³#" „µ#" „¹!" „»#" „ä!" …¤#" …¹#" ‡–#" ‡¼#" ˆº#" ˆã!" Šš#" Š·#" ‹—#" ‹¸#" ‹»#" ‹½#" Œ•#" Œ³#" ¹!" ™#" –#" £#" ´#" ô"" ‘º#" ’š#" “ª#" “¸#" “»#" “½#" –¿!" –ø"" —ƒ!" —©#" —·#" —¹#" —¼#" ˜£#" ˜¶#" ™›#" ™´#" › " ›¸#" ›½#" œà"" ¢#" æ"" ³#" Ã " Ÿ™#" Ÿ·#" Ÿ¹#"  æ!" ¢›#" ¢¾!" £¸#" ¥µ#" ¦†!" ¦¹!" ¦º#" §¹#" ¨š#" ¨¶#" ©—#" ª…!" «¦#" «¸#" «¾!" «ı " ­–#" ®•#" ®¹!" ®»#" ®¿!" ¯³#" ¯¹#" °š#" ±Ü " ²‚!" ³²#" ³´#" ´›#" ´¤#" ´¸#" ¶!" ¶•#" ¶–#" ¶¶#" ¶¹!" ¶»#" ·§#" ·³#" ·µ#" ¸‡#" ¸š#" ¹—#" º©#" º·#" º¼#" »¦#" ½™#" ¾¨#" ¾¶#" ¾»#" ¿•#" ¿³#" ¿¹!" Àš#" Àù"" Á¸!" Áº#" Â—#" Â¼#" Ã´#" Åƒ!" Å”#" Å˜#" Å¹#" Å÷"" Æ¤#" Æ¶#" Æ¸#" Æ»#" Çµ#" È³#" Èù"" Éš#" ÉŞ " Éö"" Êü " Ë£#" Ì•#" Í§#" Í¾!" ÍÚ " Î¸#" Îı " Ï¶#" Ï»#" Ğ–#" Ñ¸!" Ñ¹!" Ñº#" Ô—#" Õ”#" Õ¹#" Õ¾!" Ö¤#" Ö¸#" ×™#" Ø¼#" Ùß"" Ú¥#" Ú³#" ÚÙ " Û˜#" Û·#" Üª#" İ”#" İ•#" Ş¦#" Şş " ß™#" à¼#" àİ " á¦#" áº#" á»#" â³#" âç"" ã˜#" ã¾!" äª#" ä¸#" å€!" åµ#" èñ!" é–#" ê³#" êº#" êÿ " ë”#" ëš#" ë²#" ì‹ " ì—#" ì˜#" ì¸#" ì× " íµ#" í·#" í»#" î¡#" îá " ï™#" ïå"" ğƒ!" ğ¹#" ğ¼#" ñ‡#" ñ¶#" ò´#" òÿ"" óš#" ó¾!" ô¸#" õµ#" ÷!" ÷•#" ù¤#" ú—#" ûš#" û²#" ü¦#" ü¸!" ü¸#" üº#" üá!" ıª#" şµ#" ÿ»#. ³ğšÍ§"	Ÿg 7 6	#
-3 ³ï™²ˆ"	{ŸR^ 	 	$5" ³õŸÁ"		kA*1) ³òœ¹ê"	Ÿ*46d5
- ,I ³÷¡Êğ"0	ez¢L2$6:>K8&J;V#U)#-…S ³ +M á	ïõÂ‡"4	‘Ôª†T$.V*$"-P"-S;&' C+25	 “W ıïáæ"?	–´ÚT.#B)7 HL &+V_ Y9 •
-61D, (2 ò	ïÓşÙ"	Ÿœ
-J,H4 "T"I18@ ığ„à"(	Ø‚`5fL+0;2%,++ :Z5 ò	ğÔ¤°"	#¨R0.º37$ ‘27S ®	ï×";	²ÊD,2
+ÿSPOLU (195 hl., 29,77 %) | ANO (168 hl., 25,65 %) | PirÃ¡ti+STAN (120 hl., 18,32 %) | SPD (57 hl., 8,7 %) | ÄŒSSD (45 hl., 6,87 %) | PÅ˜ÃSAHA (24 hl., 3,66 %) | KSÄŒM (20 hl., 3,05 %) | TSS (13 hl., 1,98 %) | VolnÃ½ blok (7 hl., 1,07 %) | ZelenÃ­ (2 hl., 0,31 %) | Å vÃ½car. demokr. (1 hl., 0,15 %) | APB (1 hl., 0,15 %) | Nevolte Urza.cz (1 hl., 0,15 %) | MoravanÃ© (1 hl., 0,15 %)"  ZB"  jB"  nB"  vB"  B"  ƒB"  …B"  ‡B"  ‰B"  ‹B"  B"  B"  ‘B"  “B"  •B"  ™B"  ›B"  B"  ­B"  ÌA"	33333P@"	33333Q@"	33333R@"	33333S@"	33333T@"	33333U@"	333333O@"	333333Q@"	333333S@"	333333T@"	33333SQ@"	33333SR@"	33333SS@"	33333sM@"	33333sO@"	33333sP@"	33333sQ@"	33333sR@"	33333“P@"	33333“Q@"	33333“R@"	33333“S@"	33333³O@"	33333³P@"	33333³Q@"	33333³R@"	33333³U@"	33333ÓP@"	33333ÓQ@"	33333ÓR@"	33333ÓS@"	33333ÓU@"	33333óF@"	33333óL@"	33333óQ@"	33333óR@"	33333óS@"	fffffP@"	fffffQ@"	fffffR@"	fffffS@"	fffffT@"	fffff&F@"	fffff&K@"	fffff&L@"	fffff&Q@"	fffff&R@"	fffff&S@"	fffffFQ@"	fffffFR@"	ffffffI@"	ffffffM@"	ffffffN@"	ffffffO@"	ffffffQ@"	ffffffR@"	ffffffS@"	ffffffT@"	fffff†P@"	fffff†Q@"	fffff†R@"	fffff†S@"	fffff†U@"	fffff¦J@"	fffff¦M@"	fffff¦O@"	fffff¦P@"	fffff¦Q@"	fffff¦R@"	fffff¦S@"	fffff¦T@"	fffff¦U@"	fffffÆP@"	fffffÆR@"	fffffÆS@"	fffffÆT@"	fffffæK@"	fffffæM@"	fffffæO@"	fffffæP@"	fffffæQ@"	fffffæR@"	š™™™™I@"	š™™™™N@"	š™™™™O@"	š™™™™P@"	š™™™™Q@"	š™™™™R@"	š™™™™S@"	š™™™™T@"	š™™™™9P@"	š™™™™9Q@"	š™™™™9R@"	š™™™™9S@"	š™™™™YJ@"	š™™™™YK@"	š™™™™YO@"	š™™™™YP@"	š™™™™YQ@"	š™™™™YR@"	š™™™™YS@"	š™™™™yQ@"	š™™™™yR@"	š™™™™yS@"	š™™™™yT@"	š™™™™™H@"	š™™™™™P@"	š™™™™™Q@"	š™™™™™R@"	š™™™™™S@"	š™™™™™T@"	š™™™™¹P@"	š™™™™¹Q@"	š™™™™¹R@"	š™™™™¹S@"	š™™™™ÙC@"	š™™™™ÙK@"	š™™™™ÙN@"	š™™™™ÙO@"	š™™™™ÙQ@"	š™™™™ÙR@"	š™™™™ÙS@"	š™™™™ùP@"	š™™™™ùU@"	ÍÌÌÌÌM@"	ÍÌÌÌÌN@"	ÍÌÌÌÌP@"	ÍÌÌÌÌQ@"	ÍÌÌÌÌR@"	ÍÌÌÌÌS@"	ÍÌÌÌÌ,Q@"	ÍÌÌÌÌ,R@"	ÍÌÌÌÌ,S@"	ÍÌÌÌÌ,T@"	ÍÌÌÌÌLL@"	ÍÌÌÌÌLM@"	ÍÌÌÌÌLO@"	ÍÌÌÌÌLP@"	ÍÌÌÌÌLQ@"	ÍÌÌÌÌLR@"	ÍÌÌÌÌLS@"	ÍÌÌÌÌlP@"	ÍÌÌÌÌlQ@"	ÍÌÌÌÌlR@"	ÍÌÌÌÌlS@"	ÍÌÌÌÌlT@"	ÍÌÌÌÌŒG@"	ÍÌÌÌÌŒH@"	ÍÌÌÌÌŒK@"	ÍÌÌÌÌŒL@"	ÍÌÌÌÌŒN@"	ÍÌÌÌÌŒO@"	ÍÌÌÌÌŒP@"	ÍÌÌÌÌŒQ@"	ÍÌÌÌÌŒR@"	ÍÌÌÌÌŒW@"	ÍÌÌÌÌ¬P@"	ÍÌÌÌÌ¬S@"	ÍÌÌÌÌÌK@"	ÍÌÌÌÌÌP@"	ÍÌÌÌÌÌQ@"	ÍÌÌÌÌìP@"	ÍÌÌÌÌìQ@" " " " " " " " " 	" 
+" " " " " " " " -" 2" 7" 8" :" ;" <" >" ?" A" B" C" D" E" F" G" I" J" K" L" M" N" O" P" Q" W" €?" €D" €I" €ã!" <" D" I" ·#" ‚" ‚D" ‚H" ƒD" ƒI" ƒ—#" ƒª#" ƒ³#" „D" „I" „µ#" „¹!" „»#" „ä!" …D" …H" …I" …¤#" …¹#" †D" †H" †I" ‡D" ‡H" ‡I" ‡–#" ‡¼#" ˆH" ˆI" ˆº#" ˆã!" ‰D" ‰H" ‰I" ŠD" ŠH" ŠI" Šš#" Š·#" ‹" ‹F" ‹H" ‹I" ‹—#" ‹¸#" ‹»#" ‹½#" Œ" Œ" Œ<" ŒH" ŒI" Œ•#" Œ³#" " " " F" H" I" ¹!" " H" I" ™#" " " H" I" –#" " H" I" £#" ´#" ô"" ‘" ‘H" ‘I" ‘º#" ’" ’H" ’I" ’š#" “" “D" “H" “I" “ª#" “¸#" “»#" “½#" ”" ”?" ”D" ”I" •
+" •" •$" •?" •D" •H" •I" –" –D" –I" –¿!" –ø"" —" —D" —H" —I" —ƒ!" —©#" —·#" —¹#" —¼#" ˜" ˜H" ˜I" ˜£#" ˜¶#" ™" ™D" ™H" ™I" ™›#" ™´#" šD" šH" šI" ›@" ›D" ›H" › " ›¸#" ›½#" œH" œà"" H" I" ¢#" æ"" H" I" ³#" Ã " ŸC" ŸH" Ÿ™#" Ÿ·#" Ÿ¹#"  D"  I"  æ!" ¡" ¡C" ¡D" ¡H" ¢<" ¢C" ¢D" ¢›#" ¢¾!" £C" £H" £I" £¸#" ¤C" ¤H" ¥C" ¥F" ¥H" ¥I" ¥µ#" ¦" ¦C" ¦H" ¦I" ¦†!" ¦¹!" ¦º#" §C" §E" §I" §¹#" ¨C" ¨H" ¨š#" ¨¶#" ©E" ©H" ©I" ©—#" ª" ª" ª$" ªH" ªI" ª…!" «$" «>" «H" «¦#" «¸#" «¾!" «ı " ¬C" ¬H" ¬I" ­H" ­I" ­–#" ®C" ®F" ®H" ®I" ®•#" ®¹!" ®»#" ®¿!" ¯C" ¯H" ¯I" ¯³#" ¯¹#" °C" °E" °H" °I" °š#" ±C" ±E" ±F" ±H" ±I" ±Ü " ²H" ²I" ²‚!" ³H" ³I" ³²#" ³´#" ´H" ´›#" ´¤#" ´¸#" µ" µE" µH" ¶C" ¶E" ¶H" ¶!" ¶•#" ¶–#" ¶¶#" ¶¹!" ¶»#" ·H" ·§#" ·³#" ·µ#" ¸C" ¸F" ¸H" ¸‡#" ¸š#" ¹C" ¹H" ¹—#" ºC" ºF" ºH" º©#" º·#" º¼#" »C" »H" »¦#" ¼" ¼E" ½" ½H" ½™#" ¾" ¾" ¾C" ¾H" ¾¨#" ¾¶#" ¾»#" ¿" ¿" ¿:" ¿C" ¿H" ¿•#" ¿³#" ¿¹!" À" À'" ÀC" ÀE" ÀH" Àš#" Àù"" ÁC" ÁE" ÁH" Á¸!" Áº#" Â" Â" ÂC" ÂH" Â—#" Â¼#" Ã" Ã" Ã" ÃC" ÃE" ÃF" ÃH" Ã´#" Ä" ÄF" ÄH" ÅH" Åƒ!" Å”#" Å˜#" Å¹#" Å÷"" Æ" ÆC" ÆE" ÆH" Æ¤#" Æ¶#" Æ¸#" Æ»#" ÇF" ÇH" Çµ#" È$" ÈC" ÈH" È³#" Èù"" É:" ÉC" ÉH" Éš#" ÉŞ " Éö"" Ê" ÊC" ÊH" Êü " ËC" ËH" Ë£#" ÌC" ÌH" Ì•#" Í" Í" ÍH" Í§#" Í¾!" ÍÚ " Î" ÎC" ÎH" Î¸#" Îı " Ï" Ï" ÏC" ÏH" Ï¶#" Ï»#" Ğ" Ğ" Ğ" ĞH" Ğ–#" Ñ" Ñ" ÑC" ÑE" ÑH" Ñ¸!" Ñ¹!" Ñº#" Ò" ÒC" ÒH" Ó" Ó" ÓC" ÓH" ÔH" Ô—#" Õ" Õ" ÕC" ÕH" Õ”#" Õ¹#" Õ¾!" ÖH" Ö¤#" Ö¸#" ×" ×>" ×C" ×H" ×™#" Ø" ØH" Ø¼#" Ù" ÙC" ÙH" Ùß"" Ú" ÚC" ÚE" ÚH" Ú¥#" Ú³#" ÚÙ " Û" Û" ÛC" ÛH" Û˜#" Û·#" Ü" ÜC" ÜH" Üª#" İ" İC" İE" İH" İ”#" İ•#" ŞC" ŞE" ŞH" Ş¦#" Şş " ßC" ßE" ßH" ß™#" àE" àH" à¼#" àİ " á" áC" áE" áH" á¦#" áº#" á»#" â" âE" âH" â³#" âç"" ãC" ãE" ãH" ã˜#" ã¾!" äC" äE" äH" äª#" ä¸#" åC" åE" åH" å€!" åµ#" æC" æH" çC" çE" èE" èH" èñ!" é" éC" éE" éH" é–#" ê" êA" êC" êH" ê³#" êº#" êÿ " ë" ëE" ëH" ë”#" ëš#" ë²#" ì" ìH" ì‹ " ì—#" ì˜#" ì¸#" ì× " í" íH" íµ#" í·#" í»#" îH" î¡#" îá " ïA" ïH" ï™#" ïå"" ğC" ğH" ğƒ!" ğ¹#" ğ¼#" ñH" ñ‡#" ñ¶#" òH" ò´#" òÿ"" óH" óš#" ó¾!" ôG" ôH" ô¸#" õ$" õ>" õC" õE" õH" õµ#" öC" öE" öG" öH" ÷" ÷C" ÷G" ÷H" ÷!" ÷•#" ø" øC" øE" øG" øH" ùE" ùG" ùH" ù¤#" úC" úG" úH" ú—#" ûG" ûH" ûš#" û²#" üC" üG" üH" ü¦#" ü¸!" ü¸#" üº#" üá!" ıC" ıG" ıH" ıª#" şG" şH" şµ#" ÿC" ÿG" ÿH" ÿ»#1 Ğ
+¹Â–Ÿÿ"	Ÿg 7 6	#
+, Û
+¹Ä˜Ô"	Ÿ*46d5
+ ,L ñ
+¹Éœ¢Ë"0	ez¢L2$6:>K8&J;V#U)#-…S ³ +P ÍŠÁî–ğ"4	‘Ôª†T$.V*$"-P"-S;&' C+25	 “Z ‡€
+Á¹Ğ"?	–´ÚT.#B)7 HL &+V_ Y9 •
+61D, (5 ô¼ÁÍÕ´"	Ÿœ
+J,H4 "T"I18C Š€
+ÂÛÂ"(	Ø‚`5fL+0;2%,++ :Z8 ø¼ÂÎûˆ"	#¨R0.º37$ ‘27V âŠÁ¯õ";	²ÊD,2
 @	0\ T'+G )#.2
 %
-‡5 ó #84G “	ïÂøÇ".	Ÿø’ˆ6DB$ 6$	$ 2 : ¾	ï‡¨Å "!	Ÿü: ‹ <!2	l2G 2 Ôï)êã "	Ÿì*<8<-=	 I M I ‡	ïş¢ñ "0	Ÿ¶¢.>Z0 8	"" $kt= i:2$:MjY ú	÷5æ‡ "A	Ê â.(6T	.@$%<&$$&50'' 
-	 ï ƒ‡ Æ	ï¿Ò˜"n	Ÿò! 	ĞÊ( (6/%#%#&;.@^ 4&@
+‡5 ó #84J ŒÁ
+Á¼Ï¬".	Ÿø’ˆ6DB$ 6$	$ 2 = ”
+·Á„şª "!	Ÿü: ‹ <!2	l2G 5 ‘	–	Á)ÁÅ "	Ÿì*<8<-=	 I M L „
+
+ÁîùÌ "0	Ÿ¶¢.>Z0 8	"" $kt= i:2$:Mj\ °
+ÌÉ4¸à "A	Ê â.(6T	.@$%<&$$&50'' 
+	 ï ƒŠ ÚËÁ¸¤ñ"n	Ÿò! 	ĞÊ( (6/%#%#&;.@^ 4&@
 DJ;$'s3/J.&
 @6E#;*((&/	 ¿
-	B ­	ïFĞ– "*	Ÿ *‚P4$&*0(4jŒCG$%&Q '‹' 	ğá˜"	Ÿœ-&’&, 	ïó¦"	Ÿ†/2J@ !*@ 	ö¡†’"'	‡Œ0z bb”Jpfd<"I0E_SG5I? ¹M è	ï¢é„ "4	ŸŞ2²@6JTHF`+9.2#" &r H
-O	5 öï§îÜ "	@ˆ7R$	Š\%>c^; ëP
-P'; „	ïÊÃÇ""	²:j,F
-H.22FZ; Y:7! Ï- ¶ïƒãí"	ŸÜ= 	b<2;
-M –	ï–Øœ"4	P¶<²V®;8 f(C*-OU;1 O 98"Z9 <3 Õ	ïÉ  "	¦ŸR&
-M$O+A	5 ³ñ›Ç"	˜ŸR
-B )]‡%)][ ¯	ï‘Òç"B	¢Ÿê$	H, "5'G)OG#/#C	%X «ïÎ¢"@	ºŸ¢-6
+	E ÁE¢õ "*	Ÿ *‚P4$&*0(4jŒCG$%&Q '‹* 	²
+Â—¹÷"	Ÿœ-&’&/ „	²
+Á–Ê…"	Ÿ†/2J@ !*C ¦	²
+ÈšØë"'	‡Œ0z bb”Jpfd<"I0E_SG5I? ¹P Ş	•ÁÀí "4	ŸŞ2²@6JTHF`+9.2#" &r H
+O	8 Ñ
+õ	Á¢Å¾ "	@ˆ7R$	Š\%>c^; ëP
+P'> Ÿ	–
+ÁÄ—³""	²:j,F
+H.22FZ; Y:7! Ï0 ½	¿Áüµ×"	ŸÜ= 	b<2;
+P ©
+È
+Á“ªû"4	P¶<²V®;8 f(C*-OU;1 O 98"Z9 <6 É÷Á¡ø "	¦ŸR&
+M$O+A	8 Õ
+¹Ã—Ÿè"	˜ŸR
+B )]‡%)]^ É	ÁªÉ"B	¢Ÿê$	H, "5'G)OG#/#C	%[ ½ŸÁ¦"@	ºŸ¢-6
 1	C@>S'1*!=16G
-#	„ *W@!#)w ï	ï••"^	¨ŸÒCJ-5-GÌ	f;3G; 5 --"5C" t%"-K7#$'3= %3311Q--0S
-(3\%@;	@ ³óŞÊ"'	1‚ˆ^=&' Y2*^" 93G=sa2? ³ôÈğ"&	s#‚tbH>:4"K@9=5#K1c%%E ³ö ±ƒ ",	ú–’>""!<5A6I%7LL?!| ³ùİ«»"c	î‰êD$0$HP*H($  *+D9=C"795IA!!=O]!1)Z(h?,P#[ ²ïñ–£"B	¤öê6J$((+4H&@
-@]!#/;*7111!O'B56";… Ô	ğ‘Ûª "l	˜îŠ228)<0$PÀ75=)&003N+Z
-(2'(='-2	@8Q‡+a576eU, %GK8*$AN ²ğò—Ÿ "5	à¬²>D:0>L&+ )E=!?%G,3'#':8s Ô	ïøÖ"Z	–°Â ">F*%L(0
+#	„ *W@!#)z œ
+¬Áçü"^	¨ŸÒCJ-5-GÌ	f;3G; 5 --"5C" t%"-K7#$'3= %3311Q--0S
+(3\%@;	C Ş
+¹Å™¶¦"'	1‚ˆ^=&' Y2*^" 93G=sa2B á
+¹Æš Ñ"&	s#‚tbH>:4"K@9=5#K1c%%H ë
+¹È›‡ã ",	ú–’>""!<5A6I%7LL?! Å
+¹Ë×§"c	î‰êD$0$HP*H($  *+D9=C"795IA!!=O]!1)Z(h?,P#^ ¨´Áêè"B	¤öê6J$((+4H&@
+@]!#/;*7111!O'B56";ˆ Û	öÂŠ­ "l	˜îŠ228)<0$PÀ75=)&003N+Z
+(2'(='-2	@8Q‡+a576eU, %GK8*$AQ ®´Âëé‹ "5	à¬²>D:0>L&+ )E=!?%G,3'#':8v Ö	öÁ‰Ï±"Z	–°Â ">F*%L(0
  7.>
-1#‚q8 *S1'	Y,M4// %*6>8O¿"^?\ ©ğÔ…† "C	êşê>8'4*(F. 8B=' .)
+1#‚q8 *S1'	Y,M4// %*6>8O¿"^?_ ñ™ÂËÜæ "C	êşê>8'4*(F. 8B=' .)
  
-+'	5,[?)r7$2	-=8i åï•îÃ"P	XÊ¢86b,ˆR ,D3M37sB"+	,+-.7
-! S!3G,&+1<,/† ¢	ï£Ì¤"m	š†Š84N42FT¨,4B; $4>(/'&%41!+&e%	)u‡/?	+1C-/	8-.,+,
-!] ÜğH¦Ú"E	ØŒê@\6+(
++'	5,[?)r7$2	-=8l ü	Í	Á’Å¨"P	XÊ¢86b,ˆR ,D3M37sB"+	,+-.7
+! S!3G,&+1<,/‰ Š
+ã
+Áœƒ"m	š†Š84N42FT¨,4B; $4>(/'&%41!+&e%	)u‡/?	+1C-/	8-.,+,
+!` ü°	ÂGüÆ"E	ØŒê@\6+(
 	,€ *	6#$…$9W#E±:+C7
-?1.(>('p ÜïG„ "X	„ˆ
+?1.(>('s ÷°	ÁFôä "X	„ˆ
 º$X<R\G8)6:6 2 ,^
-"(	*/E<'2=9i8),A3+§S1E34"%²9K ¥ñ•ë"3	†E²">)2(T "d7<5"} Y)#6  !+\ ¥ò—ÿ "D	ÈŸò
+"(	*/E<'2=9i8),A3+§S1E34"%²9N ¯
+ÃçÆ"3	†E²">)2(T "d7<5"} Y)#6  !+_ ¶
+Äîß "D	ÈŸò
 ?<[&'43<)8$!('S!!c=?D2
-	.5H *$"X?s ¥ï×ï "[	‚/Ò.R,_B#
-1TgXC(	"# I;	1% 5!%%=K/,CZ~6!8;"T( '"# 7**/TZ ¥ğµ¿ "B	Æüê"&6& 2
-<JRR + " ?, 5)M'%!91?S	&K,³ ©ïÓíñ"™	ĞÌÂP?*PB 3  (#,50#@•`'02"(
+	.5H *$"X?v £
+Á©Ğ "[	‚/Ò.R,_B#
+1TgXC(	"# I;	1% 5!%%=K/,CZ~6!8;"T( '"# 7**/T] ¨
+ÂŠ¤ "B	Æüê"&6& 2
+<JRR + " ?, 5)M'%!91?S	&K,¶ í™ÁÊÄÒ"™	ĞÌÂP?*PB 3  (#,50#@•`'02"(
 :IA8)3Y9E(1!+g:+5 -(>A7-'E)(3=7/	'
-T@:2" (&N*60 !D,(.+l?;E*Mv É	ïÃË­ "]	ŞXÚ424&>(4"&<4=)NF<k@-,'+"C/@+!,QQ$
-!D'hW2S$	`A+_ Şï<ìñ "G	æ		ú,"'2F:I`' >Mv;4'
-	!]+ 195*5H7[;Q:†#$#,d Ø	ïl¹ˆ "L		’&h(06X7JB-2'Y
-oL%I;;!Q?G <3Nu=(J_Z4*B7J“ 	ïÊ¸ "{	ü¨ÊJ(!. .$%($†6 +9<O<
+T@:2" (&N*60 !D,(.+l?;E*My ŸÔÁ½™ "]	ŞXÚ424&>(4"&<4=)NF<k@-,'+"C/@+!,QQ$
+!D'hW2S$	`A+b Æµ	Á;ÃÚ "G	æ		ú,"'2F:I`' >Mv;4'
+	!]+ 195*5H7[;Q:†#$#,g èüÁiá "L		’&h(06X7JB-2'Y
+oL%I;;!Q?G <3Nu=(J_Z4*B7J– Ö±
+Áœ "{	ü¨ÊJ(!. .$%($†6 +9<O<
 00!& gN) 9
 N ,?) Q!C !'3
--:3+A8IW5/'20=N8'("#j ’	ï„µø"Q	€€¢,94	.PM#,,.H-$!!*HE6
-&K	ƒ5+$-#"9M3W<J&pK	Z(.1r Õï¶ÕÖ"Y	ÎÂ$*H (,$4 ˜ PA-(76LS$1Ÿ#
-#5#AC&	1	H Š	ïûİµ"/	Â¾šˆ0v
+-:3+A8IW5/'20=N8'("#m ‡	À
+ÁôØ"Q	€€¢,94	.PM#,,.H-$!!*HE6
+&K	ƒ5+$-#"9M3W<J&pK	Z(.1u “
+—	Á¯§¹"Y	ÎÂ$*H (,$4 ˜ PA-(76LS$1Ÿ#
+#5#AC&	1	K “¦
+Áô¯š"/	Â¾šˆ0v
 *&fl(!g1C
-'# S[K âï
-Ê"3	úÌª(	2Dh"R('>8'4+#.eKN%	Q—3o ôïÖù "V	ØÚº
-R& T0&#!N$ K=1,9 1 i1";T#K58' . Bg Ğ	ïôÙš"N	¬Àš\CRc%z381a'!*%5 2+>L#"M$$0/ Ğ	ğõúâ"	ÌÂ:6’)&y ëï¥×ı "h	¼˜‚$h"*( +	HUY!)-A.A+&9[W/#%/SLMf$-,(37(=&..F• ’	ü“¾¡"|	€	²Ò@"R'&1`.=;"("$$=85! /,(M8 E--%Q''k%, "2&3(%0='3#<+*j7 :>1( F;G Ğ	ñöüÌ ".	ŠŞ’0<`0j*rO#; 1#‘. Qi 	ïLŒ  "Q	Üğš ¶(2>š+
-O+1%4%b3.)i/_; /:%,B-z Ğ	ôùÌá "a	~Ğâ"( b2-/>-h(/‚b 
+'# S[N š
+Á	Á
+¢æ"3	úÌª(	2Dh"R('>8'4+#.eKN%	Q—3r 
+ó	Áˆ¨Ó "V	ØÚº
+R& T0&#!N$ K=1,9 1 i1";T#K58' . Bj —ëÁå±ó"N	¬Àš\CRc%z381a'!*%5 2+>L#"M$$0„ ‚Ú	Á¯æ "h	¼˜‚$h"*( +	HUY!)-A.A+&9[W/#%/SLMf$-,(37(=&..F˜ œ	À
+Îÿ–†"|	€	²Ò@"R'&1`.=;"("$$=85! /,(M8 E--%Q''k%, "2&3(%0='3#<+*j7 :>1( F;J ëÃæÓ¸ ".	ŠŞ’0<`0j*rO#; 1#‘. Ql –×
+ÁKŞŒ "Q	Üğš ¶(2>š+
+O+1%4%b3.)i/_; /:%,B-} ¯ëÆéÌ "a	~Ğâ"( b2-/>-h(/‚b 
 4	D-/	!-U0!7
- Y/;;7M  ûH:6&)4 Ğ	óø·Ï "	¼R4 *\/$E. 7x Ğ	õúîÍ "_	ŞÀÚF$4: bb.D-k,<O"892h!++I;3#!/V".0
+ Y/;;7M  ûH:6&)7 ªëÅè³ "	¼R4 *\/$E. 7{ ³ëÇêÅ© "_	ŞÀÚF$4: bb.D-k,<O"892h!++I;3#!/V".0
 .C
-3	 a0'g.J Ğ	ò÷—Ì"1	øò¢‚$2< P$F^4X{/'-Caa9 #3#0[U äïò¶Ó "<	¼†Ò2JFXFT:2'":g#-5. i#!!Q]Eq-] ±	ïÒÌ¾"D	’´ò(|0*&2'7ZM"!@A,FI;$M9+%" g:17!P;l+.D ¤	ïcÑé ",	Œ¢’`	VO7%( /91)N<# JE+BD Ê	ï'€…",	¨Ò’>8$@8kB-
-!? %I"?!NY8T õïïÛ"<	ÎäÒ`* $
+3	 a0'g.M ¢ëÄçî°"1	øò¢‚$2< P$F^4X{/'-Caa9 #3#0[X ü
+È	Áã¶ "<	¼†Ò2JFXFT:2'":g#-5. i#!!Q]Eq-` µ
+‘ÁÌ¤ª"D	’´ò(|0*&2'7ZM"!@A,FI;$M9+%" g:17!P;l+.G ®
+è
+Á`£Ä ",	Œ¢’`	VO7%( /91)N<# JE+BG »
+ÕÁ'×Ş",	¨Ò’>8$@8kB-
+!? %I"?!NY8W ‡ô	ÁÆÇ"<	ÎäÒ`* $
 t
-;N7&1$-#)S/8'#E9@ ".	Al7[ ’	ò‡Üµ"B	Š	¸ê>F:/4/.BA>g!OE0 6" 7>##!'<!>-W ’	ñ†ü">	Ö	ÈÚ<4XN:!$?8 :,65;3A0-309=E$I( ’	óˆ‚Ø "	–	†"B9"=& ’	ô‰¥È"	Ì	ì@?& ’	õŠŠŞ"	Ê	ˆ$'b ’	÷Œí— "I	Ø	¸º<
+;N7&1$-#)S/8'#E9@ ".	Al7^ ª	À
+Ä÷´“"B	Š	¸ê>F:/4/.BA>g!OE0 6" 7>##!'<!>-Z ¤	À
+ÃöàÕ">	Ö	ÈÚ<4XN:!$?8 :,65;3A0-309=E$I+ ®	À
+ÅøÙ³ "	–	†"B9"=e Ã	À
+ÉùÄö "I	Ø	¸º<
 (,#	 % ,.7™=1' P
-G,'):!	¥*"*XŸ& ’	ùµ"	®
-‚( ’	ø‘"	
-ò"4I ’	ö‹Š÷"0	ĞØr!:Ux'+	;#<60
-	[ "T ñ	ïn»Æ"<	¾
-¦ÊP2bƒ2&)92\HWEI1&a&32,Pd[ ê	ôRƒï "C	äê$*N 
- 5A:0&C)CBI^(!91ESG[:1*%„1P ’	ğ…˜ú"7	¬ˆ²$F@@%P+$‘!—U/	+59 7@.,#„6
-L	%F5] ’	ú‘÷"D	ĞØê˜’"4\ 5
+G,'):!	¥*"*XŸ) 	À
+Ëüæ¡"	®
+‚W î¹Ák«"<	¾
+¦ÊP2bƒ2&)92\HWEI1&a&32,Pd^ ï˜ÆPÕÙ "C	äê$*N 
+ 5A:0&C)CBI^(!91ESG[:1*%„1S 	À
+ÂõêÚ"7	¬ˆ²$F@@%P+$‘!—U/	+59 7@.,#„6
+L	%F5` ”	À
+ÌıÎö"D	ĞØê˜’"4\ 5
 94 3"\<IQ#8&1O-+&
-$VwG ’	û’’®".	Şü’2J2c[i_*o/a%$7RJ;”
-f ê	ğNŒ‡ "N	ŞÊš68-$
-& %![!?8# ?0%9/B6	 M)#p`)j\T èï9¹é "<	ÆÜÊpXd<068	T$
+$VwJ ˜	À
+Íşäš".	Şü’2J2c[i_*o/a%$7RJ;”
+i Ø˜ÂMãç "N	ŞÊš68-$
+& %![!?8# ?0%9/B6	 M)#p`)j\W å
+Ğ	Á8‘Ó "<	ÆÜÊpXd<068	T$
 
-P% 9D "751I1C&“	[4! :3W äğó‰¾ ">	¢àÚ.j&0X:/HL:_)?#7=-1%)W3R"$"j9 ê	òPØÈ "!	ô
-¼j".RZ91-bW9J]A# ê	óQÆÕ "	ô
-¼*c ÆïTÄ” "K	¾
-ØŠ2:R,RF6(6,@(@,&*;E'i7--+ @7:=‰9K0G9/WVX ½ïDÍ× "@	ê
+P% 9D "751I1C&“	[4! :3Z ƒÈ	ÂäÛœ ">	¢àÚ.j&0X:/HL:_)?#7=-1%)W3R"$"j< á˜ÄO°¤ "!	ô
+¼j".RZ91-bW9J]Af Œ	òÁR˜í "K	¾
+ØŠ2:R,RF6(6,@(@,&*;E'i7--+ @7:=‰9K0G9/WV[ Ú
+ŞÁCŸ² "@	ê
 Œâ$<,&B*$ <A05%%!,)?
 "=
-+'09 ê	ñOì¨ "!	œÒj-2u4%")%D l ê	ïM©° "T	 Š²"\ &" TT> -.!4(>d<O=::#%)+?'?5+'E5+QQ Y+*&!v3.1$ 7† ĞïÇÛ®"m	Ú”’,..8jF(<$>6\d(y:,'1J7#'e,4YM#)%A+;#(/(-9	s#Š>98 ?á 	ñ…å"È	€Ÿò&H0L4L0J.&:5B-.kH%;>£@.HG"=.3EH/ MH%:
++'0< Ü˜ÃN¾ "!	œÒj-2u4%")%D o Ò˜ÁLÿœ "T	 Š²"\ &" TT> -.!4(>d<O=::#%)+?'?5+'E5+QQ Y+*&!v3.1$ 7‰ ¶‰	ÁÁ­“"m	Ú”’,..8jF(<$>6\d(y:,'1J7#'e,4YM#)%A+;#(/(-9	s#Š>98 ?ä à±
+Ã×Ç"È	€Ÿò&H0L4L0J.&:5B-.kH%;>£@.HG"=.3EH/ MH%:
 8!:C0$ !'7(M/>1%g9"	9'!1 (/–_?/$6$+ '4 AO)@O>3;%!$#8L.!& sD! 6.!. 6< H4<
-eHË.6.DI ğï{Áı"x	„Ôª~â	V6V.„™Ø-@M</$H12_63-")+(		+[?9-W55#…'#& -"-'I"9	79&GN0FG4>-H!G-¤?<=&lG 	ğ—ã "x	€–
+eHË.6.DI“ •	é	Áx•Ö"x	„Ôª~â	V6V.„™Ø-@M</$H12_63-")+(		+[?9-W55#…'#& -"-'I"9	79&GN0FG4>-H!G-¤?<=&lG“ Û±
+Âî¾ "x	€–
 Â , 6.X:\@
 ,'
-, *0@"-(R)& <(B.6%J C-?51+%'+Q;W-35!+ 	M:* hM %"//;	P;‹ º	ïÑÇº"r	 Ÿ¢4.",@$4&2Hb:$$X.0DD*
+, *0@"-(R)& <(B.6%J C-?51+%'+Q;W-35!+ 	M:* hM %"//;	P; È¬ÁÈŸŸ"r	 Ÿ¢4.",@$4&2Hb:$$X.0DD*
 &:BN 9?2!:->3¬C-#K'}OC1+5U
-U}á6A?'- /I3KK/%G{ Á	ï–"b	ÚâÚ2PD~ L($¢pt„(q.=#$*'0+-B>GJQ#a%9)K
-#	C7J*!w;N.?š×ï ƒ	ï—È˜"Õ	²
+U}á6A?'- /I3KK/%G~ ÉÀÁ‚ßé"b	ÚâÚ2PD~ L($¢pt„(q.=#$*'0+-B>GJQ#a%9)K
+#	C7J*!w;N.?š×ò ¾‘
+Áƒšı"Õ	²
 ²8 D
 	$L*&:$bRHI= A., (/)$#>r-"DRJFLL.8O@\$(T1&&M('@OD)I
 …B\
 N~N5Z/
-!#1% aA	Ya/)Y7Q!M]	/)+9A+%40+-5A';*%Q.'!/?) *.!4`512G0#x")“ ª	ï¦ĞŠ"z	èôÊ4"(D"R*@6".4X<R,(&, 2@6. D)@)0*#7<"IA	'=/5;Wco3[4'&O??E#")"#G.-++$N{ Ù	ïuŠ´"c	œÂêB,:,0*
+!#1% aA	Ya/)Y7Q!M]	/)+9A+%40+-5A';*%Q.'!/?) *.!4`512G0#x")– ù
+Á¡¨ã"z	èôÊ4"(D"R*@6".4X<R,(&, 2@6. D)@)0*#7<"IA	'=/5;Wco3[4'&O??E#")"#G.-++$N~ £ıÁrÜ’"c	œÂêB,:,0*
 N^R"Z80*b
-ZBb &2$-")?;97oC7…]i<DK5!#;)*/*?&I,/3£ ¸ïÙü"‰	Šú<"$6 CLj; †^D8p:8@<*#<+—)> +
+ZBb &2$-")?;97oC7…]i<DK5!#;)*/*?&I,/3¦ õÇÁú±Ü"‰	Šú<"$6 CLj; †^D8p:8@<*#<+—)> +
 5:0 
 $G.I7'*2+ 2537D;I7]‘
 3
 \ !S=-/	O#	
 S7>(B
-J!8;d ´	ïüº "K	Šæ‚0>."T 	[ 4	’8^<JKz‰€ek7=c'"3.-=SS	%.#! :C† µ	ïı¹¢ "m	š¬Š84,H8<230T,N  tJ$-H05r&!!_)#!m
-%-E-O=3)‹_.e)5[=9>9P;8lfŠLy| úï­Ñê "c	ÌÆê*Œ>4P.F.&n	$"`*""6,7(! )'9;8OH	:'% 1+#=99&1I!VG	Y- ¬	ï‡ê®"h	¸®úJ:F(	DD(9L
-$2	!@/EP>\ `$g*_"VO<6ªSO‡[#.Is+MS4/17;G+6‰ Áï;½ò"q	ÆªŠ *®`.2*0J4
+J!8;g Æ™Áìç "K	Šæ‚0>."T 	[ 4	’8^<JKz‰€ek7=c'"3.-=SS	%.#! :C‰ ´	œÁö‡ "m	š¬Š84,H8<230T,N  tJ$-H05r&!!_)#!m
+%-E-O=3)‹_.e)5[=9>9P;8lfŠLy Áú	Á¦©Ë "c	ÌÆê*Œ>4P.F.&n	$"`*""6,7(! )'9;8OH	:'% 1+#=99&1I!VG	Y-„ €€Á€ÁŒ"h	¸®úJ:F(	DD(9L
+$2	!@/EP>\ `$g*_"VO<6ªSO‡[#.Is+MS4/17;G+6Œ ›æÁ:•Ó"q	ÆªŠ *®`.2*0J4
 .w	°
-ˆ¬/b^M|WG+)M%k]Gµa52'1 +7.!"0	6YM}	M[†Az —	ï‚ƒ "a	¤â,8 (2 16=OF?0"1
+ˆ¬/b^M|WG+)M%k]Gµa52'1 +7.!"0	6YM}	M[†A} Ü
+É
+ÁûÚÿ"a	¤â,8 (2 16=OF?0"1
 #K	':C
-C'9E1()J8H-	#9/6,	=*˜,$;j ®ï‹‹¶"Q	„Ö¢  ¶b^Hl&N*B*,!;ZK.JAYOU ')71M%'$U`!)h#_G ®òéÁ".	ºÊz<008	n3K/!!G	n&%a ‰	ï’¹Ø"H	†ä‚@,*F&:D+0\:	?DQ!C		1)5=<:3!5%Q ®ó£Ã"8	–øZ4	*@<"9[	'5Z"E0.C,9%)EPŠ ®ğŒû×"q	ººÊ&N28 *(VPZB" (\xX{)OOE%C!S[
-7//;HH75©P;#	®"-	¾s 4 ®ñ—³"	ê†RT\"&DF	w'?)
-md İ	ï½Î"K	ü¢ŠH,X8-P"4/p4b”1@)Z74qD" 72cY3wW['!IL-<Y"+)T êïÆâ";	m® Ò ( .&
+C'9E1()J8H-	#9/6,	=*˜,$;m Ç	¢Áˆâ”"Q	„Ö¢  ¶b^Hl&N*B*,!;ZK.JAYOU ')71M%'$U`!)h#_J Ù	¢Ä‹À­".	ºÊz<008	n3K/!!G	n&%d ù 
+Á‹‘»"H	†ä‚@,*F&:D+0\:	?DQ!C		1)5=<:3!5%T ß	¢ÅŒú¯"8	–øZ4	*@<"9[	'5Z"E0.C,9%)EP Ì	¢Â‰ÒÃ"q	ººÊ&N28 *(VPZB" (\xX{)OOE%C!S[
+7//;HH75©P;#	®"-	¾s 7 Ó	¢ÃŠîŸ"	ê†RT\"&DF	w'?)
+mg êƒÁ·õº"K	ü¢ŠH,X8-P"4/p4b”1@)Z74qD" 72cY3wW['!IL-<Y"+)W ÏÕ	ÁÀ´í";	m® Ò ( .&
 "P&<DP0,1D?]-?#-
-S5-'v œïÃ©›"]	²úÒJ,,&:,*2>j2J($,9*%31JS,I /OC%;!O%	-'<M#91j9>^ Ùï*‚” "F	ò€#úJ+T<
-6&."+.#S#BA");	C?% 32C+_ ÓïÜ»ø"F	ô¾$ú$$T,-,Hd*Q N,+
-"ICE0!!-=!;<#I<*B!€ ¯ï”‡½"g	ò úF$7(0T*.$->&8 RZ(*<$!S _,KW$Q$ 3%?20: &%5-+#'I1=i:0  &'8Pr ç	ï:“æ "Z	ä!Â4&# #RXL`+T †#^d:(:%E+I!0I  ,)._!!1)#1 ?-+O %€9/1^ 	ïö¸Ş "E	ÖÂ"ò.&6,P. @$2*"2±v+MR)c+G!-%	5;$74&O ú	ô2ÀĞ"7	ÂÒ%º`""M|5#$*&X3)I<AWccDJ!,	²uB ú	õ3éş"*	ú€'Š6D40
-"<AB E	G%W)#f Ò	ïíä"N	E¨'šF$>H$<+*F0.."L,&5F(	s<-)3'/)%#O3 ı0%''c ú	ò0ŞÛ "K	@â%Š4(t<".>" ,H@  @(‘¨+%!K-/-E),#;Gs?%	-3 ú	ó1æó"	¶Ê'RddX!?? G+"/% ú	ñ/í‘ "	¬)
-.S,3; ú	ğ.‰š"#	ˆ„)r"B 7& *U45007[fsTj 	÷¢‘¦"Q	ŸÒ,’(ŒR&%H#DD	‚`)!A˜Lb9LN(S+7;R:EaŸ5	(I? %‘%X ú	ö4äÎ"@	²Î*Ò8\L$x;Š6F-	3—KB"* _
+S5-'y ¸ùÁ¼ÿú"]	²úÒJ,,&:,*2>j2J($,9*%31JS,I /OC%;!O%	-'<M#91j9>a ç¨	Á*Ôó "F	ò€#úJ+T<
+6&."+.#S#BA");	C?% 32C+b 	ÁÖÒ"F	ô¾$ú$$T,-,Hd*Q N,+
+"ICE0!!-=!;<#I<*B!ƒ ï	¨Á‘Ù›"g	ò úF$7(0T*.$->&8 RZ(*<$!S _,KW$Q$ 3%?20: &%5-+#'I1=i:0  &'8Pu â
+“Á9åÁ "Z	ä!Â4&# #RXL`+T †#^d:(:%E+I!0I  ,)._!!1)#1 ?-+O %€9/1a Œ¬
+Áï¹ "E	ÖÂ"ò.&6,P. @$2*"2±v+MR)c+G!-%	5;$74&R 
+ÌÆ1”´"7	ÂÒ%º`""M|5#$*&X3)I<AWccDJ!,	²uE ¥
+ÌÇ2»Ş"*	ú€'Š6D40
+"<AB E	G%W)#i ˜ñÁÄÆ"N	E¨'šF$>H$<+*F0.."L,&5F(	s<-)3'/)%#O3 ı0%''f 
+ÌÄ/¶¶ "K	@â%Š4(t<".>" ,H@  @(‘¨+%!K-/-E),#;Gs?%	-6 •
+ÌÅ0¸Ü"	¶Ê'RddX!?? G+"/> ‹
+ÌÂ.àù"#	ˆ„)r"B 7& *U45007[fsTm ¬	²
+É›ã’"Q	ŸÒ,’(ŒR&%H#DD	‚`)!A˜Lb9LN(S+7;R:EaŸ5	(I? %‘%[ ª
+ÌÈ3¼²"@	²Î*Ò8\L$x;Š6F-	3—KB"* _
 Ci‹*.t;
-'O ú	ï-½Ğ"7	”À(º
-HGJP )	7,+1wK#/6/V3)8%J;*N å	ï¾Ø– "5	úÚ(²8&&2"rL,1) $7/-G!ŸOHIFB æ	ï©Šî")	ä¬+‚02K^bK#)3+8
-*"Ht Â	ï…Õâ "[	ğì+Ê4*$ L‚aL]0 4-*8<3X [@!> )6#+++7)M':K-.
-E5&WK ÷ï½’£"2	 ¼.ªfJ*$R74/K3['	A='$*5 "=\?r şïĞ–´ "Y	Ø	¦Â.:	,!>@	*+"&&86"B1S D­+')QY%7.= #28%<M] »ïyÎº"E	‚
+'R †
+ÌÁ-•¼"7	”À(º
+HGJP )	7,+1wK#/6/V3)8%J;*Q Å	Á·ªï "5	úÚ(²8&&2"rL,1) $7/-G!ŸOHIFE ˆ’Á¤áÉ")	ä¬+‚02K^bK#)3+8
+*"Hw º	ÃÁ‚­Ä "[	ğì+Ê4*$ L‚aL]0 4-*8<3X [@!> )6#+++7)M':K-.
+E5&WN óö	Á¶éˆ"2	 ¼.ªfJ*$R74/K3['	A='$*5 "=\?u Ñƒ
+ÁÇí™ "Y	Ø	¦Â.:	,!>@	*+"&&86"B1S D­+')QY%7.= #28%<M` ³ÎÁv ¦"E	‚
 æ!òT @
 $4=P<6/ 
-("E?8) '&/Ec9]$…"#rC; ˜	ïq¡Œ "#	ÄØ$rJ,4ZW#%!;	O* +J l òïŒ¤ "T	Âü%²X"-:
+("E?8) '&/Ec9]$…"#rC> ‘Ê
+Ánøì "#	ÄØ$rJ,4ZW#%!;	O* +J o ë	Áã "T	Âü%²X"-:
 "r
 JO
 T;I'#P;99
 %7AB;!	/3C {N<
-"&T Úïöõ"<	€–$ÒF$
+"&W ‰©	ÁÍŞ"<	€–$ÒF$
 (6V>$
-eF9e%A_(+)E+(%* b ”	ït˜í"J	º	ô$ŠF&,F*,`'B&f:;;*'*  
-K9;O0Iq		!9.!YX ë	ï ¨"@	´Ú ZN- ,0zÂl-)193#?	/12A5!76B/Z Ş	ï¼›ş"A	şæ"â*.
-Fr@$H f;eCG#U=5'#	!	'05O;>:> Ì	ğšÇÀ"%	€Ê*r2*‚‚wd)73.a;/.08 #E ¤ïÄ®ì",	„
-š)‚ff ”ˆaS%+qK!*>5FTo Ö	ïñâ "V	šú&º<:L	`+"&"/	RD&';U6/'I$eeSE6=)1%	:<:$O(J<SP	= Ì	ï™’£ "$	´	ö+rT&ZhÃr,N)eI4W;V ÃïÓÑ¯"=	Ø
-È-Ò’#2R",WHEP&P((T7i&#!A+Q#M+R/,y ­ïı¼Œ "`	´š)ÒJ,. 8E1D&>LAD&& *G,.1O ]ı#D7!BE	^‡ “#J0(5V(<%P>:(/‡ Ú	ğéÿ"n	–ö%šD f&Zj4"&6N}74%*?$) :&8K=%2CF 7+-I) 0'9O=C
-Q!0%!,_ ()<)<fE	^ …	ï¨Û‹ "E	¨‚+êş ^2P/2a#$E+Q!$1‘-+rAg ]F
-A"8C? ÃğÔ™’"&	Àê.zF2N6,:(2q&± M'O%FO;  ï8ÎÜ "#	öŞ,rHD,-! ?A01-= 	õ “¶"$	Qæ/r60F>DN 4pŞ-H;!ecIoa“aZ 	óŸÚÉ"A	5š/â6 b9,..:(
+eF9e%A_(+)E+(%* e îÂ
+ÁqêÎ"J	º	ô$ŠF&,F*,`'B&f:;;*'*  
+K9;O0Iq		!9.!Y[ Ä
+™Á÷€"@	´Ú ZN- ,0zÂl-)193#?	/12A5!76B/] İ„Áµò×"A	şæ"â*.
+Fr@$H f;eCG#U=5'#	!	'05O;>:A ¦ÚÂ“™"%	€Ê*r2*‚‚wd)73.a;/.08 #H »†Á¾„Ö",	„
+š)‚ff ”ˆaS%+qK!*>5FTr ƒøÁâºı "V	šú&º<:L	`+"&"/	RD&';U6/'I$eeSE6=)1%	:<:$O(J<SP	@ ¡ÚÁ’ä‚ "$	´	ö+rT&ZhÃr,N)eI4W;Y ñèÁÍ©›"=	Ø
+È-Ò’#2R",WHEP&P((T7i&#!A+Q#M+R/,| ¯¡Áí”å "`	´š)ÒJ,. 8E1D&>LAD&& *G,.1O ]ı#D7!BE	^‡ “#J0(5V(<%P>:(/Š ±şÂÚçØ"n	–ö%šD f&Zj4"&6N}74%*?$) :&8K=%2CF 7+-I) 0'9O=C
+Q!0%!,_ ()<)<fE	a Ö
+—
+Á£­ë "E	¨‚+êş ^2P/2a#$E+Q!$1‘-+rAg ]F
+A"8CB öèÂÎë÷"&	Àê.zF2N6,:(2q&± M'O%FO> šÿÁ7¦· "#	öŞ,rHD,-! ?A01-@ ¡	²
+Ç™å›"$	Qæ/r60F>DN 4pŞ-H;!ecIoa“a] š	²
+Å˜²µ"A	5š/â6 b9,..:(
 B@<$"@3
-oİ3CME=5/k í	ï¤İ³ "R	úš3ª2x9((*(F"R3U>>?G:_b#?"9 G q% !$1:-,J/*C4	w ™	ïKÿË"_	ü¬.Ú8T,*,8,  ,(B>(
+oİ3CME=5/n ‚
+¢ÁŸµ‘ "R	úš3ª2x9((*(F"R3U>>?G:_b#?"9 G q% !$1:-,J/*C4	z ËË
+ÁJÖ·"_	ü¬.Ú8T,*,8,  ,(B>(
 ]8*, >!@2&3~ÅS?=5#
-!?#?;A	'9--+:F9| ´ï¹º "c	¨ú2â@>ÆT?Š4&&
+!?#?;A	'9--+:F9 ×	½Áû˜ "c	¨ú2â@>ÆT?Š4&&
 'Z !9BrS*"3(+	*0$,
- (9& P#93_=)'MA/)IV=4!Q'E)':'9K £ï†"3	Î3ª4 2..0'4L.,[ 55Y$"(Y%	3%@‰< Ÿ	ï‰¹ˆ"#	œÜ6j ‚-B	Bc'+	/#)
-,V Ìï€‰­ "=	’¢5ÊT
-." 2N(#7Rv%%.AŸ!)qT:AZ#66\Q ó	ï+«›"9	ò¶6Â=@*JB0N-8q\K2!59[‰
-`a D ¹ï’‹"+	&‚9’:6"L1 3J3$)	SFG-E	+:d]B Ë	ï†—¾ ")	¼¶8‚*(>4`%WzK†01%#-A7cr[.7i ‚	ï‹÷"Q	üæ9¢d8B$.2& : <4>X"= A	'79< %Q e7<U­1E1TE*
-4#` œ	ï&Î™"H	Òş7‚ >F( ,'0(8^%3
+ (9& P#93_=)'MA/)IV=4!Q'E)':'9N 
+…Áåï"3	Î3ª4 2..0'4L.,[ 55Y$"(Y%	3%@‰? –Ù
+Á†è"#	œÜ6j ‚-B	Bc'+	/#)
+,Y ²		ÁùÛ… "=	’¢5ÊT
+." 2N(#7Rv%%.AŸ!)qT:AZ#66\T ˆ½Á+€"9	ò¶6Â=@*JB0N-8q\K2!59[‰
+`a G …
+ÌÁ†éó"+	&‚9’:6"L1 3J3$)	SFG-E	+:d]E ¼
+ÙÁƒî£ ")	¼¶8‚*(>4`%WzK†01%#-A7cr[.7l ôŒ
+ÁâÑ"Q	üæ9¢d8B$.2& : <4>X"= A	'79< %Q e7<U­1E1TE*
+4#c ×Ó
+Á&¦ş"H	Òş7‚ >F( ,'0(8^%3
 #&.C%"[=	%%_! #:%d
-A O ‹	ïŒ‚¹"6	ìÔ8º`" &&>
-!\&-D;"G3MS%=E;$O $z ô	ï¾ÙÄ "a	’¸9â(>F&T4NH<!%$4		"MD3RD?\904E-&'98#41?A#!=3; 9/L…Xy&] ô	ğ¿Ñ²"D	Öä:ò>
+A R Ñ§
+Á…Ù"6	ìÔ8º`" &&>
+!\&-D;"G3MS%=E;$O $} ¯ÁÁ¸±° "a	’¸9â(>F&T4NH<!%$4		"MD3RD?\904E-&'98#41?A#!=3; 9/L…Xy&` ²ÁÂ¹£"D	Öä:ò>
 "4H!
 '?!05j+<9
 3E1&0:/@[C4QNC
-!&q ›	ïæ¢‹"X	Ò	è/º€,B$"!<t;¦T<! 	-S+-K(3/-1-1% ?"=)+^7\4L0 f Î	ïÍıÕ"M	ú®0‚48
+!&t ™	Ò
+Á×ùä"X	Ò	è/º€,B$"!<t;¦T<! 	-S+-K(3/-1-1% ?"=)+^7\4L0 i ñ	ßÁÇÔÁ"M	ú®0‚48
 $U
-w E®CŒ,		Œ`+\+57)UM'1;S<¥s;"j%8 S'N² E ÿïô¸ü ",	È
-¬6Š8*62=fc„Cm!E=&‚u8Q$œ Î	ğÎÄí"‚	¢„.Ú@B  (JL.XL$**@lb8H@"
+w E®CŒ,		Œ`+\+57)UM'1;S<¥s;"j%8 S'N² H İ	‡
+Áíå ",	È
+¬6Š8*62=fc„Cm!E=&‚u8Q$Ÿ ø	ßÂÈ˜È"‚	¢„.Ú@B  (JL.XL$**@lb8H@"
 0 B 1
 ;C$·(4;/B	,>);ISS"9,[_
 ‹
-+D‹F­x V		#371'+95M1#$b? àıîìœ"&	¸6zTUf 2C`#"_+Q/dƒ>e4!G àüí«ù".	îĞ8šnDR0,;*(<3Mo!7RMH7]'/( +'D àò·íî"+	ì
-â9Š4&JF,=%%?B'-	=(%8Qp"NR àñ¶§¦"9	ÚÖ:Â> 0Z&7$5<,8IM1.1+G3!.‚(@A&i £	ï‹¹"Q	†	¶;¢(@"	2,-2 JNX:<0D$J(0C,4H5XÍ K%/	WA'G-19Y4:	,;6iA àö»•”"(	’ä7‚zV-FSdC,"&3	E+%I';<)`$!D_F à÷¼õÙ"-	Œº8’,"RL(7V‰V#@/Y4
-%!D+Tc( àğµÖó"	 Ê;"8)*!;, àøê—‘"	Ğü:2&"%?8 àô¹Æò"	ôî:b&	"d$MM471!%C àõº’¿"*	¸ª9‚J "T	(1&+¹"c!
-%ŠU8U'$H àï´Š§"/	èÖ;š606'6† J'#I/C9;W +76;"<*)E àó¸ş­",	ø„;ŠR &J;á1#1/55&"3NN#º!I ß	ï[éİ"1	âÎ<š2$â<
++D‹F­x V		#371'+95M1#$bB Á¿	Ïç¾ˆ"&	¸6zTUf 2C`#"_+Q/dƒ>e4!J ¾¿	Îæâ".	îĞ8šnDR0,;*(<3Mo!7RMH7]'/( +'G ×¿	Ä²¿Ø"+	ì
+â9Š4&JF,=%%?B'-	=(%8Qp"NU Ò¿	Ã±ış"9	ÚÖ:Â> 0Z&7$5<,8IM1.1+G3!.‚(@A&l ­ç
+Áâ¥"Q	†	¶;¢(@"	2,-2 JNX:<0D$J(0C,4H5XÍ K%/	WA'G-19Y4:	,;6iD ä¿	Èµçù"(	’ä7‚zV-FSdC,"&3	E+%I';<)`$!D_I é¿	É¶ÌÅ"-	Œº8’,"RL(7V‰V#@/Y4
+%!D+Tc+ Í¿	Â°¨Í"	 Ê;"8)*!;F ã¿	Ç´ä"*	¸ª9‚J "T	(1&+¹"c!
+%ŠU8U'$K £¿	Á¯á†"/	èÖ;š606'6† J'#I/C9;W +76;"<*)H Ü¿	Å³Õ‹",	ø„;ŠR &J;á1#1/55&"3NN#º!L «	†ÁX»¿"1	âÎ<š2$â<
 $
-0@,bG“wCWHy…(5~ Å	ïĞ³× "e	òŒêZ
-UH"J2%::>$2, (&B.U:G¥436;q±yÁ/+.3+f($8I2( +_ ¸	ïÀÍ• "F	´è!ò82',\ 8
+0@,bG“wCWHy…(5 •ÊÁÊˆº "e	òŒêZ
+UH"J2%::>$2, (&B.U:G¥436;q±yÁ/+.3+f($8I2( +b 	¦Á¹Ÿî "F	´è!ò82',\ 8
 x",	:7L
-B[Q G.ë$S.c<e#G?<45¦3HV9-K ïğkŸ´"3	’%¢^J"2t#-T<!'{4¥&5!%3Yi!dT-ì#H-R \ Ÿï7ÍÆ "D	Ø¾ò"94;>*t+J'-J+ 7!
+B[Q G.ë$S.c<e#G?<45¦3HV9-N Ò	ç	Âhö "3	’%¢^J"2t#-T<!'{4¥&5!%3Yi!dT-ì#H-R _ á	şÁ6¥² "D	Ø¾ò"94;>*t+J'-J+ 7!
 $w[ (+17A
-9GP<7:*(" 8'm ¼ï”æ"T	€˜"²8" DFDz"" _: <>D"0)A6/3 	#3
+9GP<7:*(" 8'p â	ÏÁëÈ"T	€˜"²8" DFDz"" _: <>D"0)A6/3 	#3
 EDk"]I	AK8
-9!+w7	x	#S Ú	ïèÂ":	¶¢)Ê*lB 6
-R;97%?+UT%BC79%* #@)&83I îğÖªÏ"0	äŒ+¢"<DC%	7X1b_(	A9KY@-d0%\
-] îıîŠÔ"D	äÎ+ò8&:<LZ:BED:(#''9S?M7C)% VS,@S ·ïÛş—":	’ª-ÊNT@ d<0Z	&#'4)?)#WK-KI'".+88 îñ×İÁ"	‚è,b(#,Z9nS-'9CF
-r ïïjÚÖ"Z	¾ğ&²h,„!* ~6P".#"&¥BG1"'=3!
-[	/&c?.Q	 5AE¹¦%|3"(€;S.M îùê®±"4	¤€+²2BL4&d+S;g1!+C#4>(: îïÕŞ"!	Â¢+j8
-&,&("1'2aW9 îôÚÅÇ" 	¸Š,BD,$1'%	\*> îòØèÈ "%	ö‚-z$ $:"(9<
-/;Y* î÷İÖÁ "	˜°,* 10 îöÜîÑ "	¨¬,B$
-"E îóÙÎè",	îÖ,r.
- .[' !32	;.< îûì•"#	ÈÌ-r:N@(U8%%Q:m0<	;F îüí»ä"-	ÎÆ.’ XFR ` (a‰>'#QH%!7M7O îõÛ×ö "6	æ’,Š<,TB3‡-!	#2	U	 J îúëîÂ"1	Îì,¢:&4.7B&B.'_Q EW'M?bˆ4œ Ûïó»š"‚	Ö ê*62
+9!+w7	x	#V ªşÁÙšô":	¶¢)Ê*lB 6
+R;97%?+UT%BC79%* #@)&83L Çæ	ÂÍ€»"0	äŒ+¢"<DC%	7X1b_(	A9KY@-d0%\
+` ·æ	ÏßÜÀ"D	äÎ+ò8&:<LZ:BED:(#''9S?M7C)% VS,@V „ÃÁÕÕü":	’ª-ÊNT@ d<0Z	&#'4)?)#WK-KI'".+8; Êæ	ÃÎµ¦"	‚è,b(#,Z9nS-'9CF
+u Ë	ç	Ág²Â"Z	¾ğ&²h,„!* ~6P".#"&¥BG1"'=3!
+[	/&c?.Q	 5AE¹¦%|3"(€;S.P ¥æ	ËÛ„‰"4	¤€+²2BL4&d+S;g1!+C#4>(= šæ	ÁÌ°ƒ"!	Â¢+j8
+&,&("1'2aWA Îæ	ÄÏ¿´ "%	ö‚-z$ $:"(9<
+/;Y? °æ	Íİáú"#	ÈÌ-r:N@(U8%%Q:m0<	;I ³æ	ÎŞ“Î"-	ÎÆ.’ XFR ` (a‰>'#QH%!7M7R öæ	ÇĞ¯Ğ "6	æ’,Š<,TB3‡-!	#2	U	 M ©æ	ÌÜÅŸ"1	Îì,¢:&4.7B&B.'_Q EW'M?bˆ4Ÿ Ë­	Áìÿ"‚	Ö ê*62
 
  D"R08 74`V/(!60*16:8. 2)+!+=7
-%*/!C= ;`9! !yCEC,.I(,Il ×ï£Â "S	äš$ª ,>",*bl.#B4/,#
+%*/!C= ;`9! !yCEC,.I(,Io ä	¢	Áâ§ "S	äš$ª ,>",*bl.#B4/,#
 
 "08.--!O}5) "+ƒg1s!l!FC4	
-$4 0B5&T €	ôiÌÄ "<	ö´"Ò$***xfF/%X;$"ak 1-7925)5/{ ºïlÍ"c	†èêx(
+$4 0B5&W áˆ
+Æf¡ "<	ö´"Ò$***xfF/%X;$"ak 1-7925)5/~ õÍÁiŸá"c	†èêx(
 PP*|4 Zd& $+,9,%UZ%"\a@  •#)))#"0'_U387/C@
-!3 €	ïdŞ‚"	¢ˆ#R "$$ "$-&]3we$] €	ğeÁß"E	’¶!ònD! g	12XU$"aLG&W0E^4%.#!#!# ?b![&VYB €	ñf´·"*	Ü¦"‚D(74R}‚)V'(,	C9W21
-hT €	óh·É"<	ŠÔ$ÊD: 
+!6 Èˆ
+Áa¶â"	¢ˆ#R "$$ "$-&]3we$` Îˆ
+Âb™Ê"E	’¶!ònD! g	12XU$"aLG&W0E^4%.#!#!# ?b![&VYE Óˆ
+Ãc‰£"*	Ü¦"‚D(74R}‚)V'(,	C9W21
+hW İˆ
+ÅeŒ­"<	ŠÔ$ÊD: 
  \<F
 "
-<&0 0(Tv	* 5$MMCyqåµ+1A/ bK!I îşï«± "0	Â°*¢	$S(0D2VB;L+46?9%c%3AKHO Çï®å "6	²Ò(²8*$&f ?F6JJ{UA1C/T'
-#%$!.-€7i îÿğÉ€"P	à‚+š4BDd0$@:f6J|0//-,O=!+]W•G!-%A8A-3@5,3K<|q Çğ¯–à"X	äæ%ºB0,2æ¶zrD	V_'#+	KE7 4%	!( T3,3A5I@Ee#%)7!	$	0+3$A-!>#DY Çñ°£è"@	øÎ)âFL,
+<&0 0(Tv	* 5$MMCyqåµ+1A/ bK!L ºæ	Ğà "0	Â°*¢	$S(0D2VB;L+46?9%c%3AKHR ¹	óÁ§äÏ "6	²Ò(²8*$&f ?F6JJ{UA1C/T'
+#%$!.-€7l ¿æ	Ñá›é"P	à‚+š4BDd0$@:f6J|0//-,O=!+]W•G!-%A8A-3@5,3K<|t ¾	óÂ¨è»"X	äæ%ºB0,2æ¶zrD	V_'#+	KE7 4%	!( T3,3A5I@Ee#%)7!	$	0+3$A-!>#D\ Ä	óÃ©úÃ"@	øÎ)âFL,
 ($`t2:'5Qi&?
 3
 F98cC4+ S'"&
-3` Çò±•« "G	® è+ê(H06X*$6+Œ‰$qF™Œ -‹I59e?#/:7 E4		@j%RV §ïˆ‘á "=	à˜.Ò(:($T.R&&8N.²0ZMIq}87Gka(3$
-%Y/;cH ¦ïSÄŸ "0	òº4š<.605^c"S,/=
-+A0<3¸'ƒ ³	ïÀ½Æ"j	Œ 5‚1B *t6	5,3(PH" bF	6L9'E?
- #5 7! ui!+yUVeJ<*0+Td!]6A ³	ğÁş–"(	œ´5z*"TT€*DœGA+55s )2A[ °	ïËÛ“"B	¬2êJN`
+3c Æ	óÄªì‰ "G	® è+ê(H06X*$6+Œ‰$qF™Œ -‹I59e?#/:7 E4		@j%RY ı‘Á…ã¼ "=	à˜.Ò(:($T.R&&8N.²0ZMIq}87Gka(3$
+%Y/;cK ëÁQœ÷ "0	òº4š<.605^c"S,/=
++A0<3¸'† —”Áº•£"j	Œ 5‚1B *t6	5,3(PH" bF	6L9'E?
+ #5 7! ui!+yUVeJ<*0+Td!]6D ›”Â»Õû"(	œ´5z*"TT€*DœGA+55s )2A^ òÁÅ³ø"B	¬2êJN`
 "Z f(Q[
-4b60+0!)SS)!/-52	 A/!	?~7C ˆ	ôÉ÷£ "*	ªæ4Š.$ Z,"0P'>B%6?Q[)%5/3a\	4 ˆ	ğÅƒœ "	şÒ4R	Z6L=O(/+! Yx-I ˆ	óÈ‚± "0	æœ6¢&\*R@5& 2+%&C5G)M	4 àûìÚ· "	¸È9R6.	$DA
-'!S6W àúëìë">	ø–9Ò.#"$ >4 ;2%;&Q#_+aCC
-#- $‚ @	F( :&n ïIÌÿ"V	¾’:ªJ\*b6Z&‘˜=++3'/#cF_05'!¥R+/?		#%IQ2%BbD`,‚$R<%&<13R ˆ	ıãÜ "9	¢¢7ÂB, H(80(Q-a$#6K5E
+4b60+0!)SS)!/-52	 A/!	?~7F ˆ	Ÿ
+ÆÂÎû "*	ªæ4Š.$ Z,"0P'>B%6?Q[)%5/3a\	7 ùŸ
+Â¾Úõ "	şÒ4R	Z6L=O(/+! Yx-L ƒ	Ÿ
+ÅÁÙ– "0	æœ6¢&\*R@5& 2+%&C5G)M	7 ¹¿	Íå²œ "	¸È9R6.	$DA
+'!S6Z ´¿	Ìä¾Õ">	ø–9Ò.#"$ >4 ;2%;&Q#_+aCC
+#- $‚ @	F( :&q ı	úÁHè"V	¾’:ªJ\*b6Z&‘˜=++3'/#cF_05'!¥R+/?		#%IQ2%BbD`,‚$R<%&<13U êŸ
+ÏÔ®Š "9	¢¢7ÂB, H(80(Q-a$#6K5E
 a!G'O4 +6
-V ˆ	şäî• "=	ÒÊ9ª$5#b.RnP.B@>18G[)I=# $!-	%4%N ˆ	öËõ«"5	˜Æ6²pH*6D%&BB,A3
-.6²:a-AmO/''7[ ²	ï¸€"C	œÖ<â:$Z€J^,$. LTë 5MQOHa¦Q"6(`/dE0$(,4>,h æïÁ˜ã"O	°Â/’–H^X",>P.+0,D,Q
-!]KI*c+]$2i"; Y!_	Y/%&RG$(Š=` ˆ	úà´“"G	ğæ1ú":
+Y ğŸ
+ĞÕÀô "=	ÒÊ9ª$5#b.RnP.B@>18G[)I=# $!-	%4%Q ’	Ÿ
+ÈÃÌ"5	˜Æ6²pH*6D%&BB,A3
+.6²:a-AmO/''7^ ·
+“Áà"C	œÖ<â:$Z€J^,$. LTë 5MQOHa¦Q"6(`/dE0$(,4>,k ìÎ	ÁºïÍ"O	°Â/’–H^X",>P.+0,D,Q
+!]KI*c+]$2i"; Y!_	Y/%&RG$(Š=c ÙŸ
+ÌÒ‰ò"G	ğæ1ú":
 v
 ·aDC!?# !$
 K
-6FGw.-#' e< j!1^#,dJ)L^& ˆ	ûá·ğ "	şş3L5E0 ˆ	ñÆÄ½"	øæ5B0'"
-)] ( ˆ	õÊÚ© "	Âò6", '#0 ˆ	÷ÌæŒ "	öØ6B*"%&<'(1( ˆ	ùßÚ "	 ú6""&-*'=8 ˆ	øŞß» "	’Š7b(>.),:!$!Z]E!;T ˆ	ïÄãì";	Öê2Ê8Bd!"#YK(_Vm>'5K5
-Y #"$@"DbC¸Q ˆ	òÇ‹“ "8	è¸4ºZ^ŠˆG+*K%$U4m"c@9+%K?	(!/( n=`UL'Z$O ˆ	üâû¢ "6	şÒ0ª 0>¬$2(r8*¢JKNÛÕY]cA7	u++C07 ˆ	ÿåÅ‰ "	ºĞ7ZB4F"^"Et]+95±-] Ï	ïw‰‰ "E	ĞÔ9òb^,8B€t6	>*,n7D!!%/o1K.Y#9%5YaH27=V Œ	ïEÖŸ ">	Ì6ÚRN]^|v	 /`+8E[3&=>%+-.Qx5s7AFs0{"#d?n!V3&#L,)p ©	ïüÆ° "W	ŠÎ9º0NR^>BD-j8O=6e#O &'WGq4"G"Q&K3+)
-=Rw.-,&>=%\4FĞ ½	ï˜Ãú"¶	èÈ¢  8T"0N (8$^02(R.D,	@#".>&2(=0<.
-<"X,$JJ# @.>\Nr2&F( ;642/(?.0‰I3/)1-­_2)(?N'%2%S#'[P?-7KKEQI!C' sƒ]A«4.=9"@1y ¨	ï”Í¥"`	"šÂŠ/ @-*J">0$0RF
+6FGw.-#' e< j!1^#,dJ)L^3 ıŸ
+Ã¿˜¢"	øæ5B0'"
+)] ; ÊŸ
+ÊÑ·  "	’Š7b(>.),:!$!Z]E!;W ÅŸ
+Á½»Ç";	Öê2Ê8Bd!"#YK(_Vm>'5K5
+Y #"$@"DbC¸T ÿŸ
+ÄÀâì "8	è¸4ºZ^ŠˆG+*K%$U4m"c@9+%K?	(!/( n=`UL'Z$R âŸ
+ÎÓÒú "6	şÒ0ª 0>¬$2(r8*¢JKNÛÕY]cA7	u++C0: õŸ
+ÑÖâ "	ºĞ7ZB4F"^"Et]+95±-` ¢
+æÁtÛñ "E	ĞÔ9òb^,8B€t6	>*,n7D!!%/o1K.Y#9%5YaH27=Y ê
+«
+ÁD®ş ">	Ì6ÚRN]^|v	 /`+8E[3&=>%+-.Qx5s7AFs0{"#d?n!V3&#L,)s Óô
+Áõ "W	ŠÎ9º0NR^>BD-j8O=6e#O &'WGq4"G"Q&K3+)
+=Rw.-,&>=%\4FÓ Ñ	¶Á„›ã"¶	èÈ¢  8T"0N (8$^02(R.D,	@#".>&2(=0<.
+<"X,$JJ# @.>\Nr2&F( ;642/(?.0‰I3/)1-­_2)(?N'%2%S#'[P?-7KKEQI!C' sƒ]A«4.=9"@1| ß
+ó
+Á€¥„"`	"šÂŠ/ @-*J">0$0RF
 %9E;
 _00p ($'PK> + ¿‰3O!7.N{]0a«	‡
-¯xN Ç	ïÍğô"5	à&ö²F: &
-|D8*$*90;N#+xa	{(5=%9Go/`/b Âïsƒ"J	Œ&Øú &:> 6¼f]F_ 98=3;=)a“30o3Š4 À ,L=(Oe ¡ïx’ş"M	'¸’4@CJ$0*">†!P! #%	+$<>!''['%#A7?-3 A:7`0>.
-8 áğAØ…"v	²)–ª&D@\d"$ 6;&	+/,5§
+¯xQ  	ÏÁÄÇÎ"5	à&ö²F: &
+|D8*$*90;N#+xa	{(5=%9Go/`/e ÀçÁpçÜ"J	Œ&Øú &:> 6¼f]F_ 98=3;=)a“30o3Š4 À ,L=(Oh §€Áuäç"M	'¸’4@CJ$0*">†!P! #%	+$<>!''['%#A7?-3 A:7`0>.
+8‘ ‰À	Â@°î"v	²)–ª&D@\d"$ 6;&	+/,5§
 %I*;L(4tl>E'VH0db&rC$ƒ!7	iU'COI-M'–07-	/=^Ee»|'b
-,w$<MG áï@¼  "/	Œ+‚š0h=	(+ 0U(F=sk'3<KJ)&¨	6D †	ïøåç "+	´(†ŠPJ(DjV8
-#$'O2%I%"1i/5	3(•Nb »	ï=È "J	Â+º‚„,( d:.2T..5J"B>kÌ-{+O9q%ac/G /,
-'>;<%5V ›øáíõ "=	Ö7¨Ê,@)	,C^WI<7zLc#™'<G<ƒ*Q!F08LK|?&M ›õ±¥ "4	¦2æª2H	BˆwdJ?F/'_9G
-[7S6I”>9b101b ›ó¯Àß "I	”/ ú"2\H	`:(0 X*" $)>J.(*&‘4o
-OM5)	7-WMlË=K ›ï«ÙÒ "2	Ø3â¢Œ>RV4&8OâM3,GaU1A ! )W@EIxcM ›ö²êê"4	Ø2Ğ¢š( $d+D:hfB\f1:=‹U‡A
-1G T ›÷³…¡";	è7âÂ*6(f:TN2,‚,[eAgeC9 8yJ;XD]
-+5 ›ğ¬ò» "	Ğ6êR V#$B' 3%UQP ›ñ­¬ "7	‚7°º V "Q65.	DH"<#6c*"H q'Pá%(A$# Uª 	ï“ÏÕ"	À=Ô’*€J2H.L .PH-J-0;3Rl!6T>1P@9f\>/'
-*p8C*?G),>+3™9MS9e'5)+?W8!0APŸg=_8/4wD3T@'+d-	?¿ ãïˆ‡ô "¥	è>Èò:ZH3B
+,w$<MJ …À	Á?”… "/	Œ+‚š0h=	(+ 0U(F=sk'3<KJ)&¨	6G Â˜
+Áñ·Ñ "+	´(†ŠPJ(DjV8
+#$'O2%I%"1i/5	3(•Ne å­Á<šï "J	Â+º‚„,( d:.2T..5J"B>kÌ-{+O9q%ac/G /,
+'>;<%5Y ì
+óÊÛ¿Ï "=	Ö7¨Ê,@)	,C^WI<7zLc#™'<G<ƒ*Q!F08LK|?&P ‰óÇ¬ô‘ "4	¦2æª2H	BˆwdJ?F/'_9G
+[7S6I”>9b101e „óÅª”Á "I	”/ ú"2\H	`:(0 X*" $)>J.(*&‘4o
+OM5)	7-WMlË=N æ
+óÁ¦«¾ "2	Ø3â¢Œ>RV4&8OâM3,GaU1A ! )W@EIxcP óÈ­¼Å"4	Ø2Ğ¢š( $d+D:hfB\f1:=‹U‡A
+1G W ’óÉ®×";	è7âÂ*6(f:TN2,‚,[eAgeC9 8yJ;XD]
++8 ò
+óÂ§É™ "	Ğ6êR V#$B' 3%UQS ø
+óÃ¨ß‘ "7	‚7°º V "Q65.	DH"<#6c*"H q'Pá%(A$# U­ Ø	º
+ÁŒ¡¸"	À=Ô’*€J2H.L .PH-J-0;3Rl!6T>1P@9f\>/'
+*p8C*?G),>+3™9MS9e'5)+?W8!0APŸg=_8/4wD3T@'+d-	?Â ï
+Â	ÁŞİ "¥	è>Èò:ZH3B
 (F.$.  P.6 )&'N>+^$2:A(Q=K;P0.
-:"8C&;:S<W-	_75!!%Ke=*+H@D)7o	)(0=[:e?2O=S"5k4Q<a ›ò®ìÓ "H	â7´ú:š,4 Lf&""6HN M(U8	=B5S! C1#3
-.##!U  ++U ›ô°¢™ "<	´8ÄÒ$4D2"  T6 !6!$m=#$5;!G
-C6-R5$$V ãñŠš® "=	Æ>ìÒz
-@L(.(”:WJJ5_5k%c&% =7.KY çïŠå"@	 ´ Úˆš+	  0D4LV
- %X%O3/7/Q83C'Cm&+:,+r ¦	ï Ûİ"Z	¬"¬Â>*<>4 B.4@8B$(&(\!P#  $!0cCC.U	3KC/
-,‡™81 !rC83*Yn €	ògé¼"V	ê#â"²dD$7@ \	?(V2T1OF/B:W' /%/	;!E	;[+'(*U~0840€P&&WS õ	ïÏŠœ":	Ê&° Ê
+:"8C&;:S<W-	_75!!%Ke=*+H@D)7o	)(0=[:e?2O=S"5k4Q<d ş
+óÄ©¾¯ "H	â7´ú:š,4 Lf&""6HN M(U8	=B5S! C1#3
+.##!U  ++X ˆóÆ«ù… "<	´8ÄÒ$4D2"  T6 !6!$m=#$5;!G
+C6-R5$$Y û
+Â	Ãƒñ† "=	Æ>ìÒz
+@L(.(”:WJJ5_5k%c&% =7.K\ ¸Ï	Á‡½ê"@	 ´ Úˆš+	  0D4LV
+ %X%O3/7/Q83C'Cm&+:,+u ”í
+Á ³¸"Z	¬"¬Â>*<>4 B.4@8B$(&(\!P#  $!0cCC.U	3KC/
+,‡™81 !rC83*Yq Øˆ
+Äd»š"V	ê#â"²dD$7@ \	?(V2T1OF/B:W' /%/	;!E	;[+'(*U~0840€P&&WV •ÂÁÉá":	Ê&° Ê
 & $"L4V)08;"-
-+%7		+#$"O("= ;C Åò‚”²"*	'´#Š4("@?$)cMI #/.	!< _ Öïğ®¬"F	ğ$ö"ú
++%7		+#$"O("= ;F Ç
+íÄòæ"*	'´#Š4("@?$)cMI #/.	!< b ›	Áé„„"F	ğ$ö"ú
 ,8
 0j"&!.$D'>"$Q#C!%%G1S'U
-@[  8?# : Åïÿ®­"!	†'è$j.D.$'9L	!0'% Ak Åğ€èÒ"R	Ô%ô#¢$J N*d""J	<!&:2’<*-3	AAg#-C-+  B983C#"-!%J ÒïÅË·"1	–"Ö(¢6L* (:"#	3
+@[  8?# = ¹
+íÁï„’"!	†'è$j.D.$'9L	!0'% An ½
+íÂğº®"R	Ô%ô#¢$J N*d""J	<!&:2’<*-3	AAg#-C-+  B983C#"-!%M È‹	Á¿£•"1	–"Ö(¢6L* (:"#	3
 9(/›01s
-UNN6#N û	ï›Âì"5	â#ğ%ª&H&"$DR, T2XQ0Aƒ0!9')‰ÁX90APEK µğ³Ó—"2	–"Ú-š\	P R" +„F¤MI7‰»?;| µï²ëŸ"c	¾%Æ)âF6@#.* ,-„@?)0*" 8OQ! O
+UNN6#Q ãĞÁ”šÍ"5	â#ğ%ª&H&"$DR, T2XQ0Aƒ0!9')‰ÁX90APEN ³	¾Â¬¥ğ"2	–"Ú-š\	P R" +„F¤MI7‰»?; ¯	¾Á«Â„"c	¾%Æ)âF6@#.* ,-„@?)0*" 8OQ! O
 [5#)5WG/9œ/0':4	
-$„/Bx †	ğùÀ« "_	”'ìÒ6
+$„/B{ Æ˜
+Âò˜ƒ "_	”'ìÒ6
 j02!J&&P1(#$„"D#P:|,.N‚X _`S
-)$Q-	e;+c9%!=3K"O…=)!#/DIw İïÏ”¥"^	´.Ò Ò@Pl)7,0&o[b5%>
+)$Q-	e;+c9%!=3K"O…=)!#/DIz Í
+±	ÁÆæı"^	´.Ò Ò@Pl)7,0&o[b5%>
 J‘;1%9'K/!?'3 7*/U>"&d:,<f.
-R#*T	`_. Åñß†"	¨(–$:(L;"I
-!!@# ˆ ï]éä"p	´( %šh BB4
+R#*T	`_1 ¾
+íÃñ·ß"	¨(–$:(L;"I
+!!@# ‹ ‹ûÁZ»¿"p	´( %šh BB4
 .F^2d .%165&!2Ui
 ,T2%'D;cÓ'a?E5W1S+#! =(47Z(&"/
-:Kd ì	ïrˆÑ "L	Ì.Ò ’.
-8R@ B>LJ 247&UjCM%!7	]E)	I&=6\ap%/8+* kO?j ÎïşÈó"Q	Ê0Ò$¢&/@44>84	†
+:Kg ´œÁoÚ½ "L	Ì.Ò ’.
+8R@ B>LJ 247&UjCM%!7	]E)	I&=6\ap%/8+* kO?m ”…	Á÷ Ô"Q	Ê0Ò$¢&/@44>84	†
 d#S1oV);I% C%C	0 Q5%625&-c18
-"&N DVi ûï´¿’"ƒ	à&ü)ÚbÔ(<d>">RR@"H2"@ @J2 ˜8,ƒ„a 1}!  >37!Q%+ec#?!o/A<g7)!/@* ?.ƒ+)-‹ 	ïï™ "r	-è'¢DD&& <J*pUT2$ "*† POQ8M1\G S' ">T?3L<I??1!G!Q?Q!==(C&1S+	jV"1R6/p ö	ï#´Ó "X	Î!ê.ª@<Š¼J8N
-l'fD$$-*@aHYX;M'-/,I)¡7'q#1=«/. š‹rE#n ä	ïÌšŞ "U	˜$†4¢2(,,
+"&N DVi  è	û	Á­—ñ"ƒ	à&ü)ÚbÔ(<d>">RR@"H2"@ @J2 ˜8,ƒ„a 1}!  >37!Q%+ec#?!o/A<g7)!/@* ?.ƒ+)- €	‰
+Á‡Æø "r	-è'¢DD&& <J*pUT2$ "*† POQ8M1\G S' ">T?3L<I??1!G!Q?Q!==(C&1S+	jV"1R6/s ¸ÃÁ#Œ¿ "X	Î!ê.ª@<Š¼J8N
+l'fD$$-*@aHYX;M'-/,I)¡7'q#1=«/. š‹rE#q øÁÆñÀ "U	˜$†4¢2(,,
 0" \8D,	F•´3$‰@"#AS
-+')a1MSU {uÚ×.(N<ZWbG?Y Ü	ïç¯À"@	ğ&Î.Ò0p"$@fd,$yˆK<iS™SI	E£ƒ,P hO Ñöé½á"6	î)Ì0ª"RXQ<I~A4(.-ËyA!)oI«<šTTjL;z‡#Y Ñğã×Ù"@	Æ$º1ÚJ¬p"*zB(**1#GY
-[ /!+	'+1##C(e, Ññä—å"	Î&È4*Æ !<)'? Ñõèà "&	Ø'î5z^r!Fn¡oXk
-EC+7Z	H$l Ñ	ï˜ëè "S	ÎÀ8¢TVNb2*,(T	B $!0`(0:"2fU€< /"(¹E!3!/!	AC=]MQ/_0
-d é	ïÎ¼ø "K	Ô!Ä<Š 4""F  >:"!2R 
++')a1MSU {uÚ×.(N<ZWbG?\ ş	‚ÁØ…¬"@	ğ&Î.Ò0p"$@fd,$yˆK<iS™SI	E£ƒ,P hR ÂŠ	Èã•Ã"6	î)Ì0ª"RXQ<I~A4(.-ËyA!)oI«<šTTjL;z‡#\ ¤Š	Âİ©¼"@	Æ$º1ÚJ¬p"*zB(**1#GY
+[ /!+	'+1##C(e/ «Š	ÃŞîÀ"	Î&È4*Æ !<)'B ¿Š	ÇâßË "&	Ø'î5z^r!Fn¡oXk
+EC+7Z	H$o ¥	ğÁ•½Ò "S	ÎÀ8¢TVNb2*,(T	B $!0`(0:"2fU€< /"(¹E!3!/!	AC=]MQ/_0
+g ÷–ÁÅ‘á "K	Ô!Ä<Š 4""F  >:"!2R 
 * 06*
 &·  /)=1M';1
 %7.i"
-k Éï?Ê¦ "S	ö%”8¢¢pz:(B4((ˆ<IA@'Z/"7sOG)-	G%0!;V1e9!'//_Š?4#S «	ï%è¯";	$ğ=ÊH&.
+n úûÁ>œ‹ "S	ö%”8¢¢pz:(B4((ˆ<IA@'Z/"7sOG)-	G%0!;V1e9!'//_Š?4#V †ÿ
+Á%º";	$ğ=ÊH&.
 *PH4S:	I2#
-<)5/) 	 Q"19! =š2 Ñïâ™¢"	š(è4JF*#()";J Ñòå×…"1	¬*ö1¢”40F74RJcN';/ 5E.-'B3J}6 Ñóæ¿¯ "	®(®5Z6<0 ($
-=,-9[3$'J Ñôçôß"1	æ'ú5¢\4.:R^ 6 +%R/†/Dy9m"EqK üïJº± "3	®*Š5ª,v< fR44ls$?"e	"g 5Q](#	‚c} ±ïÿí "d	‚+Ú0ê~2b NM3BT%>$:f(LD8*2F*X&k33Qe; u+Q83E3/“W48= o Êï†õç"V	š)²7² ,h $P:\D,<$ZP4:V.(4/%+[9sA%q‡''3A'0C0…c ¬ï>¸ "K	Î.ô6ª>T,6*6U
+<)5/) 	 Q"19! =š5 ŸŠ	ÁÜğ"	š(è4JF*#()";M °Š	Äß¯å"1	¬*ö1¢”40F74RJcN';/ 5E.-'B3J}9 µŠ	Åà—” "	®(®5Z6<0 ($
+=,-9[3$'M ºŠ	ÆáËº"1	æ'ú5¢\4.:R^ 6 +%R/†/Dy9m"EqN íÿ	ÁI’ "3	®*Š5ª,v< fR44ls$?"e	"g 5Q](#	‚c€ °Áø¿ğ "d	‚+Ú0ê~2b NM3BT%>$:f(LD8*2F*X&k33Qe; u+Q83E3/“W48= r å	üÁÿÌÂ"V	š)²7² ,h $P:\D,<$ZP4:V.(4/%+[9sA%q‡''3A'0C0…f ï Á=ß¤ "K	Î.ô6ª>T,6*6U
 +‹"K&+;C9[#O
-!f@!t#	%"WH	7³  Q ªïªŠë "8	à,¾<ªœ6d*Š2*'L * T2Q8C3
--‰U¹QU^ éñ¨¾² "E	´3”!ò@",>]`efN-9N9[3n#KH'L)1I=K ANPp	’3[ éò©úÅ "B	´4ú!â6zNSHQ	”1A­$U30?/(KG$Lm4:\M.:M feV éõ¬ˆÌ"=	¦2Â%ÒNnBDH:N$\:0' E2]-QGme4!	}
-…733=V7 éğ§Ã¡"	¾5œ!Z Z2N8,!7P47;5y=~ éï¦³š "e	”7Òò$ > n#"!D*6 <4,4"OJ+$A;#s+M7Y1 +?!i%)'-I*=#B2Vb+HN4r( G!)F éóªìî "-	ê4ô"’<80ZM4,@52CAmMB2“
-RTGv éô«ñÑ"]	â9Î!Ê–sN(L($-5KR!!0I\&5-&f"]0'L9/#[M9G61?+N3Y/38O"t$<BS ã	ğW¹";	ü1à(ÊnHR.^F18)DP"-&.<]BY E#I#O…)g š	ïÂˆ¸"N	Ş1”+Š J$$.Z20† Š"QHK Qİu;M=—1;K4@S!=( TH 2[NR7c ã	ñXú½ "K	¦6Š(‚DH-&5vJDXV@pv* 4P8¿›6W	e=SC3Z A^-;.%O!*C+K((K; Ó	ğÉòË ""	¼6ø(j2"D`¦L *9&PaoU?CWI‹ ã	óZİ© "s	È3è+Ê4DTf>X
+!f@!t#	%"WH	7³  T ˜šÁ¥ÜÌ "8	à,¾<ªœ6d*Š2*'L * T2Q8C3
+-‰U¹QUa ¦Ô	Ã¡’— "E	´3”!ò@",>]`efN-9N9[3n#KH'L)1I=K ANPp	’3^ ®Ô	Ä¢Ñ¢ "B	´4ú!â6zNSHQ	”1A­$U30?/(KG$Lm4:\M.:M feY »Ô	Ç¥ß¨"=	¦2Â%ÒNnBDH:N$\:0' E2]-QGme4!	}
+…733=V: Ô	Â —ù"	¾5œ!Z Z2N8,!7P47;5y= —Ô	ÁŸ‹† "e	”7Òò$ > n#"!D*6 <4,4"OJ+$A;#s+M7Y1 +?!i%)'-I*=#B2Vb+HN4r( G!)I ²Ô	Å£ÃÏ "-	ê4ô"’<80ZM4,@52CAmMB2“
+RTGy ·Ô	Æ¤È­"]	â9Î!Ê–sN(L($-5KR!!0I\&5-&f"]0'L9/#[M9G61?+N3Y/38O"t$<BV ¡ÂT‘î";	ü1à(ÊnHR.^F18)DP"-&.<]BY E#I#O…)j î	Î
+Á»Ú–"N	Ş1”+Š J$$.Z20† Š"QHK Qİu;M=—1;K4@S!=( TH 2[NR7f ©ÃUÑ© "K	¦6Š(‚DH-&5vJDXV@pv* 4P8¿›6W	e=SC3Z A^-;.%O!*C+K((K> «òÂÃÉ§ ""	¼6ø(j2"D`¦L *9&PaoU?CWI ²ÅWµ "s	È3è+Ê4DTf>X
 œ5€,= #b<
 +h#)$F.4=
-u?&4	'C! ‹Q!! ‰…1/Y-F	Àú25&2-"''+ ã	ïV½û "	î5‚.2((!.1x Ó	ïÈÔİ "_	ò:ä"Êò‚)U:)*,!:9F&'"&285–<N¥K_C1!.%CG!e%.6%[J/""QL6.#'K'” ãğ‰ÆÉ "{	‚>‚ÂT"*2X?.-L8>%&dl&6`6=œ"8(	)#188!		1D¿ÙPI!+3;35)"C"5>A
+u?&4	'C! ‹Q!! ‰…1/Y-F	Àú25&2-"''{ £òÁÂ¦É "_	ò:ä"Êò‚)U:)*,!:9F&'"&285–<N¥K_C1!.%CG!e%.6%[J/""QL6.#'K'— ö
+Â	Â‚¥ "{	‚>‚ÂT"*2X?.-L8>%&dl&6`6=œ"8(	)#188!		1D¿ÙPI!+3;35)"C"5>A
 V7N'MG`8.
-XT;<9D%O ø	ï¥à§ "6	Ô=ä$º
-4>jH>& 	:%$[	!! 31	S-W=p)HEb íó»çÍ"I	®?¢"‚. $J
+XT;<9D%R ÖÅÁ ¸Œ "6	Ô=ä$º
+4>jH>& 	:%$[	!! 31	S-W=p)HEe ¡
+ã	Å´¹±"I	®?¢"‚. $J
 <	$+H¤\8) S=%G=i O"727$*'
-7!r šïŞ¹ú "Y	º<ä$º*>BGFo*X>.
+7!u ¸	ïÁØ‘Ô "Y	º<ä$º*>BGFo*X>.
 T42 b5(<@-nOA
-'%CO:% )M;6•71%(!%:E"9+*)` ¹	ïµí™"G	ø9ä,úbL(.F,vJ I8q†)PA>
-)9I%!1#3E-*#$,g;	$a> +s Ïï,âª "[	š=ä'Â"\
-"^@-L$-~4'(…0+9G-K'a7O 3)0 &(B	P.m? ;6'af íñ¹äË "M	ü?ø&’@ "L4: î*
+'%CO:% )M;6•71%(!%:E"9+*)c ô§Á®Äò"G	ø9ä,úbL(.F,vJ I8q†)PA>
+)9I%!1#3E-*#$,g;	$a> +v Ô†	Á,º‚ "[	š=ä'Â"\
+"^@-L$-~4'(…0+9G-K'a7O 3)0 &(B	P.m? ;6'ai ’
+ã	Ã²¶¯ "M	ü?ø&’@ "L4: î*
 +]CB%!1A!:++#.K?]!#&
-9T* 7Y íï·Ôö "@	œ?ş)âB"2&"DA,^ 	)  P	3-	8(2 g!9M-)'.},,V À	ïBÓ‚ ">	’>ì+Ò(.*:N"X= 6.( 3?)quI+EH:,†/'(P À	ğCÚ¯ "8	 ?ê.Â4$B H[cK:2-#A/K1 !J7r *@4  “ °ï_ù¨ "{	¤.î/Êv<ŞRL NC& *R .2F((-RH@46L4!" `-/"Yu3#!/)-/5O;].	-')?%C7K'e9=#S&A4NM ÷	ï÷Î "h	ü1ú3‚P60*.0 "4$4HN])7/+$^]@!'	D3=+59;$QGK1)&@*(.
--^_ ã	òY†¥"G	ş2€0úR"Œ  D"
-(<2B0! #*$["<3G?.Q'E'1-Q)%„ Íï6¶¤ "l	Ú6€3’T* 2,,#($`D ^W(	F BOv6(#*?$3 6=!5?1S	9';6+ C%_"!3K5;\!#$)" Ä øïzœâ "«	Œ4Ü6Ò&.0!.&D5,(<
+9T* 7\ 
+ã	Á°¬ß "@	œ?ş)âB"2&"DA,^ 	)  P	3-	8(2 g!9M-)'.},,Y §¼ÁA«ë ">	’>ì+Ò(.*:N"X= 6.( 3?)quI+EH:,†/'(S ­¼ÂB¬‡ "8	 ?ê.Â4$B H[cK:2-#A/K1 !J7r *@4  – ©Á\Ğ” "{	¤.î/Êv<ŞRL NC& *R .2F((-RH@46L4!" `-/"Yu3#!/)-/5O;].	-')?%C7K'e9=#S&A4NM„ ÄÁğæª "h	ü1ú3‚P60*.0 "4$4HN])7/+$^]@!'	D3=+59;$QGK1)&@*(.
+-^b ®ÄVİŠ"G	ş2€0úR"Œ  D"
+(<2B0! #*$["<3G?.Q'E'1-Q)%‡ ¥‚	Á5‹ü "l	Ú6€3’T* 2,,#($`D ^W(	F BOv6(#*?$3 6=!5?1S	9';6+ C%_"!3K5;\!#$)" Ç ¼÷	Áwó½ "«	Œ4Ü6Ò&.0!.&D5,(<
 :2T@:B/KRG*/UF!@j&5<aR71ŸS)K)(‰1)c›53OY#%LŒ!,V	5)+516:,>4
-C( "€^?#],08 ^*	å<!Z ·	ïÈï "B	Ò3´>º/>.&0	$	"8=	'9/%75C 94	‚Db	8å,&P ¥	ï`éÄ "8	’8Æ9Â7N*X4JWO/ O,50A9?@6"> 54,³ ìïa› "š	Ô7€;ºXP(:X":*,&*H<H*?>
+C( "€^?#],08 ^*	å<!] ı
+¥ÁšÊ "B	Ò3´>º/>.&0	$	"8=	'9/%75C 94	‚Db	8å,&S ªé
+Á]À© "8	’8Æ9Â7N*X4JWO/ O,50A9?@6"> 54,¶ ¶	à	Á^Ó‡ "š	Ô7€;ºXP(:X":*,&*H<H*?>
 .(04‚!:$!0/%-1%-4	9,.4!%8Ï 	##‘7ı ![
 !
-#/-%0=3W+"?VE0H)LQ6P+~ Ã	ïÀÚ "f	À8ì/ú$"2J&:* 0$(BL c0(/&I&_'#$++1)S#/A1;3 @%ve ßıÚ©é "L	¬:¼3’d4B*,LZ&"	*3,0<\;[W
-%=A!=!]C%J0%' Q ßüÙ¬ƒ "8	È96Â>"">B	&\XD$0<Wi%"3Y+)+uPAE
-K È	ï(Á„"3	<À/ª "2L0$B<!+ (‡
-A3Q!=B*OY ‘	ïÑŒª "@	 ;â1ÚB4ˆ	0:&4<
-F@%|Uˆ?!%YK+A)&SAK'#9"RU â	ï…¼ı "<	€?ò/Ò\d%$64*&d(*p!/#5#+g)]Io
-,";.1K ¨ï¤õö "2	è=Ú1¢^J*h,6$$"0 ÈC[E'ëk3;%/9'O î	ïv½¬"7	ì=¢3²ìl(\FD |4 Z?\;¡iMG
-)@V‡&{?	EL ßöƒİû "3	=Ü6ªNÔN80d<F )@ 4$&!	;/
-=!!'3]Kn à	ï	¬ "V	Ä8„8º,*,4Z&!jZBKDH/1E55*2U"#'IW3 )8M++#@$)'] ßûØ·¼ "D	®;À:ò0J$&*B-"5- &< G;G)% +9)!W9$V!1)66FR ßòœŠ ":	È<Â6ÊHV^L(4""> 	<0
- k)'#Q-_/;) [;/A ßñ~ô")	Ü<¤8‚0`R.$(l*i	?2U­c;/* < ßôäò "#	²?°7rN<4"01!*?E c;/9 ßğ}€‚"!	ê?È9j K9 V+E@1
-> ßú×—© "%	@Ğ:z^,
-*!`05SU=CQ-(t[8‡ ¢ï!¡ "o	¤<¢9š®dVFU6	;,(D8$ $4=%2>0#11)e/'-	= @ )%;.6.!A)#%I/0CGLA… ßï|â§"m	Œ<ª?Ê22$-<@.6™ W 57-.0&"/ #"9	ìåª%&,U]J'5&3 
-V5,U :Lq 	ğà›Ï "X	˜=ö<ÂdX<6202D	)9P   +$6e 17?-;.#$/=&1> 3#7#o 	ïß‹ "V	¬>®;º.DR>N4-(<
+#/-%0=3W+"?VE0H)LQ6P+ ³
+ÄÁ”µ "f	À8ì/ú$"2J&:* 0$(BL c0(/&I&_'#$++1)S#/A1;3 @%vh À»	ÏÔÿÊ "L	¬:¼3’d4B*,LZ&"	*3,0<\;[W
+%=A!=!]C%J0%' T º»	ÎÓ‚ì "8	È96Â>"">B	&\XD$0<Wi%"3Y+)+uPAE
+N “	ĞÁ(•İ"3	<À/ª "2L0$B<!+ (‡
+A3Q!=B*O\ Œ¿
+ÁËã– "@	 ;â1ÚB4ˆ	0:&4<
+F@%|Uˆ?!%YK+A)&SAK'#9"RX ğ‹Áş”İ "<	€?ò/Ò\d%$64*&d(*p!/#5#+g)]Io
+,";.1N ¼	’ÁÌ× "2	è=Ú1¢^J*h,6$$"0 ÈC[E'ëk3;%/9'R ì	«Ás•˜"7	ì=¢3²ìl(\FD |4 Z?\;¡iMG
+)@V‡&{?	EO é»	È€µä "3	=Ü6ªNÔN80d<F )@ 4$&!	;/
+=!!'3]Kq µ‡Á	ôŠ "V	Ä8„8º,*,4Z&!jZBKDH/1E55*2U"#'IW3 )8M++#@$)'` ¶»	ÍÒ¨ "D	®;À:ò0J$&*B-"5- &< G;G)% +9)!W9$V!1)66FU Ğ»	Ä|óê ":	È<Â6ÊHV^L(4""> 	<0
+ k)'#Q-_/;) [;/D È»	Ã{áÕ")	Ü<¤8‚0`R.$(l*i	?2U­c;/* > Û»	Æ~¶Û "#	²?°7rN<4"01!*?E c;/< Ä»	ÂzÒÛ"!	ê?È9j K9 V+E@1
+A ±»	ÌÑî "%	@Ğ:z^,
+*!`05SU=CQ-(t[8Š Ï
+Á!á€ "o	¤<¢9š®dVFU6	;,(D8$ $4=%2>0#11)e/'-	= @ )%;.6.!A)#%I/0CGLAˆ ›»	Áyº“"m	Œ<ª?Ê22$-<@.6™ W 57-.0&"/ #"9	ìåª%&,U]J'5&3 
+V5,U :Lt ÌØ
+ÂÚò« "X	˜=ö<ÂdX<6202D	)9P   +$6e 17?-;.#$/=&1> 3#7#r ÅØ
+ÁÙİ‚ "V	¬>®;º.DR>N4-(<
  0" &,(\4%7#=I
-C1/15;cW1'<+4 2 ¾ïƒ‘Ê "	cŞ>JPV.RQG ™) ğ	ïb°Ô"	;Ê@*R
-F¿  6 ñï—Ï¶"	dÖ?Z*&*6 .,"‹ 	EQf ù	ïœ«Ü"M	¬¼>’F. 'F0"7.74½ +!-5 ):;8(
-B>!E"B$@32$:7(# •	ï–¹"	ü˜A T ¡	ğ•˜Â";	 ê=Ê:Z.2(HXB
+C1/15;cW1'<+4 5 ìßÁóè® "	cŞ>JPV.RQG ™, Æ
+µÁ_†°"	;Ê@*R
+F¿  9 ¤
+ê	Á”§¢"	dÖ?Z*&*6 .,"‹ 	EQi Ì
+ÉÁ•È"M	¬¼>’F. 'F0"7.74½ +!-5 ):;8(
+B>!E"B$@32$:7(& Ã
+Áè—"	ü˜A W ğ	à
+Âï®";	 ê=Ê:Z.2(HXB
 0&LW/Q,
-‰  ;88-!/(E3/2%F+ ¡	ï”ãÊ"	ÌÖ@*X0 Á 	= àşï­›"$	ÄØ>r *9D(D$#""£ 6WG3D+A ÄïUí÷")	ºÌ>‚b RN6å !$!#'C:C7Dx# ¿	ïpŠ³ "	Œ˜A } ùï"á‘ "e	ö¶<ò L%R!!Hr3HX(%P $f>5P&	 <2(N2*> 0Á KK #-+I]L-p20&""8C m= Ä	ïû¶Ò "$	à%Æ?r*6(d`» a$J1
-d ÀïÒ´ù "K	Ä*î<ŠtB\:&,0 **& &&B,@ 4Ï c_')53t80!(YB?J;ra ¼	ïúß° "H	Ü,Î=òºRVŠ.:D 86&0:(>
-$"§  3?+A%%%)) '3- §	ïo²Í "	¼7ò@2$
-‘ 8’Z ËïcàŠ"B	®:¬?‚2&.86 Ù &7"3+-:
-3	Òä	š "582J ¿ó˜¿‰"1	Ò@ä¢N2 ¢1B	AG49Y.IGO --KG H&+ ¿ò—î¨ "	 A´
-* âM1 KI_: ¿ğ–şÀ"!	ˆA°b ¶9- OŸ--#E'~ ãò‹Áª "e	 @Èê4.P"6 Ö
+‰  ;88-!/(E3/2%F. í	à
+Á»¶"	ÌÖ@*X0 Á 	@ Ç¿	Ğèƒô"$	ÄØ>r *9D(D$#""£ 6WG3D+D Ü	ìÁS¿à")	ºÌ>‚b RN6å !$!#'C:C7Dx&  »ÁmÜ˜ "	Œ˜A € œù	Á"³ê "e	ö¶<ò L%R!!Hr3HX(%P $f>5P&	 <2(N2*> 0Á KK #-+I]L-p20&""8C m@ ¤ÉÁëµ "$	à%Æ?r*6(d`» a$J1
+g Ê	åÁÉŒÙ "K	Ä*î<ŠtB\:&,0 **& &&B,@ 4Ï c_')53t80!(YB?J;rd ¸
+±Áó±• "H	Ü,Î=òºRVŠ.:D 86&0:(>
+$"§  3?+A%%%)) '30 ‹î
+ÁlŠ¹ "	¼7ò@2$
+‘ 8’] Ô
+şÁ`²ò"B	®:¬?‚2&.86 Ù &7"3+-:
+3	Òä	š "582M ÷
+äÅ‘“é"1	Ò@ä¢N2 ¢1B	AG49Y.IGO --KG H&. ğ
+äÄÀ‡ "	 A´
+* âM1 KI_= ä
+äÂÕ¥"!	ˆA°b ¶9- OŸ--#E' ‚Â	Ä„•ˆ "e	 @Èê4.P"6 Ö
 
-@. î"9“-''?Ky	1W)!S7!	9-/<OLR>B'91#,]=E Û	ïçÃ ",	 Aº" Š-	?		çZ5!O-3(*% I ×	ğ’ìû "0	 A²š ô#93
-3;	#I -!>›IIX @ ×	ñ“¼Ø "'	¶@†$z	4:4$ ö9K3! ?[£,GD íòº“Ô"+	â@ø+Š>Z  Q755> 1'
-7E Èï\µõ "-	¨?¼.’86  R ÚC7/A#3& íğ¸"	 AÚ+ x=Y4> ¶	ï^å©"&	î?†0z8D  î/'%c)53#& G$ Í	ğ„¶"	 Aş5 H33 ßõ‚Î¼ "	 A 7J ê+,/!3A ß÷„„¤ "(	‚@à9‚"( 6
+@. î"9“-''?Ky	1W)!S7!	9-/<OLR>B'91#,]=H ¨ÿÁú¾  ",	 Aº" Š-	?		çZ5!O-3(*% L õ
+ûÂÃÛ "0	 A²š ô#93
+3;	#I -!>›IIX C ú
+ûÃ”Ä "'	¶@†$z	4:4$ ö9K3! ?[£,GG ™
+ã	Ä³ê·"+	â@ø+Š>Z  Q755> 1'
+7H …úÁYÖ "-	¨?¼.’86  R ÚC7/A#3) 
+ã	Â±Ø‰"	 AÚ+ x=Y4A ›
+ Á[·•"&	î?†0z8D  î/'%c)53#& G' 	ŞÂıö"	 Aş5 H35 à»	Ç ¡ "	 A 7J ê+,/!3D î»	ÉÖ‰ "(	‚@à9‚"( 6
 G!
-7V%+&5 ßùÖƒÛ "	Ü@Ş:RD  ÌK6/"_	)	4 ßó€‚¿ "	„Aô8R j%/3# 2"3 ßøÕ¡« "	Ø@Ø9J & ŠC 5'> óï$ÀÅ"&	€@¸<zTL „!E%!/ ;	.'30 Øïå "	¸@Æ>BF" ôA3['E  	ğm¿Ğ "-	ª?¢?’J>$&86"
- "Û 5#,:O*)  	ïl‡€ "	Ş@¨@*B <	!5
+7V%+&8 ¬»	ËĞÚ½ "	Ü@Ş:RD  ÌK6/"_	)	6 Õ»	Å}Ù« "	„Aô8R j%/3# 2"6 ¤»	ÊÏø— "	Ø@Ø9J & ŠC 5'A ·	ò	Á$˜±"&	€@¸<zTL „!E%!/ ;	.'33 £	§	Á·Ú "	¸@Æ>BF" ôA3['H ´
+İ
+Âj—¬ "-	ª?¢?’J>$&86"
+ "Û 5#,:O*, ­
+İ
+ÁiŞÙ "	Ş@¨@*B <	!5
