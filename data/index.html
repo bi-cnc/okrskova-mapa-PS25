@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Okrsková mapa – výsledky 2021</title>
+  <link href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css" rel="stylesheet"/>
+  <style>
+    body { margin: 0; padding: 0; }
+    h2 { margin: 10px; }
+    #map-container {
+      position: relative;
+      width: 100%;
+      height: 90vh;
+      min-height: 600px;
+    }
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+    .legend {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+        background: white;
+        padding: 12px 14px;
+        line-height: 1.6em;
+        font-size: 13px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+        z-index: 9999;
+    }
+    .legend-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 4px;
+    }
+    .legend-item:last-child {
+        margin-bottom: 0;
+    }
+    .legend-color {
+        width: 14px;
+        height: 14px;
+        border-radius: 50%;
+        margin-right: 8px;
+        flex-shrink: 0;
+        border: 1px solid #ccc;
+    }
+    .maplibregl-popup-content {
+      max-width: 250px;
+      max-height: 300px;
+      overflow-y: auto;
+      font-size: 14px;
+      line-height: 1.4em;
+    }
+  </style>
+</head>
+<body>
+  <h2>Okrsková mapa – vítězné strany</h2>
+  <div id="map-container">
+    <div id="map"></div>
+    <div id="legend" class="legend"></div>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
+  <script>
+    const colors = {
+      "ANO": "#3F3080",
+      "ČSSD": "#f77d02",
+      "KSČM": "#FF0000",
+      "Piráti+STAN": "#010E17",
+      "PŘÍSAHA": "#00B9F2",
+      "SPD": "#4B1D04",
+      "SPOLU": "#0a59f7",
+      "TSS": "#f70ad8",
+      "Volný blok": "#c4c0c4"
+    };
+
+    const map = new maplibregl.Map({
+      container: 'map',
+      style: {
+        version: 8,
+        sources: {
+          osm: {
+            type: "raster",
+            tiles: [
+              "https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
+            ],
+            tileSize: 256,
+            attribution: "&copy; <a href='https://www.openstreetmap.org/'>OSM</a> contributors &copy; <a href='https://carto.com/'>CARTO</a>"
+          },
+          okrsky: {
+            type: "vector",
+            tiles: [
+              "https://bi-cnc.github.io/okrskova-mapa-PS25/okrsky_tiles/{z}/{x}/{y}.pbf"
+            ],
+            minzoom: 6,
+            maxzoom: 14
+          }
+        },
+        layers: [
+          { id: "osm", type: "raster", source: "osm" },
+          {
+            id: "okrsky-fill",
+            type: "fill",
+            source: "okrsky",
+            "source-layer": "mapa_okrsku",
+            paint: {
+              "fill-color": [
+                "match",
+                ["get", "Vítěz"],
+                "ANO", colors["ANO"],
+                "ČSSD", colors["ČSSD"],
+                "KSČM", colors["KSČM"],
+                "Piráti+STAN", colors["Piráti+STAN"],
+                "PŘÍSAHA", colors["PŘÍSAHA"],
+                "SPD", colors["SPD"],
+                "SPOLU", colors["SPOLU"],
+                "TSS", colors["TSS"],
+                "Volný blok", colors["Volný blok"],
+                "#CCCCCC"
+              ],
+              "fill-opacity": 0.7
+            }
+          },
+          {
+            id: "okrsky-outline",
+            type: "line",
+            source: "okrsky",
+            "source-layer": "mapa_okrsku",
+            paint: { "line-color": "#EDEDED", "line-width": 0.1 }
+          }
+        ]
+      },
+      center: [15.5, 49.8],
+      zoom: 7,
+      minZoom: 6
+    });
+
+    // Bounds ČR
+    const czechBounds = [
+      [12.09, 48.55],
+      [18.86, 51.06]
+    ];
+
+    map.on('load', () => {
+      map.resize();
+      map.fitBounds(czechBounds, {
+        padding: 20,
+        maxZoom: 10,
+        duration: 0
+      });
+      map.setMaxBounds(czechBounds);
+
+      // Highlight source
+      map.addSource('highlight', {
+        type: 'geojson',
+        data: { "type": "FeatureCollection", "features": [] }
+      });
+
+      // Highlight layer
+      map.addLayer({
+        id: 'highlight-outline',
+        type: 'line',
+        source: 'highlight',
+        paint: {
+          'line-color': '#EDEDED', 
+          'line-width': 1.5,
+          'line-opacity': 0.9
+        }
+      });
+    });
+
+    // Tooltip + highlight
+    const popup = new maplibregl.Popup({ closeButton: false, closeOnClick: true });
+    map.on('click', 'okrsky-fill', (e) => {
+      const feature = e.features[0];
+
+      // Update highlight
+      map.getSource('highlight').setData(feature);
+
+      // popup
+      const props = feature.properties;
+      const content = `
+        <div style="font-size:14px; line-height:1.4em;">
+          <p style="margin-top:0; font-size:16px; font-weight:bold; margin-bottom:6px;">
+            ${props["Název okrsku"] || '-'}
+          </p>
+          <p><strong>Obec/Městská část:</strong> ${props["Obec/Městská část"] || '-'}</p>
+          <p><strong>Volební účast:</strong> ${props["Volební účast (v %)"] || '-'} %</p>
+          <p><strong>Výsledek:</strong> ${props["Výsledek"] || '-'}</p>
+        </div>`;
+      popup.setLngLat(e.lngLat).setHTML(content).addTo(map);
+    });
+
+    // Legenda
+    const legend = document.getElementById('legend');
+    Object.keys(colors).forEach(party => {
+    const item = document.createElement('div');
+    item.className = 'legend-item';
+
+    const colorCircle = document.createElement('span');
+    colorCircle.className = 'legend-color';
+    colorCircle.style.backgroundColor = colors[party];
+
+    const label = document.createElement('span');
+    label.textContent = party;
+
+    item.appendChild(colorCircle);
+    item.appendChild(label);
+    legend.appendChild(item);
+    });
+
+    window.addEventListener('resize', () => map.resize());
+  </script>
+</body>
+</html>
