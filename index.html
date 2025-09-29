@@ -7,20 +7,29 @@
   <style>
     body { margin: 0; padding: 0; }
     h2 { margin: 10px; }
+    
+    /* Nový kontejner pro seskupení mapy a legendy */
+    #main-content {
+      display: flex; 
+      flex-direction: column; /* Uspořádá mapu a legendu pod sebe */
+      width: 100%;
+    }
+
     #map-container {
       position: relative;
       width: 100%;
-      height: 90vh;
-      min-height: 600px;
+      height: 75vh; /* Upravená výška, aby se pod mapu vešla legenda */
+      min-height: 500px;
     }
+
     #map {
       width: 100%;
       height: 100%;
     }
+
     .legend {
-        position: absolute;
-        bottom: 20px;
-        right: 20px;
+        /* Odstraněny absolutní pozice (top, right, z-index) */
+        position: static; 
         background: white;
         padding: 12px 14px;
         line-height: 1.6em;
@@ -28,16 +37,26 @@
         border: 1px solid #ddd;
         border-radius: 6px;
         box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-        z-index: 9999;
+        margin: 20px auto; /* Centrování legendy pod mapou a mezera */
+        max-width: 95%; 
+
+        /* Flexbox pro horizontální uspořádání položek legendy */
+        display: flex;
+        flex-wrap: wrap; /* Umožní zalomení na další řádek, pokud je málo místa */
+        justify-content: flex-start; /* Zarovnání položek doleva */
     }
+
     .legend-item {
         display: flex;
         align-items: center;
-        margin-bottom: 4px;
+        margin-right: 15px; /* Mezera mezi horizontálními položkami */
+        margin-bottom: 8px; /* Mezera mezi řádky v případě zalomení */
     }
+
     .legend-item:last-child {
-        margin-bottom: 0;
+        margin-right: 0;
     }
+
     .legend-color {
         width: 14px;
         height: 14px;
@@ -46,6 +65,7 @@
         flex-shrink: 0;
         border: 1px solid #ccc;
     }
+
     .maplibregl-popup-content {
       max-width: 250px;
       max-height: 300px;
@@ -57,10 +77,10 @@
 </head>
 <body>
   <h2>Okrsková mapa – vítězné strany</h2>
-  <div id="map-container">
-    <div id="map"></div>
-    <div id="legend" class="legend"></div>
-  </div>
+  <div id="main-content"> <div id="map-container">
+      <div id="map"></div>
+    </div>
+    <div id="legend" class="legend"></div> </div>
 
   <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
   <script>
