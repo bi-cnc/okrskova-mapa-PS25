@@ -8,62 +8,20 @@
     body { margin: 0; padding: 0; }
     h2 { margin: 10px; }
     
-    /* Nový kontejner pro seskupení mapy a legendy */
     #main-content {
-      display: flex; 
-      flex-direction: column; /* Uspořádá mapu a legendu pod sebe */
       width: 100%;
     }
 
     #map-container {
       position: relative;
       width: 100%;
-      height: 100vh; /* Upravená výška, aby se pod mapu vešla legenda */
+      height: 100vh; /* mapa přes celou výšku */
       min-height: 500px;
     }
 
     #map {
       width: 100%;
       height: 100%;
-    }
-
-    .legend {
-        /* Odstraněny absolutní pozice (top, right, z-index) */
-        position: static; 
-        background: white;
-        padding: 12px 14px;
-        line-height: 1.6em;
-        font-size: 16px;
-        border: 1px solid #ddd;
-        border-radius: 6px;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-        margin: 20px auto; /* Centrování legendy pod mapou a mezera */
-        max-width: 95%; 
-
-        /* Flexbox pro horizontální uspořádání položek legendy */
-        display: flex;
-        flex-wrap: wrap; /* Umožní zalomení na další řádek, pokud je málo místa */
-        justify-content: flex-start; /* Zarovnání položek doleva */
-    }
-
-    .legend-item {
-        display: flex;
-        align-items: center;
-        margin-right: 15px; /* Mezera mezi horizontálními položkami */
-        margin-bottom: 8px; /* Mezera mezi řádky v případě zalomení */
-    }
-
-    .legend-item:last-child {
-        margin-right: 0;
-    }
-
-    .legend-color {
-        width: 14px;
-        height: 14px;
-        border-radius: 50%;
-        margin-right: 8px;
-        flex-shrink: 0;
-        border: 1px solid #ccc;
     }
 
     .maplibregl-popup-content {
@@ -76,11 +34,12 @@
   </style>
 </head>
 <body>
-  <div id="main-content"> <div id="map-container">
+  <div id="main-content">
+    <div id="map-container">
       <div id="map"></div>
     </div>
-   <!-- <div id="legend" class="legend"></div> -->
-    
+  </div>
+
   <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
   <script>
     const colors = {
@@ -211,26 +170,6 @@
         </div>`;
       popup.setLngLat(e.lngLat).setHTML(content).addTo(map);
     });
-
-    /*
-    // Legenda
-    const legend = document.getElementById('legend');
-    Object.keys(colors).forEach(party => {
-      const item = document.createElement('div');
-      item.className = 'legend-item';
-    
-      const colorCircle = document.createElement('span');
-      colorCircle.className = 'legend-color';
-      colorCircle.style.backgroundColor = colors[party];
-    
-      const label = document.createElement('span');
-      label.textContent = party;
-    
-      item.appendChild(colorCircle);
-      item.appendChild(label);
-      legend.appendChild(item);
-    });
-    */
 
     window.addEventListener('resize', () => map.resize());
   </script>
