@@ -212,23 +212,25 @@
       popup.setLngLat(e.lngLat).setHTML(content).addTo(map);
     });
 
+    /*
     // Legenda
     const legend = document.getElementById('legend');
     Object.keys(colors).forEach(party => {
-    const item = document.createElement('div');
-    item.className = 'legend-item';
-
-    const colorCircle = document.createElement('span');
-    colorCircle.className = 'legend-color';
-    colorCircle.style.backgroundColor = colors[party];
-
-    const label = document.createElement('span');
-    label.textContent = party;
-
-    item.appendChild(colorCircle);
-    item.appendChild(label);
-    legend.appendChild(item);
+      const item = document.createElement('div');
+      item.className = 'legend-item';
+    
+      const colorCircle = document.createElement('span');
+      colorCircle.className = 'legend-color';
+      colorCircle.style.backgroundColor = colors[party];
+    
+      const label = document.createElement('span');
+      label.textContent = party;
+    
+      item.appendChild(colorCircle);
+      item.appendChild(label);
+      legend.appendChild(item);
     });
+    */
 
     window.addEventListener('resize', () => map.resize());
   </script>
